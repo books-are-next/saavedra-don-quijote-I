@@ -1,1 +1,1243 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "title": "Důmyslný rytíř Don Quijote de la Mancha I",
+      "identifier": "1ca88f13-4112-454b-8c7e-e9e479a746dc",
+      "author": "Miguel de Cervantes Saavedra",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-02-11T13:39:02.473Z",
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "mlpuroven1cast mlpuroven1zvlastnipripady",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "don_quijote_de_la_mancha_001.md",
+            "xhtml": "don_quijote_de_la_mancha_001.html",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_002.md",
+            "xhtml": "don_quijote_de_la_mancha_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_003.md",
+            "xhtml": "don_quijote_de_la_mancha_003.html",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_004.md",
+            "xhtml": "don_quijote_de_la_mancha_004.html",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_005.md",
+            "xhtml": "don_quijote_de_la_mancha_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_006.md",
+            "xhtml": "don_quijote_de_la_mancha_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_007.md",
+            "xhtml": "don_quijote_de_la_mancha_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_008.md",
+            "xhtml": "don_quijote_de_la_mancha_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_009.md",
+            "xhtml": "don_quijote_de_la_mancha_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_010.md",
+            "xhtml": "don_quijote_de_la_mancha_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_011.md",
+            "xhtml": "don_quijote_de_la_mancha_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_012.md",
+            "xhtml": "don_quijote_de_la_mancha_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_013.md",
+            "xhtml": "don_quijote_de_la_mancha_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_014.md",
+            "xhtml": "don_quijote_de_la_mancha_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_015.md",
+            "xhtml": "don_quijote_de_la_mancha_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_016.md",
+            "xhtml": "don_quijote_de_la_mancha_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_017.md",
+            "xhtml": "don_quijote_de_la_mancha_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_018.md",
+            "xhtml": "don_quijote_de_la_mancha_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_019.md",
+            "xhtml": "don_quijote_de_la_mancha_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_020.md",
+            "xhtml": "don_quijote_de_la_mancha_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_021.md",
+            "xhtml": "don_quijote_de_la_mancha_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_022.md",
+            "xhtml": "don_quijote_de_la_mancha_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_023.md",
+            "xhtml": "don_quijote_de_la_mancha_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_024.md",
+            "xhtml": "don_quijote_de_la_mancha_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_025.md",
+            "xhtml": "don_quijote_de_la_mancha_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_026.md",
+            "xhtml": "don_quijote_de_la_mancha_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_027.md",
+            "xhtml": "don_quijote_de_la_mancha_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_028.md",
+            "xhtml": "don_quijote_de_la_mancha_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_029.md",
+            "xhtml": "don_quijote_de_la_mancha_029.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_030.md",
+            "xhtml": "don_quijote_de_la_mancha_030.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_031.md",
+            "xhtml": "don_quijote_de_la_mancha_031.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_032.md",
+            "xhtml": "don_quijote_de_la_mancha_032.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_033.md",
+            "xhtml": "don_quijote_de_la_mancha_033.html",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_034.md",
+            "xhtml": "don_quijote_de_la_mancha_034.html",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_035.md",
+            "xhtml": "don_quijote_de_la_mancha_035.html",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_036.md",
+            "xhtml": "don_quijote_de_la_mancha_036.html",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_037.md",
+            "xhtml": "don_quijote_de_la_mancha_037.html",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_038.md",
+            "xhtml": "don_quijote_de_la_mancha_038.html",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_039.md",
+            "xhtml": "don_quijote_de_la_mancha_039.html",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_040.md",
+            "xhtml": "don_quijote_de_la_mancha_040.html",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_041.md",
+            "xhtml": "don_quijote_de_la_mancha_041.html",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_042.md",
+            "xhtml": "don_quijote_de_la_mancha_042.html",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_043.md",
+            "xhtml": "don_quijote_de_la_mancha_043.html",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_044.md",
+            "xhtml": "don_quijote_de_la_mancha_044.html",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_045.md",
+            "xhtml": "don_quijote_de_la_mancha_045.html",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_046.md",
+            "xhtml": "don_quijote_de_la_mancha_046.html",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_047.md",
+            "xhtml": "don_quijote_de_la_mancha_047.html",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_048.md",
+            "xhtml": "don_quijote_de_la_mancha_048.html",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_049.md",
+            "xhtml": "don_quijote_de_la_mancha_049.html",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_050.md",
+            "xhtml": "don_quijote_de_la_mancha_050.html",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_051.md",
+            "xhtml": "don_quijote_de_la_mancha_051.html",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_052.md",
+            "xhtml": "don_quijote_de_la_mancha_052.html",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_053.md",
+            "xhtml": "don_quijote_de_la_mancha_053.html",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_054.md",
+            "xhtml": "don_quijote_de_la_mancha_054.html",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_055.md",
+            "xhtml": "don_quijote_de_la_mancha_055.html",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_056.md",
+            "xhtml": "don_quijote_de_la_mancha_056.html",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_057.md",
+            "xhtml": "don_quijote_de_la_mancha_057.html",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_058.md",
+            "xhtml": "don_quijote_de_la_mancha_058.html",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_059.md",
+            "xhtml": "don_quijote_de_la_mancha_059.html",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_060.md",
+            "xhtml": "don_quijote_de_la_mancha_060.html",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_061.md",
+            "xhtml": "don_quijote_de_la_mancha_061.html",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_062.md",
+            "xhtml": "don_quijote_de_la_mancha_062.html",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_063.md",
+            "xhtml": "don_quijote_de_la_mancha_063.html",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_064.md",
+            "xhtml": "don_quijote_de_la_mancha_064.html",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_065.md",
+            "xhtml": "don_quijote_de_la_mancha_065.html",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "don_quijote_de_la_mancha_066.md",
+            "xhtml": "don_quijote_de_la_mancha_066.html",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Důmyslný rytíř Don Quijote de la Mancha I",
+      "identifier": "1ca88f13-4112-454b-8c7e-e9e479a746dc",
+      "author": "Miguel de Cervantes Saavedra",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-02-11T13:39:02.473Z",
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_001.md",
+        "xhtml": "don_quijote_de_la_mancha_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_002.md",
+        "xhtml": "don_quijote_de_la_mancha_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_003.md",
+        "xhtml": "don_quijote_de_la_mancha_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_004.md",
+        "xhtml": "don_quijote_de_la_mancha_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_005.md",
+        "xhtml": "don_quijote_de_la_mancha_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_006.md",
+        "xhtml": "don_quijote_de_la_mancha_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_007.md",
+        "xhtml": "don_quijote_de_la_mancha_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_008.md",
+        "xhtml": "don_quijote_de_la_mancha_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_009.md",
+        "xhtml": "don_quijote_de_la_mancha_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_010.md",
+        "xhtml": "don_quijote_de_la_mancha_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_011.md",
+        "xhtml": "don_quijote_de_la_mancha_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_012.md",
+        "xhtml": "don_quijote_de_la_mancha_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_013.md",
+        "xhtml": "don_quijote_de_la_mancha_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_014.md",
+        "xhtml": "don_quijote_de_la_mancha_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_015.md",
+        "xhtml": "don_quijote_de_la_mancha_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_016.md",
+        "xhtml": "don_quijote_de_la_mancha_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_017.md",
+        "xhtml": "don_quijote_de_la_mancha_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_018.md",
+        "xhtml": "don_quijote_de_la_mancha_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_019.md",
+        "xhtml": "don_quijote_de_la_mancha_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_020.md",
+        "xhtml": "don_quijote_de_la_mancha_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_021.md",
+        "xhtml": "don_quijote_de_la_mancha_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_022.md",
+        "xhtml": "don_quijote_de_la_mancha_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_023.md",
+        "xhtml": "don_quijote_de_la_mancha_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_024.md",
+        "xhtml": "don_quijote_de_la_mancha_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_025.md",
+        "xhtml": "don_quijote_de_la_mancha_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_026.md",
+        "xhtml": "don_quijote_de_la_mancha_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_027.md",
+        "xhtml": "don_quijote_de_la_mancha_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_028.md",
+        "xhtml": "don_quijote_de_la_mancha_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_029.md",
+        "xhtml": "don_quijote_de_la_mancha_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_030.md",
+        "xhtml": "don_quijote_de_la_mancha_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_031.md",
+        "xhtml": "don_quijote_de_la_mancha_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_032.md",
+        "xhtml": "don_quijote_de_la_mancha_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_033.md",
+        "xhtml": "don_quijote_de_la_mancha_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_034.md",
+        "xhtml": "don_quijote_de_la_mancha_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_035.md",
+        "xhtml": "don_quijote_de_la_mancha_035.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_036.md",
+        "xhtml": "don_quijote_de_la_mancha_036.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_037.md",
+        "xhtml": "don_quijote_de_la_mancha_037.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_038.md",
+        "xhtml": "don_quijote_de_la_mancha_038.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_039.md",
+        "xhtml": "don_quijote_de_la_mancha_039.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_040.md",
+        "xhtml": "don_quijote_de_la_mancha_040.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_041.md",
+        "xhtml": "don_quijote_de_la_mancha_041.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_042.md",
+        "xhtml": "don_quijote_de_la_mancha_042.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_043.md",
+        "xhtml": "don_quijote_de_la_mancha_043.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_044.md",
+        "xhtml": "don_quijote_de_la_mancha_044.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_045.md",
+        "xhtml": "don_quijote_de_la_mancha_045.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_046.md",
+        "xhtml": "don_quijote_de_la_mancha_046.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_047.md",
+        "xhtml": "don_quijote_de_la_mancha_047.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_048.md",
+        "xhtml": "don_quijote_de_la_mancha_048.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_049.md",
+        "xhtml": "don_quijote_de_la_mancha_049.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_050.md",
+        "xhtml": "don_quijote_de_la_mancha_050.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_051.md",
+        "xhtml": "don_quijote_de_la_mancha_051.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_052.md",
+        "xhtml": "don_quijote_de_la_mancha_052.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_053.md",
+        "xhtml": "don_quijote_de_la_mancha_053.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_054.md",
+        "xhtml": "don_quijote_de_la_mancha_054.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_055.md",
+        "xhtml": "don_quijote_de_la_mancha_055.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_056.md",
+        "xhtml": "don_quijote_de_la_mancha_056.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_057.md",
+        "xhtml": "don_quijote_de_la_mancha_057.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_058.md",
+        "xhtml": "don_quijote_de_la_mancha_058.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_059.md",
+        "xhtml": "don_quijote_de_la_mancha_059.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_060.md",
+        "xhtml": "don_quijote_de_la_mancha_060.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_061.md",
+        "xhtml": "don_quijote_de_la_mancha_061.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_062.md",
+        "xhtml": "don_quijote_de_la_mancha_062.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_063.md",
+        "xhtml": "don_quijote_de_la_mancha_063.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_064.md",
+        "xhtml": "don_quijote_de_la_mancha_064.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_065.md",
+        "xhtml": "don_quijote_de_la_mancha_065.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_de_la_mancha_066.md",
+        "xhtml": "don_quijote_de_la_mancha_066.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/kniha1.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/kniha2.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/predmluva.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre1",
+      "calibre12",
+      "calibre13",
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre18",
+      "calibre19",
+      "calibre22",
+      "calibre23",
+      "calibre24",
+      "calibre25",
+      "calibre26",
+      "calibre27",
+      "calibre28",
+      "calibre30",
+      "calibre31",
+      "calibre5",
+      "calibre7",
+      "calibre8",
+      "calibre9",
+      "mlpdopis",
+      "mlpdopisbez1radku",
+      "mlpdopispodpisi",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlptext",
+      "mlptext1",
+      "mlptext2",
+      "mlptext3",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radkui",
+      "mlptextbez1radkui1",
+      "mlptextdopravai",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven1cast",
+      "mlpuroven1zvlastnipripady",
+      "mlpvenovanicxspfirst",
+      "mlpvenovanicxspmiddle",
+      "mlpverse",
+      "mlpversei",
+      "mlpznakkurziva11b",
+      "mlpznaktucne",
+      "msofootnotereference",
+      "msonormal1",
+      "pcalibre",
+      "pcalibre1",
+      "text",
+      "textpoznpodarouchar",
+      "wordsection1",
+      "wordsection10",
+      "wordsection11",
+      "wordsection3",
+      "wordsection5",
+      "wordsection7",
+      "wordsection8"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "saavedra-don-quijote-I"
+    },
+    "generatedAt": 1644586743195
+  }
+}
