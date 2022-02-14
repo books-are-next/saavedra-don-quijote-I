@@ -1,0 +1,1309 @@
+{
+  "author": "Miguel de Cervantes Saavedra",
+  "edition": "beletrie",
+  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-d208b11",
+  "languagecode": "cs",
+  "modified": "2022-02-11T13:39:02.473Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Důmyslný rytíř Don Quijote de la Mancha I",
+  "revision": "d208b11",
+  "generatedAt": {
+    "date": "Mon Feb 14 2022 12:46:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644842792034
+  },
+  "documents": [
+    {
+      "title": "Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "don_quijote_de_la_mancha_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CERVANTES A JEHO DON QUIJOTE • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_005.html",
+      "words": 7103,
+      "chars": 45656,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 1,
+      "prev": "don_quijote_de_la_mancha_002.html",
+      "next": "don_quijote_de_la_mancha_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CERVANTES A JEHO DON QUIJOTE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_006.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 2,
+      "prev": "don_quijote_de_la_mancha_005.html",
+      "next": "don_quijote_de_la_mancha_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA\nPRVNÍ • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_007.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "don_quijote_de_la_mancha_006.html",
+      "next": "don_quijote_de_la_mancha_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA\nPRVNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_008.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "don_quijote_de_la_mancha_007.html",
+      "next": "don_quijote_de_la_mancha_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_009.html",
+      "words": 149,
+      "chars": 970,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 5,
+      "prev": "don_quijote_de_la_mancha_008.html",
+      "next": "don_quijote_de_la_mancha_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PŘEDMLUVA • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_010.html",
+      "words": 1993,
+      "chars": 12019,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 6,
+      "prev": "don_quijote_de_la_mancha_009.html",
+      "next": "don_quijote_de_la_mancha_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PŘEDMLUVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nI.,\njež líčí stav a působení slavného rytíře dona Quijota de la Mancha. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_011.html",
+      "words": 1512,
+      "chars": 8852,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 7,
+      "prev": "don_quijote_de_la_mancha_010.html",
+      "next": "don_quijote_de_la_mancha_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nI.,\njež líčí stav a působení slavného rytíře dona Quijota de la Mancha.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nII.,\njednající o tom, jak poprvé důmyslný don Quijote opustil domov. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_012.html",
+      "words": 1756,
+      "chars": 10541,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 8,
+      "prev": "don_quijote_de_la_mancha_011.html",
+      "next": "don_quijote_de_la_mancha_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nII.,\njednající o tom, jak poprvé důmyslný don Quijote opustil domov.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nIII.,\nkde se vypravuje, jakým půvabným způsobem byl don Quijote pasován na\nrytíře. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_013.html",
+      "words": 1792,
+      "chars": 10469,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 9,
+      "prev": "don_quijote_de_la_mancha_012.html",
+      "next": "don_quijote_de_la_mancha_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nIII.,\nkde se vypravuje, jakým půvabným způsobem byl don Quijote pasován na\nrytíře.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nIV.\no tom, co se stalo našemu rytíři, když opustil hospodu. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_014.html",
+      "words": 1836,
+      "chars": 10683,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 10,
+      "prev": "don_quijote_de_la_mancha_013.html",
+      "next": "don_quijote_de_la_mancha_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nIV.\no tom, co se stalo našemu rytíři, když opustil hospodu.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA V.,\nkde se pokračuje v líčení nehod našeho rytíře. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_015.html",
+      "words": 1225,
+      "chars": 7095,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 11,
+      "prev": "don_quijote_de_la_mancha_014.html",
+      "next": "don_quijote_de_la_mancha_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA V.,\nkde se pokračuje v líčení nehod našeho rytíře.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nVI.\no vtipné velké přehlídce, již farář a holič vykonali v knihovně našeho\ndůmyslného rytíře. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_016.html",
+      "words": 1950,
+      "chars": 11830,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 12,
+      "prev": "don_quijote_de_la_mancha_015.html",
+      "next": "don_quijote_de_la_mancha_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nVI.\no vtipné velké přehlídce, již farář a holič vykonali v knihovně našeho\ndůmyslného rytíře.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nVII.\no druhé výpravě zdatného našeho rytíře dona Quijota de la Mancha. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_017.html",
+      "words": 1431,
+      "chars": 8423,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 13,
+      "prev": "don_quijote_de_la_mancha_016.html",
+      "next": "don_quijote_de_la_mancha_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nVII.\no druhé výpravě zdatného našeho rytíře dona Quijota de la Mancha.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nVIII.\n o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými\nmlýny a o jiných příhodách, hodných blahé paměti. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_018.html",
+      "words": 2237,
+      "chars": 13030,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 14,
+      "prev": "don_quijote_de_la_mancha_017.html",
+      "next": "don_quijote_de_la_mancha_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nVIII.\no úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými\nmlýny a o jiných příhodách, hodných blahé paměti.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA IX.,\nkde se vylíčí konec strašného boje, který svedli statný Biskajec a odvážný\nManchan. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_019.html",
+      "words": 1525,
+      "chars": 8942,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 15,
+      "prev": "don_quijote_de_la_mancha_018.html",
+      "next": "don_quijote_de_la_mancha_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA IX.,\nkde se vylíčí konec strašného boje, který svedli statný Biskajec a odvážný\nManchan.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA X.\no vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_020.html",
+      "words": 1512,
+      "chars": 8826,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 16,
+      "prev": "don_quijote_de_la_mancha_019.html",
+      "next": "don_quijote_de_la_mancha_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA X.\no vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XI.\no tom, co se donu Quijotovi stalo u pastýřů koz. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_021.html",
+      "words": 1651,
+      "chars": 9630,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 17,
+      "prev": "don_quijote_de_la_mancha_020.html",
+      "next": "don_quijote_de_la_mancha_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XI.\no tom, co se donu Quijotovi stalo u pastýřů koz.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXII.\no tom, co vyprávěl pastýř společníkům dona Quijota. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_022.html",
+      "words": 1793,
+      "chars": 10394,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 18,
+      "prev": "don_quijote_de_la_mancha_021.html",
+      "next": "don_quijote_de_la_mancha_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXII.\no tom, co vyprávěl pastýř společníkům dona Quijota.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XIII.,\nkde se končí příběh pastýřky Marcely i jiné příhody. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_023.html",
+      "words": 2658,
+      "chars": 15918,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 19,
+      "prev": "don_quijote_de_la_mancha_022.html",
+      "next": "don_quijote_de_la_mancha_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XIII.,\nkde se končí příběh pastýřky Marcely i jiné příhody.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXIV.,\nkde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_024.html",
+      "words": 2414,
+      "chars": 13959,
+      "ideas": 164,
+      "role": "chapter",
+      "order": 20,
+      "prev": "don_quijote_de_la_mancha_023.html",
+      "next": "don_quijote_de_la_mancha_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXIV.,\nkde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXV.\no nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských\nsurovců. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_025.html",
+      "words": 2168,
+      "chars": 12588,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 21,
+      "prev": "don_quijote_de_la_mancha_024.html",
+      "next": "don_quijote_de_la_mancha_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXV.\no nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských\nsurovců.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXVI.\no tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_026.html",
+      "words": 2197,
+      "chars": 12996,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 22,
+      "prev": "don_quijote_de_la_mancha_025.html",
+      "next": "don_quijote_de_la_mancha_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXVI.\no tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXVII.,\nkde se pokračuje v nesčetných svízelích statečného dona Quijota a dobrého\nzbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don Quijote měl za\nhrad. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_027.html",
+      "words": 2534,
+      "chars": 14498,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 23,
+      "prev": "don_quijote_de_la_mancha_026.html",
+      "next": "don_quijote_de_la_mancha_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXVII.,\nkde se pokračuje v nesčetných svízelích statečného dona Quijota a dobrého\nzbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don Quijote měl za\nhrad.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXVIII.,\nkde se líčí rozmluva Sancha Panzy s jeho pánem donem Quijotem i jiná\ndobrodružství, hodná vypravování. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_028.html",
+      "words": 3143,
+      "chars": 18195,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 24,
+      "prev": "don_quijote_de_la_mancha_027.html",
+      "next": "don_quijote_de_la_mancha_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXVIII.,\nkde se líčí rozmluva Sancha Panzy s jeho pánem donem Quijotem i jiná\ndobrodružství, hodná vypravování.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXIX.\no bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných slavných\npříbězích. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_029.html",
+      "words": 2156,
+      "chars": 12707,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 25,
+      "prev": "don_quijote_de_la_mancha_028.html",
+      "next": "don_quijote_de_la_mancha_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXIX.\no bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných slavných\npříbězích.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXX. \no nevídaném a neslýchaném dobrodružství, jehož žádný slavný rytíř na\nsvětě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_030.html",
+      "words": 3982,
+      "chars": 23064,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 26,
+      "prev": "don_quijote_de_la_mancha_029.html",
+      "next": "don_quijote_de_la_mancha_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXX.\no nevídaném a neslýchaném dobrodružství, jehož žádný slavný rytíř na\nsvětě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXI., \njež jedná o skvostném dobrodružství, v němž dobyto slavné přilby Mambrinovy,\na o jiných příhodách našeho nepřemožitelného rytíře. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_031.html",
+      "words": 3479,
+      "chars": 19945,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 27,
+      "prev": "don_quijote_de_la_mancha_030.html",
+      "next": "don_quijote_de_la_mancha_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXI.,\njež jedná o skvostném dobrodružství, v němž dobyto slavné přilby Mambrinovy,\na o jiných příhodách našeho nepřemožitelného rytíře.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXII.\no tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně\nvedli, kam se jim nechtělo. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_032.html",
+      "words": 3190,
+      "chars": 18518,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 28,
+      "prev": "don_quijote_de_la_mancha_031.html",
+      "next": "don_quijote_de_la_mancha_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXII.\no tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně\nvedli, kam se jim nechtělo.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXIII.\no příhodě, jež potkala slavného dona Quijota v Sieře Moreně a jež je z nejzvláštnějších\ndobrodružství této pravdivé historie. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_033.html",
+      "words": 3460,
+      "chars": 20110,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 29,
+      "prev": "don_quijote_de_la_mancha_032.html",
+      "next": "don_quijote_de_la_mancha_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXIII.\no příhodě, jež potkala slavného dona Quijota v Sieře Moreně a jež je z nejzvláštnějších\ndobrodružství této pravdivé historie.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXIV.,\nkde se pokračuje v dobrodružství v Sieře Moreně. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_034.html",
+      "words": 2661,
+      "chars": 15556,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 30,
+      "prev": "don_quijote_de_la_mancha_033.html",
+      "next": "don_quijote_de_la_mancha_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXIV.,\nkde se pokračuje v dobrodružství v Sieře Moreně.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXV.,\njednající o tom, co podivuhodného potkalo statečného rytíře z Manchy v Sieře\nMoreně, a o tom, jak napodobil pokání Beltenebrosovo. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_035.html",
+      "words": 4998,
+      "chars": 29092,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 31,
+      "prev": "don_quijote_de_la_mancha_034.html",
+      "next": "don_quijote_de_la_mancha_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXV.,\njednající o tom, co podivuhodného potkalo statečného rytíře z Manchy v Sieře\nMoreně, a o tom, jak napodobil pokání Beltenebrosovo.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXVI.,\nkde se dále líčí, jakých kousků se don Quijote z lásky dopouštěl v Sieře\nMoreně. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_036.html",
+      "words": 2181,
+      "chars": 12323,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 32,
+      "prev": "don_quijote_de_la_mancha_035.html",
+      "next": "don_quijote_de_la_mancha_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXVI.,\nkde se dále líčí, jakých kousků se don Quijote z lásky dopouštěl v Sieře\nMoreně.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXVII.\no tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech,\nhodných, aby o nich tato velká historie vypravovala. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_037.html",
+      "words": 4921,
+      "chars": 28347,
+      "ideas": 94,
+      "role": "chapter",
+      "order": 33,
+      "prev": "don_quijote_de_la_mancha_036.html",
+      "next": "don_quijote_de_la_mancha_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXVII.\no tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech,\nhodných, aby o nich tato velká historie vypravovala.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA\nDRUHÁ • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_038.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 34,
+      "prev": "don_quijote_de_la_mancha_037.html",
+      "next": "don_quijote_de_la_mancha_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA\nDRUHÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_039.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 35,
+      "prev": "don_quijote_de_la_mancha_038.html",
+      "next": "don_quijote_de_la_mancha_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXVIII.,\njež líčí nové a příjemné dobrodružství, které potkalo faráře a holiče v horách. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_040.html",
+      "words": 4292,
+      "chars": 24964,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 36,
+      "prev": "don_quijote_de_la_mancha_039.html",
+      "next": "don_quijote_de_la_mancha_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXVIII.,\njež líčí nové a příjemné dobrodružství, které potkalo faráře a holiče v horách.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXIX.,\njež jedná o vtipné lsti a způsobu, jakými byl náš zamilovaný rytíř\nodlákán od překrutého pokání, jež si byl uložil. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_041.html",
+      "words": 3395,
+      "chars": 19822,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 37,
+      "prev": "don_quijote_de_la_mancha_040.html",
+      "next": "don_quijote_de_la_mancha_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXIX.,\njež jedná o vtipné lsti a způsobu, jakými byl náš zamilovaný rytíř\nodlákán od překrutého pokání, jež si byl uložil.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXX.,\njež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných\nvěcech. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_042.html",
+      "words": 2986,
+      "chars": 17227,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 38,
+      "prev": "don_quijote_de_la_mancha_041.html",
+      "next": "don_quijote_de_la_mancha_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXX.,\njež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných\nvěcech.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXI.\no půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a příhodách\njiných. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_043.html",
+      "words": 2647,
+      "chars": 14880,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 39,
+      "prev": "don_quijote_de_la_mancha_042.html",
+      "next": "don_quijote_de_la_mancha_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXI.\no půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a příhodách\njiných.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXII.,\nkterá jedná o příhodách dona Quijota a celé družiny v hospodě. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_044.html",
+      "words": 1925,
+      "chars": 11135,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 40,
+      "prev": "don_quijote_de_la_mancha_043.html",
+      "next": "don_quijote_de_la_mancha_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXII.,\nkterá jedná o příhodách dona Quijota a celé družiny v hospodě.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXIII.,\nv níž se vypráví povídka o nevhodně zvědavém. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_045.html",
+      "words": 5678,
+      "chars": 33026,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 41,
+      "prev": "don_quijote_de_la_mancha_044.html",
+      "next": "don_quijote_de_la_mancha_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXIII.,\nv níž se vypráví povídka o nevhodně zvědavém.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXIV.,\nv níž se pokračuje v povídce o nevhodné zvědavosti. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_046.html",
+      "words": 4955,
+      "chars": 29520,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 42,
+      "prev": "don_quijote_de_la_mancha_045.html",
+      "next": "don_quijote_de_la_mancha_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXIV.,\nv níž se pokračuje v povídce o nevhodné zvědavosti.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXV.\no zápase statečného a odvážného dona Quijota s několika měchy vína a konec\nhistorie o nevhodně zvědavém. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_047.html",
+      "words": 2123,
+      "chars": 12768,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 43,
+      "prev": "don_quijote_de_la_mancha_046.html",
+      "next": "don_quijote_de_la_mancha_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXV.\no zápase statečného a odvážného dona Quijota s několika měchy vína a konec\nhistorie o nevhodně zvědavém.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXVI.,\nvyprávějící jiné nezvyklé události, které se v hospodě přihodily. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_048.html",
+      "words": 2350,
+      "chars": 13901,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 44,
+      "prev": "don_quijote_de_la_mancha_047.html",
+      "next": "don_quijote_de_la_mancha_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXVI.,\nvyprávějící jiné nezvyklé události, které se v hospodě přihodily.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXVII.\no slavné princezně Micomiconě a mnohých jiných veselých příbězích. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_049.html",
+      "words": 2641,
+      "chars": 15824,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 45,
+      "prev": "don_quijote_de_la_mancha_048.html",
+      "next": "don_quijote_de_la_mancha_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXVII.\no slavné princezně Micomiconě a mnohých jiných veselých příbězích.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXVIII.\no zajímavé řeči dona Quijota o válečnictví a umění. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_050.html",
+      "words": 1003,
+      "chars": 6108,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 46,
+      "prev": "don_quijote_de_la_mancha_049.html",
+      "next": "don_quijote_de_la_mancha_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXVIII.\no zajímavé řeči dona Quijota o válečnictví a umění.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXIX.,\nv níž otrok líčí svůj život a příhody. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_051.html",
+      "words": 2021,
+      "chars": 12018,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 47,
+      "prev": "don_quijote_de_la_mancha_050.html",
+      "next": "don_quijote_de_la_mancha_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXIX.,\nv níž otrok líčí svůj život a příhody.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XL.,\njež obsahuje další vyprávění otrokovo. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_052.html",
+      "words": 3138,
+      "chars": 18483,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 48,
+      "prev": "don_quijote_de_la_mancha_051.html",
+      "next": "don_quijote_de_la_mancha_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XL.,\njež obsahuje další vyprávění otrokovo.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXLI.\no dalších příhodách otrokových. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_053.html",
+      "words": 4895,
+      "chars": 28961,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 49,
+      "prev": "don_quijote_de_la_mancha_052.html",
+      "next": "don_quijote_de_la_mancha_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXLI.\no dalších příhodách otrokových.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXLII.\no dalších příhodách v hospodě a o jiných důležitých událostech. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_054.html",
+      "words": 1794,
+      "chars": 10750,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 50,
+      "prev": "don_quijote_de_la_mancha_053.html",
+      "next": "don_quijote_de_la_mancha_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXLII.\no dalších příhodách v hospodě a o jiných důležitých událostech.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXLIII.\no roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě\nzběhly. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_055.html",
+      "words": 2475,
+      "chars": 14501,
+      "ideas": 92,
+      "role": "chapter",
+      "order": 51,
+      "prev": "don_quijote_de_la_mancha_054.html",
+      "next": "don_quijote_de_la_mancha_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXLIII.\no roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě\nzběhly.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXLIV.\no dalších neslýchaných příhodách v hospodě. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_056.html",
+      "words": 2246,
+      "chars": 13235,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 52,
+      "prev": "don_quijote_de_la_mancha_055.html",
+      "next": "don_quijote_de_la_mancha_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXLIV.\no dalších neslýchaných příhodách v hospodě.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXLV.\no pochybách týkajících se Mambrinovy helmy a soumarského sedla; vypravují\nse také jiné příběhy pravdivě, jak se udály. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_057.html",
+      "words": 1765,
+      "chars": 10647,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 53,
+      "prev": "don_quijote_de_la_mancha_056.html",
+      "next": "don_quijote_de_la_mancha_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXLV.\no pochybách týkajících se Mambrinovy helmy a soumarského sedla; vypravují\nse také jiné příběhy pravdivě, jak se udály.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXLVI.\no znamenitém dobrodružství biřiců a o velké zuřivosti našeho zábavného\nrytíře dona Quijota. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_058.html",
+      "words": 1937,
+      "chars": 11763,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 54,
+      "prev": "don_quijote_de_la_mancha_057.html",
+      "next": "don_quijote_de_la_mancha_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXLVI.\no znamenitém dobrodružství biřiců a o velké zuřivosti našeho zábavného\nrytíře dona Quijota.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLVII.\no podivném začarování dona Quijota a jiných zajímavých příhodách. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_059.html",
+      "words": 2264,
+      "chars": 13879,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 55,
+      "prev": "don_quijote_de_la_mancha_058.html",
+      "next": "don_quijote_de_la_mancha_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLVII.\no podivném začarování dona Quijota a jiných zajímavých příhodách.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXLVIII.\no jiných názorech kanovníkových, týkajících se rytířských knih, a o věcech\ndalších, jeho rozumu hodných. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_060.html",
+      "words": 1778,
+      "chars": 10760,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 56,
+      "prev": "don_quijote_de_la_mancha_059.html",
+      "next": "don_quijote_de_la_mancha_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXLVIII.\no jiných názorech kanovníkových, týkajících se rytířských knih, a o věcech\ndalších, jeho rozumu hodných.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXLIX.,\nkde běží o moudrý rozhovor Sancha Panzy s jeho pánem. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_061.html",
+      "words": 1713,
+      "chars": 10258,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 57,
+      "prev": "don_quijote_de_la_mancha_060.html",
+      "next": "don_quijote_de_la_mancha_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXLIX.,\nkde běží o moudrý rozhovor Sancha Panzy s jeho pánem.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA L.\no vtipném sporu dona Quijota s kanovníkem a jiných událostech. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_062.html",
+      "words": 1393,
+      "chars": 8465,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 58,
+      "prev": "don_quijote_de_la_mancha_061.html",
+      "next": "don_quijote_de_la_mancha_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA L.\no vtipném sporu dona Quijota s kanovníkem a jiných událostech.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nLI.\no vyprávění pastevcově průvodcům dona Quijota. • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_063.html",
+      "words": 1175,
+      "chars": 6973,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 59,
+      "prev": "don_quijote_de_la_mancha_062.html",
+      "next": "don_quijote_de_la_mancha_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nLI.\no vyprávění pastevcově průvodcům dona Quijota.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nLII.\no při dona Quijota s pastevcem a o neslýchaném dobrodružství s kajícníky;\nkteré šťastně dopadlo, ač se velice unavil • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_064.html",
+      "words": 2612,
+      "chars": 15674,
+      "ideas": 138,
+      "role": "chapter",
+      "order": 60,
+      "prev": "don_quijote_de_la_mancha_063.html",
+      "next": "don_quijote_de_la_mancha_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nLII.\no při dona Quijota s pastevcem a o neslýchaném dobrodružství s kajícníky;\nkteré šťastně dopadlo, ač se velice unavil",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_065.html",
+      "words": 3,
+      "chars": 18,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 61,
+      "prev": "don_quijote_de_la_mancha_064.html",
+      "next": "don_quijote_de_la_mancha_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "don_quijote_de_la_mancha_066.html",
+      "words": 61,
+      "chars": 388,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 62,
+      "prev": "don_quijote_de_la_mancha_065.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Důmyslný rytíř Don Quijote de la Mancha I",
+      "file": "colophon.html",
+      "words": 117,
+      "chars": 752,
+      "ideas": 12,
+      "role": "colophon",
+      "order": null,
+      "prev": "don_quijote_de_la_mancha_066.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 141007,
+      "chars": 831976,
+      "ideas": 3004
+    },
+    "chapters": {
+      "words": 140876,
+      "chars": 831144,
+      "ideas": 2988
+    }
+  }
+}
