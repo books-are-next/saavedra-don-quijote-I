@@ -5,6 +5,8 @@ title: |-
   o tom, co se stalo našemu rytíři, když opustil hospodu.
 ---
 
+  
+
 S prvním úsvitem vyjel don Quijote z hospody tak spokojený, tak bujarý, tak rozveselený tím, že je už rytířem, že jím radost zmítala v sedle. Však nezapomněl na rady hostinského o nezbytných věcech, jež má brát s sebou (zvláště peníze a košile), a rozhodl se vrátit domů a vše si opatřit, i zbrojnoše, mínil přijmout do služby jednoho sedláka ze sousedství, chuďase sice a otce rodiny, ale velmi vhodného k úřadu rytířského zbrojnoše. S tímto úmyslem obrátil Rocinanta ke své vsi, a kůň, jako by rozuměl pánově žádosti, tak chutě dal se na cestu, že se zdálo, jako by se ani země nedotýkal.
 
 Neujel mnoho, když tu se mu zdálo, že po pravici z hustého křoví vychází slabé volání, jako by tam někdo naříkal. Sotva je uslyšel, řekl si:

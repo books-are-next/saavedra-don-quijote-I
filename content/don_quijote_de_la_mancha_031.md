@@ -6,6 +6,8 @@ title: |-
   a o jiných příhodách našeho nepřemožitelného rytíře.
 ---
 
+  
+
 Vtom začalo trochu pršet a Sancho by se byl chtěl schovat do valchy; ale donu Quijotovi se stala tak protivnou pro směšnost jejich příhody, že rozhodně odmítl do ní vejít, a tak, zahnuli napravo a dostali se na jinou cestu než včerejší.
 
 Záhy spatřil don Quijote jezdce, který měl na hlavě cosi zářícího, jakoby zlatého, a sotva jej zpozoroval, obrátil se k Sanchovi a řekl:

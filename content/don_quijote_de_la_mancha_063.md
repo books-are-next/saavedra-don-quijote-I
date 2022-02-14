@@ -5,6 +5,8 @@ title: |-
   o vyprávění pastevcově průvodcům dona Quijota.
 ---
 
+  
+
 „Tak na tři míle od tohoto údolí je malá vesnice, nejbohatší v celém kraji; tam žil bohatý sedlák, kterého si velice vážili pro jeho čestnost: on sám o sobě tvrdil, že nejšťastnějším jej dělá dcera velmi krásná, vtipná a bystrá, které se každý divil, žasl nad dary, kterými ji obdařilo nebe a příroda. Již v mládí byla krásná a rostla do krásy; v šestnácti letech byla nejsličnější. Pověst o její kráse rozšířila se po celém kraji i do vzdálených měst i síní královských; obdivovali jí jako zázračný obrázek. Otec ji střežil a ona sama se chránila nejvíce, neboť žádný zámek, žádná stráž nebo závora se nevyrovná vlastní dívčině počestnosti.
 
 Bohatství otcovo a krása dceřina lákaly mnohé nápadníky, ale ten, který měl rozhodnout o tak vzácném skvostu, váhal s rozhodnutím, komu by jej svěřil. Byl jsem jedním z nápadníků a doufal jsem, že se jeho dcera stane mou ženou, poněvadž jsem pocházel z téže vsi, z váženého rodu, byl jsem mladý a dost bohatý a rozumný. Ale ucházel se o ni ještě druhý se stejnými vlastnostmi, a proto otec váhal a rozhodoval mezi námi dvěma; a když nevěděl si rady, žádal Leandru (tak se jmenuje nešťastnice, která mě zničila), aby mezi námi volila; tak by měli jednat všichni otcové dcer. Neříkám, aby jim dovolili volit z ničemných a špatných, ale z dobrých, které by sami navrhli. Nevím, pro kterého z nás se rozhodla Leandra; její otec se stále vymlouval na její mladost a podobné věci, které nás neodmítaly, ale ani jeho nezavazovaly. Můj sok se jmenuje Anselmo a já Eugenio, abyste věděli jména osob, které vystupují v této tragédii, která není skončena, ale jejíž konec bude zcela určitě nešťastný.

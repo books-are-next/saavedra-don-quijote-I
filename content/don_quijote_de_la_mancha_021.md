@@ -4,6 +4,8 @@ title: |-
   o tom, co se donu Quijotovi stalo u pastýřů koz.
 ---
 
+  
+
 Byl od pastýřů laskavě přijat, a když Sancho obstaral co nejlépe Rocinanta a své dobytče, šel za vůní několika kusů kozího masa, jež se peklo nad ohněm v kotli; a ač by se nejraději ihned přesvědčil, lze-li je už nastěhovat z kotle do žaludku, neučinil to, protože je pastýři sňali z ohně, prostřeli po zemi několik ovčích kůží, upravili rychle svou venkovskou tabuli a s projevy upřímné ochoty oběma nabídli, co měli. Kolem kůží se jich posadilo šest, kteří byli na salaši, dříve však požádali s neohrabanými okolky dona Quijota, aby se posadil na díž, obrácenou vzhůru dnem. Don Quijote se posadil a Sancho zůstal stát, aby mu podal pohár z rohu. Vida to jeho pán řekl:
 
 „Abys viděl, Sancho, jaké dobro obsahuje bludné rytířství a jak lehce ti, kdo v něm konají jakoukoliv službu, mohou dosáhnout poct a úcty světa, přeji si, aby sis sedl vedle mne do této dobré společnosti, abys byl jako já, tvůj pán a přirozený vládce, abys jedl z mého talíře a pil z toho, z čeho já piju. Neboť o potulném rytířství lze říci totéž co o lásce: že srovnává všechny věci.“
@@ -28,92 +30,92 @@ Jakmile to pastýř řekl, ozval se zvuk loutny a objevil se hudebník, chlapec 
 
 „Rád,“ odvětil mladík a nečekaje na další prosby, posadil se na pařez uťatého dubu, naladil nástroj a brzo velmi pěkně zazpíval takto:
 
-Antonio.
+> _Antonio._
 
-Vím, Olallo, miluješ mne,  
-ač jsi to neřekla nikdy,  
-pohledem jsi též nic nezradila,  
-němým poslem lásky.
+> _Vím, Olallo, miluješ mne,  
+> ač jsi to neřekla nikdy,  
+> pohledem jsi též nic nezradila,  
+> němým poslem lásky._
 
-Proto vím, že miluješ mne,  
-že i ty víš o mé lásce,  
-nikdy láska neselhala,  
-která milé odhalena.
+> _Proto vím, že miluješ mne,  
+> že i ty víš o mé lásce,  
+> nikdy láska neselhala,  
+> která milé odhalena._
 
-Někdy však jsem, pravda, tušil,  
-Olallo, tvou chladnou duši,  
-jako z bronzu tvrdou  
-v mramoru tvých bílých prsou.
+> _Někdy však jsem, pravda, tušil,  
+> Olallo, tvou chladnou duši,  
+> jako z bronzu tvrdou  
+> v mramoru tvých bílých prsou._
 
-Ale i v tvém odmítání,  
-v počestnosti cudném vzdoru  
-naděje jsem často spatřil  
-lem bílého roucha.
+> _Ale i v tvém odmítání,  
+> v počestnosti cudném vzdoru  
+> naděje jsem často spatřil  
+> lem bílého roucha._
 
-Zmocňuji se toho slibu,  
-posílena moje víra,  
-nezmenší se odmítnutím,  
-nevyroste vyslyšením.
+> _Zmocňuji se toho slibu,  
+> posílena moje víra,  
+> nezmenší se odmítnutím,  
+> nevyroste vyslyšením._
 
-Ve dvornosti je-li láska,  
-z chování již tvého tuším  
-naděje má že se splní,  
-jakož vroucně toužím.
+> _Ve dvornosti je-li láska,  
+> z chování již tvého tuším  
+> naděje má že se splní,  
+> jakož vroucně toužím._
 
-Mohou-li kdy služby lásky  
-dívčí srdce získat,  
-prospějí mi jistě mnohé,  
-které tobě konám.
+> _Mohou-li kdy služby lásky  
+> dívčí srdce získat,  
+> prospějí mi jistě mnohé,  
+> které tobě konám._
 
-Všímáš-li si toho, milá,  
-viděla jsi možná často,  
-že jsem v pondělí se strojil  
-do obleku nedělního.
+> _Všímáš-li si toho, milá,  
+> viděla jsi možná často,  
+> že jsem v pondělí se strojil  
+> do obleku nedělního._
 
-Vím, že strojivost a láska  
-touže cestou vždy se berou,  
-proto jsem chtěl být v tvých očích  
-co nejlépe vyšňořený.
+> _Vím, že strojivost a láska  
+> touže cestou vždy se berou,  
+> proto jsem chtěl být v tvých očích  
+> co nejlépe vyšňořený._
 
-Neříkám, jak pro tebe tančím,  
-nelíčím ti hudbu pěknou,  
-jíž jsi naslouchala v noci  
-do chvíle, kdy kohout zapěl.
+> _Neříkám, jak pro tebe tančím,  
+> nelíčím ti hudbu pěknou,  
+> jíž jsi naslouchala v noci  
+> do chvíle, kdy kohout zapěl._
 
-Nevzpomínám ani zpěvů,  
-v nichž jsem tvoji krásu slavil,  
-pravdu mluvily sic všechny,  
-ale mnohou podráždily.
+> _Nevzpomínám ani zpěvů,  
+> v nichž jsem tvoji krásu slavil,  
+> pravdu mluvily sic všechny,  
+> ale mnohou podráždily._
 
-Když jsem tě do nebes chválil,  
-z Berrocalu Tereza mi řekla.  
-Mnozí myslí na anděla,  
-zatím opici ctí jenom,
+> _Když jsem tě do nebes chválil,  
+> z Berrocalu Tereza mi řekla.  
+> Mnozí myslí na anděla,  
+> zatím opici ctí jenom,_
 
-zahalenou v pestré cetky,  
-s vlasy, běda, nepravými,  
-s nalíčenou jenom krásou,  
-která přec však lásku klame.
+> _zahalenou v pestré cetky,  
+> s vlasy, běda, nepravými,  
+> s nalíčenou jenom krásou,  
+> která přec však lásku klame._
 
-Lhářkou jsem ji tehdy nazval,  
-víš, jak hrozně hněvala se,  
-její strýc se jí pak zastal,  
-víš, že z toho byla rvačka.
+> _Lhářkou jsem ji tehdy nazval,  
+> víš, jak hrozně hněvala se,  
+> její strýc se jí pak zastal,  
+> víš, že z toho byla rvačka._
 
-Nechci tě jen z poblouznění,  
-nesloužím ti, nedbám o tě  
-ze smyslné jenom touhy,  
-věř, že poctivě v tom smýšlím.
+> _Nechci tě jen z poblouznění,  
+> nesloužím ti, nedbám o tě  
+> ze smyslné jenom touhy,  
+> věř, že poctivě v tom smýšlím._
 
-Svatá církev poutem pojí,  
-z hedvábí jež upleteno,  
-máš-li ráda, schyl v ně hlavu,  
-vedle ihned uzříš moji.
+> _Svatá církev poutem pojí,  
+> z hedvábí jež upleteno,  
+> máš-li ráda, schyl v ně hlavu,  
+> vedle ihned uzříš moji._
 
-Nechceš-li mne, přísahám ti  
-při největším ze všech svatých,  
-že z těch hor zde neodejdu,  
-a když, tož jen do kláštera.
+> _Nechceš-li mne, přísahám ti  
+> při největším ze všech svatých,  
+> že z těch hor zde neodejdu,  
+> a když, tož jen do kláštera._
 
 Tím pastýř skončil, a ačkoliv ho don Quijote prosil, aby ještě zpíval, Sancho Panza nedovolil, protože raději se chtěl vyspat než poslouchat zpívání. Řekl svému pánu:
 

@@ -6,6 +6,8 @@ title: |-
   odlákán od překrutého pokání, jež si byl uložil.
 ---
 
+  
+
 „Taková je, pánové, pravá historie mé tragédie. Pohleďte a uvažte, zda vzdechy, jež jste slyšeli, slova, jimž jste naslouchali, a slzy, jež mi tekly z očí, měly důvod být ještě hojnější. Uvážíte-li pak mé neštěstí, nahlédnete, že útěcha je zbytečná, neboť není nápravy. Prosím vás toliko (a to pro vás bude snadnou povinností), abyste mi poradili, kde bych mohla strávit život bez bázně a hrůzy, že mě najdou ti, kdo mě hledají; neboť ačkoliv vím, že láska mých rodičů ke mně je taková, že by mě přijali laskavě, jímá mě takový stud, pomyslím-li, že nemohu se jim objevit taková, jak si oni myslí, že chci raději navždy se jim klidit z očí, než abych se musela dívat do jejich tváře s myšlenkou: v tváři mé není počestnost, již si ode mne slibovali.“
 
 Umlkla a její líce se zarděla tak, že mluvila jasně o bolesti a studu duše. Posluchači pak byli jejím neštěstím stejně dojati jako udiveni. Farář první ji chtěl utěšit a přispět jí radou, ale Cardenio jej předešel a otázal se:

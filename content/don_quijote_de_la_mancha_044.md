@@ -5,6 +5,8 @@ title: |-
   která jedná o příhodách dona Quijota a celé družiny v hospodě.
 ---
 
+  
+
 Když poobědvali, ihned sedlali a bez velkých příhod dorazili příštího dne do hospody, které se Sancho Panza děsil a bál; ač se mu nechtělo, nemohl se vyhnout vstupu do ní. Hostinský, hostinská, jejich dcera a Maritornes, jakmile viděli se blížit dona Quijota a Sancha Panzu, vyšli je velmi radostně přivítat a don Quijote se s nimi pozdravil s vážnou důstojností se slovy, aby mu připravili lepší lůžko než onehdy; na to hospodská, že ho uloží jako prince, jestliže lépe než onehdy zaplatí. Don Quijote to slíbil, i upravili mu slušné lože v téže komoře a on okamžitě ulehl, jak byl utrmácený, rozbitý a celý pitomý.
 
 Jakmile zavřel dveře, pustila se hospodská do holiče a chytla jej za bradu a řekla:

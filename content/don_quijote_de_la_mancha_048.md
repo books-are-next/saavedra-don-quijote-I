@@ -5,6 +5,8 @@ title: |-
   vyprávějící jiné nezvyklé události, které se v hospodě přihodily.
 ---
 
+  
+
 Tu hospodský, stojící ve dveřích, zvolal:
 
 „Blíží se sem společnost hostů; zastaví-li se zde, budeme mít zábavu.“

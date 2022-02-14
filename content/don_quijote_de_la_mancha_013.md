@@ -6,6 +6,8 @@ title: |-
   rytíře.
 ---
 
+  
+
 Zarmoucen tímto pomyšlením, rychle ukončil svou hospodskou skrovnou večeři, zavolal hostinského, a zavřel se s ním ve stáji, kde vrhl se před ním na kolenase zvoláním:
 
 „Nevstanu, statečný rytíři, pokud mi vaše dvornost neudělí daru, o nějž vás chci požádati a který se obrátí k vaší chvále a všeho lidstva prospěchu.“

@@ -4,6 +4,8 @@ title: |-
   o vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem.
 ---
 
+  
+
 Mezitím se Sancho Panza zvedl, dost potlučen sluhy obou mnichů, a dával pozor na boj svého pána dona Quijota, prosil Boha z plného srdce, aby mu dal vítězství, v němž by získal nějaký ten ostrov, kde by se stal vladařem, jak mu bylo slíbeno. Vida, že zápas je u konce a že jeho pán opět vsedá na Rocinanta, přispěchal podržet mu třmen, a dříve než vsedl do sedla, padl před ním na kolena, uchopil jej za ruku a políbil ji se slovy:
 
 „Račte mi, Milosti pane done Quijote, dát vladařství ostrova, jehož jste dobyl v tomto krutém zápasu, neboť, ať je jakkoliv velký, cítím se schopen vládnout mu tak dobře jako kterýkoliv jiný vladař ostrovů.“

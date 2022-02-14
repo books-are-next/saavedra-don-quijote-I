@@ -10,6 +10,8 @@ title: >-
   dobrodružství této pravdivé historie.
 ---
 
+  
+
 Vida se tak zřízený pravil don Quijote svému zbrojnošovi:
 
 „Vždycky jsem, Sancho, slyšel říkat, že činit dobro špatným je jako lít vodu do moře. Kdybych uvěřil tobě, ušetřil bych si toto trápení. Ale už je skutkem, mějme tedy trpělivost a pamatujme si to pro podruhé!“
@@ -48,23 +50,23 @@ Don Quijote vida to všechno řekl:
 
 Otevřel jej a první, co v něm nalezl vrženo na papír, ač velmi pěkným písmem, byl sonet, který přečetl nahlas, aby i Sancho slyšel:
 
-Buď o tom Láska neví ani  
-či příliš krutá je. Což moje žaly  
-jsou menší krásy, pro niž vyrůstaly?  
-Jak trpím jimi, Láska nemá zdání.
+> _Buď o tom Láska neví ani  
+> či příliš krutá je. Což moje žaly  
+> jsou menší krásy, pro niž vyrůstaly?  
+> Jak trpím jimi, Láska nemá zdání._
 
-Vždyť Láska, jako bůh, se zloby chrání,  
-vždyť všechno ví, zná každý záchvěv malý.  
-Bůh nepůsobí lidem žaly.  
-Kdo krutostí však srdce raní?
+> _Vždyť Láska, jako bůh, se zloby chrání,  
+> vždyť všechno ví, zná každý záchvěv malý.  
+> Bůh nepůsobí lidem žaly.  
+> Kdo krutostí však srdce raní?_
 
-Též nejste tím Vy, Fili, vinna;  
-vždyť v kráse zloba nesídlívá  
-a nebe domovem je jasu.
+> _Též nejste tím Vy, Fili, vinna;  
+> vždyť v kráse zloba nesídlívá  
+> a nebe domovem je jasu._
 
-Vím: vbrzku umru, teď již hyna.  
-Kde nemoc záhadně se skrývá,  
-jen v zázraku lze čekat spásu.
+> _Vím: vbrzku umru, teď již hyna.  
+> Kde nemoc záhadně se skrývá,  
+> jen v zázraku lze čekat spásu._
 
 „Z téhle písničky,“ řekl Sancho, „nepoznáme nic; leda by nás to pití vína přivedlo na pravou stopu.“
 

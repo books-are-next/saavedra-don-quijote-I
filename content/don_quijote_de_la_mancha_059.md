@@ -4,6 +4,8 @@ title: |-
   o podivném začarování dona Quijota a jiných zajímavých příhodách.
 ---
 
+  
+
 Když don Quijote zpozoroval, že je naložen na volský povoz, pravil:
 
 „Četl jsem množství příběhů o potulných rytířích, ale nikdy jsem nezaslechl, že by zakleté rytíře dopravovali tímto způsobem a tak zvolna; jiného ovšem nelze očekávat od těchto líných volů; obyčejně letí vzduchem kupodivu rychle v jakémsi tmavém mraku nebo v ohnivém voze, na okřídleném koni nebo na podobném zvířeti; tomu, že mě odvážejí volským potahem, se divím; patrně rytířstvo a kouzla nynější kráčejí jinými cestami než za časů dřívějších; je možné, že jsem já prvním novým rytířem a že kouzla a způsoby dopravy zakletých jsou proto též nové. Co myslíš, příteli Sancho?“

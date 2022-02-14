@@ -5,7 +5,11 @@ title: |-
   kde se pokračuje v dobrodružství v Sieře Moreně.
 ---
 
+  
+
 Vypráví historie, že don Quijote naslouchal nešťastnému rytíři z hor s velmi velikou pozorností, a ten promluvil se slovy:
+
+  
 
 „Ať jste, pane, kdokoliv, neboť vás neznám, děkuji vám za váš projev zdvořilosti vůči mně a přál bych si, abych více než pouhou dobrou vůlí mohl se vám odvděčit za vaše laskavé přijetí. Však osud můj nedopřává mi jiné věci, jíž bych se odsloužil za dobrodiní mně prokazovaná, než upřímnou touhou oplatit je.“
 

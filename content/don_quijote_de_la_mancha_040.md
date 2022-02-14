@@ -8,6 +8,8 @@ title: >-
   horách.
 ---
 
+  
+
 Přešťastné a blažené byly doby, kdy na svět přišel statečný rytíř don Quijote de la Mancha, neboť díky jeho šlechetnému úmyslu vzkřísit a světu navrátit zašlý a téměř vymřelý řád bludných rytířů těšíme se nyní, v našem čase, tak chudém na zábavu, nejen příjemnou a pravdivou jeho historií, ale i povídkami a epizodami této historie, stejně příjemnými, vtipnými a pravdivými. Historie, navazující svou zamotanou, pokroucenou a spletenou niť, vypravuje, že, jakmile se farář přichystal k útěše Cardenia, přerušil ho hlas, který zaslechl a jenž smutně pravil:
 
 „Ach, Bože, zdali jsem už doopravdy nalezla místo, vhodné za hrob obtížnému břemeni mého těla, jež vleku tolik nerada? Snad, jestliže nelže samota, kterou slibují tyto hory. Běda mně nešťastné! Oč příjemnějšími společníky mi budou tato skaliska a houští, neboť mi dovolí pláčem postěžovat si nebesům na své neštěstí, než jakákoliv bytost lidská! Neboť není na světě nikdo, kdo by mi poradil v pochybách, utěšil mě v pláči a ulevil mi v neštěstí.“

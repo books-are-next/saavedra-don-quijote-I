@@ -4,6 +4,8 @@ title: |-
   o vtipném sporu dona Quijota s kanovníkem a jiných událostech.
 ---
 
+  
+
 „Ty knihy, které byly vydány se svolením královým a se schválením úřadů, knihy, které se čtou se zájmem, které chválí malí i velcí, urození i neurození, vůbec všichni, jsou prý lží,“ pravil don Quijote; „přesto, že nám mluví o rodičích, rodišti a stáří rytíře, o jeho domově, udatných činech, konaných den po dni, což vše je znakem jejich pravdivosti? Zmlkněte, Milosti, a nerouhejte se; poslechněte mé rady: čtěte je a uvidíte, jak se pobavíte.
 
 Řekněte mi, je možné spatřit něco lepšího než například velké jezero vařící smoly, v níž pluje mnoho hadů, zmijí, ještěrek a jiných divokých zvířat; a uprostřed jezera ozve se smutný hlas:

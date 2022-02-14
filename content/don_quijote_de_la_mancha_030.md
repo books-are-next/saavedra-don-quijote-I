@@ -6,6 +6,8 @@ title: |-
   světě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha.
 ---
 
+  
+
 „Není tomu jinak, pane, než že tato tráva nasvědčuje tomu, že tu někde blízko je nějaký pramen nebo potůček, jenž trávu svlažuje, a proto nejlíp bude, postoupíme-li trochu; snad najdeme, čím utišit tu hroznou žízeň, jež nás vysiluje a jež je jistě horší než hlad.“
 
 Rada se donu Quijotovi líbila, vzal za otěž Rocinanta, Sancho za ohlávku osla, naložil na něj nejdřív zbytky zásob jídla, a začali sestupovat po louce potmě, neboť temnota noční jim nedovolovala prohlédnout. Ale ušli sotva dvě stě kroků, když zaslechli silný šum vody, jako by padala z velkých, vysokých skalisek. Ten šum je naplnil radostí, však když se zastavili , aby poznali, odkud přichází, zaslechli pojednou jiný hluk, který jim vzal radost z vody, zvláště Sanchovi, jenž byl od přírody bázlivý a malodušný. Pravím, že uslyšeli pravidelné údery s řinčením železa a řetězů, jež, provázeny zuřivým hukotem vody, poděsily by každé srdce kromě srdce dona Quijota. Noc byla, jak už bylo řečeno, tmavá a oni se dostali pod několik vysokých stromů, jejichž listí, zmítané lehkým větrem, vydávalo strašidelný, tichý zvuk. Samota, místo, tma, šum vody se ševelením listí, vše to nahánělo hrůzu a děs, tím spíše, že údery neustávaly, ani vítr neusínal, ani se nerozednívalo. Ke všemu ještě nevěděli ani, kde to jsou.

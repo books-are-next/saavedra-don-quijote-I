@@ -6,7 +6,11 @@ title: |-
   dobrodružství, hodná vypravování.
 ---
 
+  
+
 Sancho dojel svého pána zemdlený a zesláblý, že nemohl ani řídit svoje zvíře. Vida ho v tom stavu don Quijote řekl:
+
+  
 
 „Teď už vidím, hodný Sancho, že ten hrad nebo hospoda je bezpochyby zakleta, protože ti, kdo tak strašlivě si s tebou zahráli, co mohli být jiného než přízraky a lidé z onoho světa? A jsem si tím jistý, poněvadž jsem viděl, když jsem byl u zdi dvora a díval se na průběh té neblahé tragédie, že mi není možno na ni vylézt, ani z Rocinanta sestoupit, neboť mě jistě očarovali. Přísahám ti při své cti, že kdybych mohl vylézt na zeď nebo skočit z koně, byl bych tě pomstil, že by si ti šaškové a darebáci vzpomínali na svůj žertík do smrti, ač, jak vím, přestoupil bych tím zákony rytířské, jež, což jsem ti už mnohokrát řekl, nedovolují, aby rytíř vztáhl ruku na nerytíře, snad jen na obranu vlastního života a osoby v případě tísnivé a velké potřeby.“
 

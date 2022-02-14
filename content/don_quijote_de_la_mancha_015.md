@@ -4,19 +4,21 @@ title: |-
   kde se pokračuje v líčení nehod našeho rytíře.
 ---
 
+  
+
 Když viděl, že se nemůže hnout, rozhodl se, že užije svého obvyklého pomocného prostředku, že si totiž vzpomene na nějaké místo ze svých knih; i vzpomněl si, blázen, jaký byl, na Baldovína a markýze z Mantovy, když ho Carloto nechal zraněného v horách: historie, známá dětem, běžná chlapcům, prohlašovaná za skutečnou dospělými, a přitom všem stejně vylhaná jako zázraky Mohamedovy.
 
 Ta historie, zdálo se mu, se hodila na jeho nynější stav a začal se tedy válet po zemi jako by z hrozné bolesti a slabým hlasem opakovat slova, jež prý pronesl v lese onen zraněný rytíř:
 
-Kde jsi skryta, moje paní,  
-nebolí tě bolest má?  
-Možná, že to nevíš ani,  
-či jsi mi již nevěrná?
+> _Kde jsi skryta, moje paní,  
+> nebolí tě bolest má?  
+> Možná, že to nevíš ani,  
+> či jsi mi již nevěrná?_
 
 Tak pokračoval v romanci až k veršům:
 
-Ctný markýzi z Mantuy,  
-můj pane, strýce rodný!
+> _Ctný markýzi z Mantuy,  
+> můj pane, strýce rodný!_
 
 Náhoda tomu chtěla, že, když byl u těch veršů, míjel tudy náhodou sedlák z jeho vsi, soused, který se vracel ze mlýna, kam vezl pytel pšenice; vida muže ležícího na zemi přišel k němu a ptal se, kdo je, co se mu stalo a proč tak smutně naříká. Don Quijote myslel dozajista, že sedlák je markýz z Mantovy, jeho strýc, odpověděl mu tedy tím, že pokračoval v romanci; líčil mu své neštěstí i lásku syna císařova k jeho ženě stejnými slovy, v nichž mluví romance. Sedlák poslouchal ty nesmysly s údivem; sundal mu hledí, rozbité bitím na kolik kusů, a utřel mu tvář, plnou prachu. Tu jej hned poznal a povídá:
 

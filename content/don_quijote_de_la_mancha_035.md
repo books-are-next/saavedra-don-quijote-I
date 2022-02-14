@@ -6,6 +6,8 @@ title: |-
   Moreně, a o tom, jak napodobil pokání Beltenebrosovo.
 ---
 
+  
+
 Když rozloučil se s pastýřem a vystoupil znovu na Rocinanta, poručil don Quijote Sanchovi, aby jej následoval, což zbrojnoš učinil na svém dobytčeti velmi mrzutě. Jeli zvolna vnikajíce do nejneschůdnější části pohoří a Sanchovi se k smrti chtělo popovídat si s pánem, čekal však, až rytíř sám začne, nechtěl porušit daný rozkaz. Ale nemohl snést tak dlouhé mlčení a pravil:
 
 „Pane done Quijote, dejte mi milostivě požehnání a propusťte mě, neboť se chci vrátit domů, k ženě a dětem, s nimiž si alespoň porozprávím a promluvím, o čemsi bude libo; neboť chcete-li, Milosti, abych vás následoval do těchto pustin dnem i nocí a nemluvil při tom, když se mi zachce, to je jako byste mě chtěl pohřbít za živa. Kdyby osud dal, aby zvířata mluvila jako za časů Quisopetových (Pozn.: Sancho zde znetvořuje Isopeta, tj. bajkáře Ezopa), nebylo by mi tak zle, protože bych si pohovořil se svým oslem, o čem by se mi chtělo, a tak bych si ulehčil v svém zlém osudu; neboť to je trpká věc a nelze ji přemoci trpělivostí, tohle chození po dobrodružstvích celý život, při kterém najdeš leda rány, lítání vzduchem, kamenování a kopance a ke všemu ještě abych si dal zašít hubu a neodvážil se říci, co mám na srdci, jako němý.“

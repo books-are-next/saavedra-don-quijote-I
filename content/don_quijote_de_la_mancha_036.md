@@ -6,6 +6,8 @@ title: |-
   Moreně.
 ---
 
+  
+
 Historie dále vypravuje, co činil muž Smutné Postavy, když zůstal sám: když don Quijote, nahý od pasu, přestal metat kotrmelce a uviděl, že Sancho odjel, nečekal na další nesmysly, vylezl na špici vysoké skály a tam se dal do přemýšlení o tom, čím se už vícekrát zabýval, aniž se rozhodl, totiž co by bylo lepší a co by se mu spíše hodilo, zda napodobení zuřivého šílení Rolandova či Amadisovy zádumčivosti.
 
 Řekl si u sebe:
@@ -16,40 +18,40 @@ Na druhé straně vidím, že Amadis Galský beze ztráty rozumu a bez blázniv�
 
 Za růženec posloužilo mu několik větších duběnek korkovníku, jež navlékl; tuze ho trápilo, že tam není poustevníka, jenž by ho vyzpovídal a potěšil; a procházeje po lučině, vpisoval a vyrýval do kůry stromů i drobného písku četné verše, vesměs se hodící k jeho smutku nebo opěvající Dulcineu. Ale ty, jež lze číst v úplnosti a které byly nalezeny, když byl don Quijote odkryt, byly pouze tyto:
 
-Stromoví a vše, co kvete,  
-plno mízy, jaré síly,  
-stvoly, jež se k slunci pnete,  
-těžko se vám žal můj sdílí;  
-aspoň pláč můj vyslechněte!  
-Kéž vás v klidu nerušily  
-nejkrutější moje žaly.  
-Pro útěchu k vám se chýlí  
-don Quijote, jenž zde kvílí,  
-Dulcinea že je v dáli v Tobosu!
+> _Stromoví a vše, co kvete,  
+> plno mízy, jaré síly,  
+> stvoly, jež se k slunci pnete,  
+> těžko se vám žal můj sdílí;  
+> aspoň pláč můj vyslechněte!  
+> Kéž vás v klidu nerušily  
+> nejkrutější moje žaly.  
+> Pro útěchu k vám se chýlí  
+> don Quijote, jenž zde kvílí,  
+> Dulcinea že je v dáli v Tobosu!_
 
-Ve vašich se stínech sklání  
-milenec snad nejvěrnější,  
-prchaje před krásnou paní,  
-v bolesti své nejstrašnější,  
-na níž nemůže mít viny.  
-Krušen marnou láskou šílí,  
-z očí se mu slzy valí,  
-že by soudek naplnily,  
-tolik don Quijote kvílí,  
-Dulcinea že je v dáli  
-v Tobosu!
+> _Ve vašich se stínech sklání  
+> milenec snad nejvěrnější,  
+> prchaje před krásnou paní,  
+> v bolesti své nejstrašnější,  
+> na níž nemůže mít viny.  
+> Krušen marnou láskou šílí,  
+> z očí se mu slzy valí,  
+> že by soudek naplnily,  
+> tolik don Quijote kvílí,  
+> Dulcinea že je v dáli  
+> v Tobosu!_
 
-Dobrodružství vyhledává  
-ve skaliskách příkrých štítů,  
-zklamání však vše mu dává,  
-ze strží a lesních krytů  
-bolest přepadá jej dravá.  
-Nezná snítky dotek milý,  
-důtek rány spíš tak pálí,  
-které do krvava bily,  
-don Quijote, že teď kvílí,  
-Dulcinea že je v dáli  
- v Tobosu!
+> _Dobrodružství vyhledává  
+> ve skaliskách příkrých štítů,  
+> zklamání však vše mu dává,  
+> ze strží a lesních krytů  
+> bolest přepadá jej dravá.  
+> Nezná snítky dotek milý,  
+> důtek rány spíš tak pálí,  
+> které do krvava bily,  
+> don Quijote, že teď kvílí,  
+> Dulcinea že je v dáli  
+>  v Tobosu!_
 
 Ti, kdo našli tyto verše, zasmáli se nemálo přídavku „z Tobosa“ u jména Dulciney, neboť se jim zdálo, že si don Quijote asi myslel, že by nikdo básni nerozuměl, kdyby jmenuje Dulcineu nejmenoval také Toboso: to byla také pravda, jak se sám později přiznal. Napsal ještě mnoho jiných veršů, ale, jak řečeno, nebylo možné je rozluštit kromě právě těchto citovaných slok. A mimo to ovšem vzdychal, volal fauny a silvany lesní, nymfy řek i bolestnou, slzavou Echo, aby mu odpověděli, vyslechli jej a potěšili, a hledal byliny, aby měl co jíst, než se Sancho vrátí. A kdyby byl nepřítomen tři neděle, jako byl nepřítomen tři dny, Rytíř Smutné Postavy by vypadal tak, že by ho vlastní matka nepoznala.
 

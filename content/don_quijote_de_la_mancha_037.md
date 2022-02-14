@@ -6,6 +6,8 @@ title: |-
   hodných, aby o nich tato velká historie vypravovala.
 ---
 
+  
+
 Lazebníkovi se farářův nápad líbil a hned se dali do toho jej uskutečnit. Požádali hospodskou o šaty a čepec a nechali jí v zástavě novou farářovu sutanu. Holič si udělal velký vous z šedého volského ocasu, do něhož hospodský zastrkával svůj hřeben. Hospodská se jich tázala, na co ty věcí potřebují, a farář jí krátce pověděl o bláznovství dona Quijota a jak to přestrojení má jej vyvést z hor, kde právě dlí. Hospodský i hospodská si řekli, že ten blázen je asi jejich host s balzámem, pan létajícího zbrojnoše, a vylíčili faráři vše, co se s ním seběhlo, a nezamlčeli ani to, o čem tak mlčel Sancho. Nakonec oblékla hostinská faráře až radost: nastrojila ho do soukenné sukně s černými, sametovými pruhy na prst širokými a do živůtku ze zeleného sametu, zdobeného bílým atlasem; oba kusy oděvu byly tak z doby krále Wamby. Farář odmítl čepec a vzal si plátěnou, prošívanou čapku, již nosíval na noc, a obtočil si čelo stuhou z černého taftu; z jiného pruhu zhotovil závoj a zakryl jím vous i obličej, pak si vtlačil do čela klobouk, jenž byl tak velký, že jej mohl mít za slunečník, oděl se pláštěm a vsedl bokem jako dáma na mezka; holič vsedl na svého, maje po pás rudošedý vous, neboť jak už řečeno, byl to vlastně ocas strakatého vola.
 
 Rozloučili se se všemi i s dobrou Maritornes, která slíbila, že se bude, ač hříšnice, modlit růženec, aby jim Bůh přál zdaru v tom nesnadném, však křesťanském podniku, jehož se zhostili.
@@ -22,58 +24,58 @@ Když tak oba klidně odpočívali ve stínu, uslyšeli hlas bez průvodu hudebn
 
 Jejich údiv vzrostl, když seznali, že píseň je veršovaná, a to ne jako veršují venkovští pastevci, ale vzdělaní dvořané. To potvrdily tyto verše:
 
-Co srdce moje nejvíc raní?  
-Pohrdání.  
-Co myšlenek mých krutý host?  
-Žárlivost.  
-Co snadnou zkouškou pro mne není?  
-Odloučení.  
-A na úlevu ani pomyšlení,  
-když víře v život stále brání  
-jen nelítostné pohrdání  
-a žárlivost a odloučení.
+> _Co srdce moje nejvíc raní?  
+> Pohrdání.  
+> Co myšlenek mých krutý host?  
+> Žárlivost.  
+> Co snadnou zkouškou pro mne není?  
+> Odloučení.  
+> A na úlevu ani pomyšlení,  
+> když víře v život stále brání  
+> jen nelítostné pohrdání  
+> a žárlivost a odloučení._
 
-Co budí bolest, jíž jsem zmámen?  
-Lásky plamen.  
-Co radost ničí, jíž jsem žádostivý?  
-Osud tklivý.  
-Ó srdce, kde tě ztratím umíraje?  
-V branách ráje.  
-Již cítím, jak mi život saje  
-a jak mě hubí divá síla,  
-a zřím, jak v jeden proud se slila  
-má láska, osud, mocnost ráje.
+> _Co budí bolest, jíž jsem zmámen?  
+> Lásky plamen.  
+> Co radost ničí, jíž jsem žádostivý?  
+> Osud tklivý.  
+> Ó srdce, kde tě ztratím umíraje?  
+> V branách ráje.  
+> Již cítím, jak mi život saje  
+> a jak mě hubí divá síla,  
+> a zřím, jak v jeden proud se slila  
+> má láska, osud, mocnost ráje._
 
-Co tíži mého žalu zdrtí?  
-Dotek smrti.  
-Co do srdce se lstivě vkrádá?  
-Lásky zrada.  
-Čím láska žhavých ran se zprostí?  
-Šíleností.  
-Je marné doufat, že se zhostí  
-mé srdce vášně, jež jím zmítá,  
-když vyléčit se může nemoc moje lítá  
-jen smrtí, zradou nebo šíleností.
+> _Co tíži mého žalu zdrtí?  
+> Dotek smrti.  
+> Co do srdce se lstivě vkrádá?  
+> Lásky zrada.  
+> Čím láska žhavých ran se zprostí?  
+> Šíleností.  
+> Je marné doufat, že se zhostí  
+> mé srdce vášně, jež jím zmítá,  
+> když vyléčit se může nemoc moje lítá  
+> jen smrtí, zradou nebo šíleností._
 
 Hodina, doba, samota, hlas i umění zpěvákovo udivilo oba posluchače a bylo jim opravdovým požitkem. Zůstali tiše čekajíce, uslyší-li ještě něco; ale když mlčení trvalo dlouho, chtěli jít hledat umělce, který tak dobře zpíval; už vstávali, aby to učinili, když je týž hlas, který znovu zazněl, přikul k místu. Zpíval tuto znělku:
 
-Ó svaté přátelství, tvých křídel chvění  
-až v nebeské tě odvanulo stany  
-a stín je matný, přízrak rozedraný,  
-zde nechalo jsi při svém rozloučení.
+> _Ó svaté přátelství, tvých křídel chvění  
+> až v nebeské tě odvanulo stany  
+> a stín je matný, přízrak rozedraný,  
+> zde nechalo jsi při svém rozloučení._
 
-V něm stopy tvého míru není,  
-jak zakryly jej těžké temna brány,  
-a v citech věrnosti teď zejí bědné rány,  
-jež dobro v činy nejšpatnější mění.
+> _V něm stopy tvého míru není,  
+> jak zakryly jej těžké temna brány,  
+> a v citech věrnosti teď zejí bědné rány,  
+> jež dobro v činy nejšpatnější mění._
 
-Ó přátelství, ó, vrať se bez prodlení,  
-když podvod v roucho tvé se halí,  
-a mnohou čistou mysl smutkem kalí.
+> _Ó přátelství, ó, vrať se bez prodlení,  
+> když podvod v roucho tvé se halí,  
+> a mnohou čistou mysl smutkem kalí._
 
-Již strhni šat svůj ze zla, jež je plení,  
-neb zachvátí svět bojů strašný plamen  
-a nezůstane na kameni kámen.
+> _Již strhni šat svůj ze zla, jež je plení,  
+> neb zachvátí svět bojů strašný plamen  
+> a nezůstane na kameni kámen._
 
 Zpěv skončil hlubokým vzdechem a ti dva začali znovu pozorně vyčkávat dalšího zpěvu; ale když viděli, že zpěv změnil se ve vzlykání a žalostné vzdechy, přáli se dozvědět, kdo je tím smutným, stejně výtečným ve zpěvu jako truchlivým v pláči. Nešli daleko, když obcházeli skálu, spatřili muže postavy a podoby, jakou jim vykreslil Sancho Panza vyprávěje jim příběh o Cardeniovi. Muž je spatřil, ale zůstal klidný, bez úleku, s hlavou na prsa skloněnou jako v zamyšlení, a nezvedl oči víc než jednou, když se tak znenadání objevili. Farář, člověk výmluvný (věděl už o jeho neštěstí, neboť ho po některých znameních poznal), přistoupil k němu a krátce, avšak obratně jej poprosil, aby nechal toho bídného života, aby o něj nepřišel, což by bylo neštěstí všech neštěstí.
 

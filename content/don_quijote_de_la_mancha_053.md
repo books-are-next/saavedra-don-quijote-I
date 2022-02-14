@@ -5,6 +5,8 @@ title: |-
   o dalších příhodách otrokových.
 ---
 
+  
+
 „Neminulo ani čtrnáct dní, když poturčenec koupil výbornou loď pro třicet osob, a aby svůj podnik potvrdil, rozhodl se, že odcestuje do Sargel, místa vzdáleného dvacet mil od Alžíru směrem k Oranu, kde byl čilý obchod se sušenými fíky. Tuto cestu vykonal s Tangeřanem, o němž jsem již mluvil několikráte. Tangeřany jsou nazýváni v Berbersku Mauři z Aragonu, kdežto Maury z Granady jmenují Mudejary; v království fezském Mudejaři jsou nazýváni Elchové a ti jsou nejvíc králem posíláni do válek.
 
 Vždycky kotvili v zátočině na dva dostřely od zahrady Zoraidiny; tam obyčejně poturčenec přistál se svými maurskými veslaři, tam také vykonávali náboženské obřady anebo nacvičovali jako žertem to, co chtěli skutečně udělat; poturčenec chodil do zahrady Zoraidiny prosit o ovoce, které mu její otec, aniž by ho znal, dával. Přesto, že se mnohokráte snažil promluvit se Zoraidou, aby jí sdělil, že on ji má doprovodit do země křesťanské podle mého přání, nikdy se mu to nepodařilo, neboť Maurky se neukáží nikdy Maurovi nebo Turkovi, jen když jim to otec nebo manžel nařídí; zato s křesťany zajatci se stýkají více, než se sluší. Mně by to nebylo milé, že s ní mluví, poněvadž by se jistě poděsila, kdyby viděla, že její osud leží v rukou poturčence.

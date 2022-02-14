@@ -5,6 +5,8 @@ title: |-
   v níž otrok líčí svůj život a příhody.
 ---
 
+  
+
 „V horách Leonských je vesnice, odkud pochází moje rodina; příroda byla jí nakloněnější než osud, ač můj otec v této chudé krajině byl pokládán za bohatého. Byl by opravdu bohatý, ale utrácel své jmění. A příčinou jeho štědrosti a nešetrnosti bylo, že byl v mládí vojákem, neboť vojenský život dělá z lakomců lidi štědré a ze štědrých marnotratníky, a je-li kdy nějaký voják lakomý, je to jako zvíře, které zřídka spatříme. Můj otec byl téměř marnotratníkem, a to není dobře pro otce rodiny.
 
 Byli jsme tři chlapci, ve věku, kdy je nutné hledat si zaměstnání. Můj otec pozoroval, že není pánem své povahy a svých náklonností, chtěl se zbavit příčiny, která jej nutila k lehkomyslnosti, proto nás jednoho dne zavolal všechny tři do světnice a pravil:

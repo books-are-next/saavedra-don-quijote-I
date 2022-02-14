@@ -6,6 +6,8 @@ title: |-
   důmyslného rytíře.
 ---
 
+  
+
 Tam rytíř ještě spal. Farář požádal neteř o klíče pokoje, kde byly knihy, které způsobily zlo, a ona mu je dala velmi ráda. Vstoupili všichni, i hospodyně, a našli přes sto velkých, pěkně vázaných knih a mnoho malých; hospodyně, jak je spatřila, vyběhla spěšně ze světnice a vrátila se s miskou svěcené vody a kropáčem a pravila:
 
 „Tu máte, Milosti pane licenciáte, a vykropte tu světnici, aby tu nezůstal nějaký čarodějník z těch, jež obsahují tyto knihy, nezaklel nás ze msty za trest, který jim udílíme, vypuzujíce je ze světa.“

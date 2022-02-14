@@ -5,6 +5,8 @@ title: |-
   kde běží o moudrý rozhovor Sancha Panzy s jeho pánem.
 ---
 
+  
+
 „Ach, už to mám,“ řekl Sancho, „to jsem chtěl vědět stůj co stůj! Nuže, pane, poslyšte, nemůžete popřít, že se všeobecně říká, když je někdo ve špatné náladě: nevím co mu je, nejí, nepije, nespí, neodpovídá rozumně, jistě je očarován. Z toho plyne, že ti, co nejedí, nespí, nepijí a nevykonávají těch přirozených věcí, o nichž mluvím, jsou právě začarovaní; ale nejsou jimi ti, kterým se chce to, co se chce Vaší Milosti, která pije, když jí dají, a jí, když má co, a odpovídá na vše.“
 
 „Mluvíš pravdu, Sancho,“ odvětil don Quijote, „ale jak jsem ti řekl, je mnoho způsobů zakletí a také je možné, že se časem některý změnil; v tom případě patrně začarovaní dělají všechno, co já, a proto proti této časové zvyklosti nelze mluvit ani ji odsuzovat. Jsem jistý, že jsem zakletý, a to stačí, aby se moje svědomí uklidnilo, jinak bych nesnesl, že ležím nečinně a zbaběle v této kleci, a připravuji tím mnohé ubohé a utlačené o ochranu a pomoc.“

@@ -6,6 +6,8 @@ title: |-
   které šťastně dopadlo, ač se velice unavil
 ---
 
+  
+
 Pastevcovo vypravování zaujalo všechny přítomné; přede všemi je pochválil kanovník, který poznamenal, že forma vypravování se lišila od obvyklého způsobu pastevců, připomínala totiž spíše dvořana, a pravil, že je správné tvrzení farářovo o učených lidech žijících v horách. Všichni nabízeli svou pomoc Eugeniovi, nejochotněji don Quijote, který pravil:
 
 „Skutečně, bratře pastýři, kdybych mohl podniknout nějaké dobrodružství, odešel bych ihned pro vaše štěstí vyvést Leandru z kláštera, ve kterém je určitě proti své vůli; nevšímal bych si abatyše a nikoho, přivedl bych vám ji, abyste s ní učinil, co byste si přál, však dbal při tom zákonů rytířských, které přikazují, že se žádné dívce nesmí dít bezpráví; ale věřím v Pánaboha, že síla škodolibého kouzelníka bude přemožena silou kouzelníka, majícího šlechetnější úmysl; slibuji vám svoji pomoc a radu, jak mi to přikazuje moje povolání pomáhat slabým a raněným a posilovat zarmoucené.“
@@ -96,124 +98,138 @@ Spisovatel této historie za odměnu své veliké práce, kterou mu dalo pátrá
 
 První slova na pergamenu nalezeném v olověném pouzdře zněla:
 
+  
+
 Akademikové z Argamasilly, vesnice v Manchi, o životě a smrti odvážného dona Quijota de la Mancha hoc scripserunt:
+
+  
+
+  
 
 Monicongo, akademik z Argamasilly,
 
+  
+
 na hrob dona Quijota:
 
-Dobrodruh, jenž okrasou byl Manchy, její pýchou,  
-který dobyl více kořisti než Jason z Kréty;  
-duch, jenž bystrý vzlet měl, napojen byl stále vzněty,  
-širší byl než moře pod oblohou tichou.
+> _Dobrodruh, jenž okrasou byl Manchy, její pýchou,  
+> který dobyl více kořisti než Jason z Kréty;  
+> duch, jenž bystrý vzlet měl, napojen byl stále vzněty,  
+> širší byl než moře pod oblohou tichou._
 
-Paže, která rozšířila moc svou svrchovanou  
-od Kytaje po Gaetu a do všech dálných zemí,  
-múza skvělá s úžasnými vtipu kadencemi,  
-jejíž verše vryty do bronzových desek planou.
+> _Paže, která rozšířila moc svou svrchovanou  
+> od Kytaje po Gaetu a do všech dálných zemí,  
+> múza skvělá s úžasnými vtipu kadencemi,  
+> jejíž verše vryty do bronzových desek planou._
 
-Hrdina, jenž snadno předčil všechny Amadise,  
-Galaory překonal a zdolal v boji kletém  
-podivnými činy, láskou, jíž byl živý plamen.
+> _Hrdina, jenž snadno předčil všechny Amadise,  
+> Galaory překonal a zdolal v boji kletém  
+> podivnými činy, láskou, jíž byl živý plamen._
 
-Ten, jenž umlčel a zničil lehce Belianise,  
-který s Rocinantem věrným bloudil širým světem,  
-ten zde leží ve tmě věčné, nad ním chladný kámen.
+> _Ten, jenž umlčel a zničil lehce Belianise,  
+> který s Rocinantem věrným bloudil širým světem,  
+> ten zde leží ve tmě věčné, nad ním chladný kámen._
+
+  
 
 Paniagudo, akademik z Argamasilly,
 
+  
+
 in laudem Dulcineae de Toboso:
 
-Ta, již tu zříte s boubelatou lící,  
-s bujnými ňadry, plnou odhodlání,  
-toť Dulcinea, Tobosa je paní,  
-k níž vzhlížel velký Quijote milující.
+> _Ta, již tu zříte s boubelatou lící,  
+> s bujnými ňadry, plnou odhodlání,  
+> toť Dulcinea, Tobosa je paní,  
+> k níž vzhlížel velký Quijote milující._
 
-Jen pro ni bloudil, jménem její slávy  
-Sierry Negry nehostinnou plání  
-a polem montielským šel v odhodlání  
-k Aranjuezu, pěšky, do únavy
+> _Jen pro ni bloudil, jménem její slávy  
+> Sierry Negry nehostinnou plání  
+> a polem montielským šel v odhodlání  
+> k Aranjuezu, pěšky, do únavy_
 
-Toť Rocinanta vinou. Hvězdo krutá!  
-Ó manchské té dámy čisté krásy,  
-rytíře toho vpravdě nešťastného!
+> _Toť Rocinanta vinou. Hvězdo krutá!  
+> Ó manchské té dámy čisté krásy,  
+> rytíře toho vpravdě nešťastného!_
 
-Smrtí jí krása byla odvanuta  
-a on, ač mramor slávu jeho hlásí,  
-neušel lásce, vzteku zklamaného.
+> _Smrtí jí krása byla odvanuta  
+> a on, ač mramor slávu jeho hlásí,  
+> neušel lásce, vzteku zklamaného._
+
+  
 
 Caprichoso, svým vtipem vynikající akademik z Argamasilly, pěje chválu na Rocinanta, koně dona Quijota de la Mancha:
 
-Na sloupu pyšném září démantovou,  
-již Mars tak často krví poskvrňuje,  
-v Manchanův prapor vítr prudce duje,  
-jejž třímá hrdě nad potulnou hlavou.
+> _Na sloupu pyšném září démantovou,  
+> již Mars tak často krví poskvrňuje,  
+> v Manchanův prapor vítr prudce duje,  
+> jejž třímá hrdě nad potulnou hlavou._
 
-Svou zavěsil zbraň jemnou, ocelovou,  
-jíž seče, kosí, maří, rozčtvrcuje.  
-Toť nové výkony! A pro ně snuje  
-styl nový, slavnou formu novou.
+> _Svou zavěsil zbraň jemnou, ocelovou,  
+> jíž seče, kosí, maří, rozčtvrcuje.  
+> Toť nové výkony! A pro ně snuje  
+> styl nový, slavnou formu novou._
 
-Nechť Gal se chlubí Amadise slávou  
-a jeho syny řecká země celá,  
-že tisíckrát svou slávu rozšířila.
+> _Nechť Gal se chlubí Amadise slávou  
+> a jeho syny řecká země celá,  
+> že tisíckrát svou slávu rozšířila._
 
-Dnes sbor se vznáší nad Quijota hlavou  
-a Belona se dotkla jeho čela,  
-že do Manchy se všechna pýcha slila.  
-V té slávě pro věky je moc a síla,  
-vždyť také Rocinante, oř ten zdatný,  
-nad Brilladora, Bayarda je statný.
+> _Dnes sbor se vznáší nad Quijota hlavou  
+> a Belona se dotkla jeho čela,  
+> že do Manchy se všechna pýcha slila.  
+> V té slávě pro věky je moc a síla,  
+> vždyť také Rocinante, oř ten zdatný,  
+> nad Brilladora, Bayarda je statný._
 
 Burlador, akademik z Argamasilly,
 
 Sanchu Panzovi:
 
-Toť Sancho Panza – malé sic jen tělo,  
-však velký duch; ó, zázrak na zemi!  
-Toť zbrojnoš beze lsti, to věřte mi,  
-a prostšího snad oko nevidělo.
+> _Toť Sancho Panza – malé sic jen tělo,  
+> však velký duch; ó, zázrak na zemi!  
+> Toť zbrojnoš beze lsti, to věřte mi,  
+> a prostšího snad oko nevidělo._
 
-K hodnosti hraběcí mu mnoho nechybělo,  
-však marný sen; měl tolik nepřátel!  
-a úkladů v tom věku vytrpěl,  
-kdy stěží oslíku se odpouštělo.
+> _K hodnosti hraběcí mu mnoho nechybělo,  
+> však marný sen; měl tolik nepřátel!  
+> a úkladů v tom věku vytrpěl,  
+> kdy stěží oslíku se odpouštělo._
 
-Na oslu jezdil klidně (s odpuštěním)  
-za Rocinantem, nejklidnějším ořem,  
-a za svým pánem den co den.
+> _Na oslu jezdil klidně (s odpuštěním)  
+> za Rocinantem, nejklidnějším ořem,  
+> a za svým pánem den co den._
 
-Ó lidské naděje, kam s marným sněním?  
-Kde klid, když mísíte se s těžkým hořem  
-a konec stín je, smrt a sen.
+> _Ó lidské naděje, kam s marným sněním?  
+> Kde klid, když mísíte se s těžkým hořem  
+> a konec stín je, smrt a sen._
 
 Cachidiablo, akademik z Argamasilly,
 
 na hrob dona Quijota:
 
-Zde leží rytíř pochován,  
-byl řádně bit a smůlu měl,  
-na Rosinantu věrném spěl,  
-s ním projel mnohý světa lán.
+> _Zde leží rytíř pochován,  
+> byl řádně bit a smůlu měl,  
+> na Rosinantu věrném spěl,  
+> s ním projel mnohý světa lán._
 
-A Sancho, chytrák prohnaný,  
-u něho leží mrtev, tich,  
-on zbrojnošem byl z největších,  
-řemeslu věrně oddaný.
+> _A Sancho, chytrák prohnaný,  
+> u něho leží mrtev, tich,  
+> on zbrojnošem byl z největších,  
+> řemeslu věrně oddaný._
 
 Tiquitoc, akademik z Argamasilly,
 
 na hrob Dulciney z Tobosa:
 
-A Dulcinea vedle nich,  
-ač byla svěží, v líci nach,  
-přec změnila ji v popel, v prach  
-smrt děsná, ošklivá jak hřích.
+> _A Dulcinea vedle nich,  
+> ač byla svěží, v líci nach,  
+> přec změnila ji v popel, v prach  
+> smrt děsná, ošklivá jak hřích._
 
-Ryzího rodu v žilách krev,  
-vzhled dámy, v zraku jistota.  
-Ta byla žárem Quijota,  
-a rodné obce slavný zjev.
+> _Ryzího rodu v žilách krev,  
+> vzhled dámy, v zraku jistota.  
+> Ta byla žárem Quijota,  
+> a rodné obce slavný zjev._
 
 Tyto verše se daly přečíst; písmo ostatních bylo smazáno, proto je dali nějakému akademikovi, aby je vysvětlil podle dohadu. Vypráví se, že se mu to podařilo po mnohém bdění a velké námaze a že je uveřejní při třetí výpravě dona Quijota. Forse altri canterá noc miglior plettro.
 

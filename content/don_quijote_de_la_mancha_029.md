@@ -6,6 +6,8 @@ title: |-
   příbězích.
 ---
 
+  
+
 „Mně se zdá, pane, že všechny tyto nehody, které nás tyto dny potkaly, byly jistotně trestem za hřích proti řádu rytířskému, jehož se Vaše Milost dopustila tím, že nesplnila přísahu nejíst chléb z ubrusu a neobejmout královnu a to všechno ostatní, co Vaše Milost přísahala vyplnit, dokud neodejme přilbu Malandrinovi, nebo jak se jmenuje ten Maur, teď si nevzpomínám.“
 
 „Máš zcela pravdu, Sancho,“ řekl don Quijote; „ale abych se přiznal, zapomněl jsem na to, ale také ti povím, že tebe zase, protože jsi mi to včas nepřipomenul, potkalo to házení na přikrývce; ale já to napravím, neboť v řádu rytířském lze urovnat všechno.“

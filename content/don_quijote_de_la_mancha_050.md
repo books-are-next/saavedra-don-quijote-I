@@ -5,6 +5,8 @@ title: |-
   o zajímavé řeči dona Quijota o válečnictví a umění.
 ---
 
+  
+
 Don Quijote pokračoval:
 
 „Při učencích jsme začali chudobou, nyní si povšimneme, je-li bohatší voják; uvidíme, že samotná chudoba není chudší, poněvadž je závislý na bídném žoldu, který dostává buď pozdě, nebo nikdy, a za to, co si vymůže vlastní rukou s nebezpečím života a svědomí; a často bývá tak otrhaný, že rozbitý kabát mu slouží za šat i za košili; mnohdy v třeskuté zimě venku se brání mrazu pouze dechem svých úst, který, poněvadž vychází z prostoru prázdného, je jistě chladný, ač se to zdá nepřirozené. A nedomnívejte se, že se těší na nastávající noc, že si oddychne ode všech útrap v přichystané posteli: jeho věcí by bylo, kdyby se mu zdála příliš těsnou, poněvadž může nohy roztáhnout na zemi a házet sebou, jak se mu zachce, podle libosti a beze strachu, že pomačká prostěradlo.
