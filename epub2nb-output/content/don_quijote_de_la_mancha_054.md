@@ -5,6 +5,8 @@ title: |-
   o dalších příhodách v hospodě a o jiných důležitých událostech.
 ---
 
+  
+
 To dopověděl otrok, zmlkl a don Fernando pravil:
 
 „Opravdu, pane setníku, vyprávěl jste nám tu zvláštní příhodu tak zajímavě a poutavě, jako je příhoda sama; celé vyprávění je podivné a nevšední, plné zajímavých podrobností, a udivuje všechny posluchače. Se zájmem jsme vás vyslechli, a kdybyste vyprávěl až do rána, poslouchali bychom rádi ještě jednou od počátku.“

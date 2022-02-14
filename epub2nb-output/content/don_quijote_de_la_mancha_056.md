@@ -5,6 +5,8 @@ title: |-
   o dalších neslýchaných příhodách v hospodě.
 ---
 
+  
+
 Vskutku don Quijote tak naříkal, že poděšený hostinský, jakmile otevřel vrata, spěchal se s novými hosty podívat, kdo to ječí. Křikem dona Quijota vzbudila se také Maritornes a pochopila, co se stalo, běžela do stodoly a odvázala tajně ohlávku, na níž don Quijote visel; rytíř před očima hospodského, který přispěchal, a cestujících spadl na zem; všichni se ho ptali, proč naříká. Mlčky vstal, vyprostil se z provazu, vsedl na Rocinanta, zdvihl štít a píku a odjel kus do polí; potom se cvalem vrátil a volal:
 
 „Kdo by tvrdil, že jsem byl po právu začarován, tomu říkám, že lže, a vyzývám jej na souboj, svolí-li tomu moje paní, princezna Micomicona!“

@@ -5,6 +5,8 @@ title: |-
   jednající o tom, jak poprvé důmyslný don Quijote opustil domov.
 ---
 
+  
+
 Když se takto připravil, nechtěl již otálet s uskutečněním svého úmyslu, poháněn domněním, že světu tuze chybí: urážky na něj čekaly, aby je odčinil, křivdy, aby je napravil, nesprávnosti, aby je odstranil, zlořády, aby je vykořenil, povinnosti, aby je naplnil. A tak, aniž by někomu sdělil svůj úmysl a aniž by ho někdo viděl, jednoho časného jitra (bylo to za horkých dnů červencových) oděl celou svou zbroj, vsedl na Rocinanta, nasadil nepodařenou helmici, navlékl na rámě štít, chopil se kopí a postranními vrátky vyjel ze dvora do polí, úžasně spokojen a vesel, vida, jak snadno se daří jeho dobré přání. Ale sotva se octl v polích, napadla ho strašná myšlenka, div že nezanechal započatého podniku: vzpomněl si totiž, že není pasován na rytíře a že podle rytířského zákona nemůže a nesmí dát se v boj s žádným rytířem: a i kdyby jím byl, měl jakožto nováček nést holé zbraně, bez hesla na štítě, jež lze získat jen vynikajícím činem. Vlivem těchto myšlenek zakolísal ve svém rozhodnutí; ale protože jeho bláznovství převážilo jakýkoliv jiný důvod, řekl si, že se dá pasovat prvním rytířem, jehož potká, neboť tak to udělali mnozí jiní, jak se o tom dočetl v knihách. Co se týče zbraní, pojal úmysl je vyčistit, aby byly po případě bělejší než hranostaj: tím se uklidnil a pokračoval v cestě, již nechával na vůli svého koně, domnívaje se, že v tom právě spočívá dobrodružnost.
 
 A cestou k sobě náš nový dobrodruh mluvil, říkaje si:
@@ -44,6 +46,8 @@ Hospodský si myslel, že jej rytíř nazval kastelánem, poněvadž ho má za k
 „Podle toho ložem vaší milosti je tvrdý kámen a vaším spánkem stálé bdění; je-li tomu tak, můžete klidně sestoupit z koně, neboť v tomto domě naleznete přesnadno příležitost nespat celý rok, tím spíše jednu noc.“
 
 Při tom přistoupil podržeti třmen dona Quijota, který sesedl s velkou nesnází a námahou, jako člověk, jenž po celý den neměl v ústech. Potom řekl hostinskému, aby se řádně postaral o jeho koně, protože to je nejlepší zvíře, co pod sluncem jí chléb. Hostinský si koně prohlédl a nezdál se mu hodný té chvály, ba ani z poloviny ne; opatřiv jej ve stáji, vrátil se pro další rozkazy svého hosta, kterého svlékaly z výzbroje holky, zatím se s ním smířivší; sňaly mu sice krunýř z prsou a nárameníky, ale živou mocí nemohly mu uvolniti hrdlo ani mu sundati nepovedenou helmici, přivázanou zelenými šňůrami; bylo třeba je přeříznout, neboť uzly nebylo možné rozvázat, ale k tomu on za žádnou cenu nechtěl svolit: a tak zůstal po celou noc v helmici a byl tou nejpůvabnější a nejpodivnější figurou, již si lze vymyslet: a když jej svlékaly (domnívajíce se, že ty ženské sloužící ke všemu jsou významné paní a dámy toho hradu), pravil jim velmi vtipně:
+
+  
 
 „Nikdy nesloužily rytířovi  
 výbornější službou dámy,  

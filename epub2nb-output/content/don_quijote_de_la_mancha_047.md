@@ -5,6 +5,8 @@ title: |-
   historie o nevhodně zvědavém.
 ---
 
+  
+
 Málo již scházelo do konce povídky, když polekaný Sancho Panza vyběhl z komory, kde don Quijote spal, a zvolal:
 
 „Spěchejte, pánové, mému veliteli na pomoc; pustil se v nejprudší a v nejstrašnější zápas, jaký jsem kdy spatřil! Bůh ví, že nepříteli paní princezny Micomicony, obru, uťal jedním rázem hlavu jako vodnici!“

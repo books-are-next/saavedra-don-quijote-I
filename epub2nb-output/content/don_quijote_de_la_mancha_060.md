@@ -6,6 +6,8 @@ title: |-
   dalších, jeho rozumu hodných.
 ---
 
+  
+
 „Tak jest, jak praví Vaše Milost, pane kanovníku,“ pravil farář, „a proto zasluhují pokárání všichni, kteří psali knihy bez rozumu, opomíjeli umění a pravidla, jimiž se mohli proslavit prózou jak básníci poezie latinské a řecké veršem.“
 
 „Já jsem chtěl kdysi napsat rytířský román, řídit se uvedenými pravidly, a mám-li se přiznat, napsal jsem již skoro sto listů; a abych se přesvědčil, souhlasí-li s mými názory, přečetl jsem je rozumným, vznešeným i zase nevzdělaným lidem, kteří s oblibou poslouchali podobné nesmysly a byli nadšeni; ale přesto jsem román nedokončil, myslím, že to nesouhlasí s mým povoláním, a potom také proto, že jsem viděl více hlupáků než lidí moudrých; a protože je lepší, aby člověku lichotilo několik lidí chytrých, než aby se mu vysmívalo mnoho darebáků, nechci, aby mě posuzovala nafoukaná čeládka, která tvoří dobrou polovinu čtenářů podobných knih.

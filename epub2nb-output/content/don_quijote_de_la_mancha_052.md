@@ -4,56 +4,56 @@ title: |-
   jež obsahuje další vyprávění otrokovo.
 ---
 
-„Ó šťastné duše,  
-které smrti závoj  
-jste odhodily  
-a pro dobré své činy  
-jste opustily  
-nízké země příboj  
-a odletěly v nebeské  
-výšiny,
+> _„Ó šťastné duše,  
+> které smrti závoj  
+> jste odhodily  
+> a pro dobré své činy  
+> jste opustily  
+> nízké země příboj  
+> a odletěly v nebeské  
+> výšiny,_
 
-hněvem planouce,  
-v počestném snažení  
-tělesné síly své  
-jste nešetřily,  
-krev svoji vlastní, krev cizí  
-v zápolení  
-po písku pobřežním,  
-v moře tůň vylily.
+> _hněvem planouce,  
+> v počestném snažení  
+> tělesné síly své  
+> jste nešetřily,  
+> krev svoji vlastní, krev cizí  
+> v zápolení  
+> po písku pobřežním,  
+> v moře tůň vylily._
 
-Statečnost vaše  
-život položila,  
-unavené ruce  
-smrtí vychladly.  
-Poraženým patří však  
-květ vítězství.
+> _Statečnost vaše  
+> život položila,  
+> unavené ruce  
+> smrtí vychladly.  
+> Poraženým patří však  
+> květ vítězství._
 
-Lítice bitvy, která vás skosila  
-tam mezi zdí a nepřátelů bodly,  
-slávu vám přinesla i nebe blaženství.“
+> _Lítice bitvy, která vás skosila  
+> tam mezi zdí a nepřátelů bodly,  
+> slávu vám přinesla i nebe blaženství.“_
 
 „V téže podobě ji znám i já,“ řekl otrok.
 
 „A ta o tvrzi, vzpomínám-li si dobře, zní takto,“ pravil rytíř.
 
-„Z té půdy kleté, sterou koulí zryté,  
-a ze tvrzí, jež se zemí srovnány,  
-se vznesly duše svaté v nebes stany  
-armády křesťanské v těch místech zbité.
+> _„Z té půdy kleté, sterou koulí zryté,  
+> a ze tvrzí, jež se zemí srovnány,  
+> se vznesly duše svaté v nebes stany  
+> armády křesťanské v těch místech zbité._
 
-Jich paží statečných, vítězů steré seče,  
-zde nejprve nadarmo jest síla pokoušena;  
-když vrahů přesilou nakonec udušena,  
-životy podali na hrotě svého meče.
+> _Jich paží statečných, vítězů steré seče,  
+> zde nejprve nadarmo jest síla pokoušena;  
+> když vrahů přesilou nakonec udušena,  
+> životy podali na hrotě svého meče._
 
-Toť půda je, v níž vzpomínání žalné  
-a pláč a nářek, lítost starých strastí  
-si odedávna domov vyvolily.
+> _Toť půda je, v níž vzpomínání žalné  
+> a pláč a nářek, lítost starých strastí  
+> si odedávna domov vyvolily._
 
-Však nikdy nevzlétly z té hrudi skalné  
-čestnější duše k nebeské své vlasti  
-a těl chrabřejších nekryly mohyly.“
+> _Však nikdy nevzlétly z té hrudi skalné  
+> čestnější duše k nebeské své vlasti  
+> a těl chrabřejších nekryly mohyly.“_
 
 Znělky se všem líbily a otrok, rozradostněn zprávami o svém známém, pokračoval:
 

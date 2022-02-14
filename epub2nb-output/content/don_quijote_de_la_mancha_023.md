@@ -4,6 +4,8 @@ title: |-
   kde se končí příběh pastýřky Marcely i jiné příhody.
 ---
 
+  
+
 Ale sotva se den počal jasnit v oknech východu, pět nebo šest pastýřů se zvedlo a šlo probudit dona Quijota a říci mu, má-li ještě v úmyslu jít se podívat na slavný pohřeb Grisostomův, že by šli společně s ním. Don Quijote nepřál si nic jiného, vstal a poručil Sanchovi, aby ihned osedlal koně i osla, což se stalo velmi rychle, a stejně rychle dali se potom na cestu. A neušli ještě čtvrt míle, když na rozcestí spatřili ubírat se směrem k nim asi pět pastýřů oblečených v černých kožiších a s hlavami ověnčenými věnci z cypřiše a oleandru. Každý z nich měl v ruce silnou trnovou hůl. S nimi zároveň brali se koňmo dva šlechtici pěkně na cestu vystrojení s třemi dalšími pěšími sluhy. Když se sešli, pozdravili se zdvořile a otázali se jedni druhých na účel cesty; všichni mířili k místu pohřbu i dali se na další cestu společně.
 
 Jeden z jezdců, v rozhovoru se svým druhem, pravil:
@@ -22,10 +24,10 @@ Když to uslyšeli, všichni ho měli za blázna a Vivaldo, aby se o tom více p
 
 „Nečetly Vaše Milosti,“ odpověděl don Quijote, „anály a dějiny anglické, kde se pojednává o slavných výkonech krále Arthura, kterého stále v našich španělských písních zveme králem Artušem, a o němž se odedávna všeobecně říká po všem království Velké Británie, že nezemřel, ale že se čarodějnickým uměním proměnil na havrana a že jednou má se zase vrátit na trůn a ujmout se království a žezla? Proto také nelze dokázat, že by od té doby až dodnes nějaký Angličan zabil havrana. Nuže, za dob toho dobrého krále byl založen ten slavný řád rytířů Kulatého stolu a udála se doslova milostná dobrodružství, která se vypravují o donu Lancelotovi z Jezera a královně Ginevře, jejichž prostřednicí a důvěrnicí byla počestná paní Quintañona. Z toho se zrodila ta známá píseň, tak často zpívaná v našem Španělsku:
 
-Nikdy nesloužily rytířovi  
-výbornější službou dámy,  
-jako když se Lancelot  
-z bretoňské země navrátil,
+> _Nikdy nesloužily rytířovi  
+> výbornější službou dámy,  
+> jako když se Lancelot  
+> z bretoňské země navrátil,_
 
 kde se pak sladce a něžně vypráví o jeho milostných a statečných činech. Od té doby se onen rytířský řád stále šířil a roste po mnoha různých částech světa; a byli z něho slavní a známí pro své výkony: statečný Amadis Galský se všemi svými syny a vnuky do pátého kolena, udatný Felixmarte Hircanský a nikdy dost nedochválený Tirante Bílý; a téměř v našich dnech vidíme, v obdivu ctíme a slyšíme nepřemožitelného a mocného rytíře dona Belianise Řeckého. Tomuhle se tedy, pánové, říká být bludným rytířem a ten řád, o němž jsem mluvil, je řádem, jehož i já, hříšník, jsem členem, a to, co vyznávali zmínění rytíři, vyznávám i já. A tak bloudím těmito samotami a pustinami hledaje dobrodružství, odhodlán nabídnout svoje rámě i osobu nejnebezpečnějšímu, jež mi osud nadělí, ku pomoci slabým a potřebným.“
 

@@ -5,159 +5,159 @@ title: |-
   kde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody.
 ---
 
-Píseň Grisostomova.
+> _Píseň Grisostomova._
 
-Jestliže chceš, ty krutá,  
-aby kolovalo  
-z úst k ústům,  
-z krajů v kraje,  
-že nad tvou nelítostnou  
-pýchu není,  
-tu způsobím,  
-by peklo samo vlilo  
-v má umučená prsa  
-zvuků taje,  
-jež hlas můj známý  
-zcela změní.
+> _Jestliže chceš, ty krutá,  
+> aby kolovalo  
+> z úst k ústům,  
+> z krajů v kraje,  
+> že nad tvou nelítostnou  
+> pýchu není,  
+> tu způsobím,  
+> by peklo samo vlilo  
+> v má umučená prsa  
+> zvuků taje,  
+> jež hlas můj známý  
+> zcela změní._
 
-A k touze vášnivé pak  
-mého chtění  
-bych řekl, jak mě čin tvůj  
-žalem dusí,  
-hlas mého hněvu strašlivý  
-se přidá,  
-a žal tvůj aby větší byl,  
-i běda  
-srdce zmučeného  
-tebe samu zhnusí.
+> _A k touze vášnivé pak  
+> mého chtění  
+> bych řekl, jak mě čin tvůj  
+> žalem dusí,  
+> hlas mého hněvu strašlivý  
+> se přidá,  
+> a žal tvůj aby větší byl,  
+> i běda  
+> srdce zmučeného  
+> tebe samu zhnusí._
 
-Nuž, naslouchej, jak zní můj zpěv:  
-ó, nijak lahodně, spíš hřmí jak řev,  
-neb z hloubek hořkosti a hněvu tryská,  
-hnán strašnou silou mého pomatení  
-mně k úlevě; však pro tebe ať klidu není!
+> _Nuž, naslouchej, jak zní můj zpěv:  
+> ó, nijak lahodně, spíš hřmí jak řev,  
+> neb z hloubek hořkosti a hněvu tryská,  
+> hnán strašnou silou mého pomatení  
+> mně k úlevě; však pro tebe ať klidu není!_
 
-Řev lva a příšerné slyš vytí,  
-jímž divoký vlk zuří, zasykání,  
-s nímž had svou hlavu tyčí,  
-jak draka, který všechno ničí žití,  
-a zlověstný vran krákot, pokřik kání,  
-větru svist, jenž s mořem v bouři syčí  
-neb s mečem v šíji poslední hlas býčí,  
-hrdličky smutné cukrování, nářek sovy,  
-hýkání běsů z říše Satanovy  
-a celé jeho společnosti černé;  
-to vše nechť s žalem duše mojí  
-v hlas nejstrašnější, jediný, se spojí,  
-až všichni smyslové se zmatou.  
-Vždyť krutý žal, jejž v sobě dusím,  
-lze vykřičet jen písní klatou.
+> _Řev lva a příšerné slyš vytí,  
+> jímž divoký vlk zuří, zasykání,  
+> s nímž had svou hlavu tyčí,  
+> jak draka, který všechno ničí žití,  
+> a zlověstný vran krákot, pokřik kání,  
+> větru svist, jenž s mořem v bouři syčí  
+> neb s mečem v šíji poslední hlas býčí,  
+> hrdličky smutné cukrování, nářek sovy,  
+> hýkání běsů z říše Satanovy  
+> a celé jeho společnosti černé;  
+> to vše nechť s žalem duše mojí  
+> v hlas nejstrašnější, jediný, se spojí,  
+> až všichni smyslové se zmatou.  
+> Vždyť krutý žal, jejž v sobě dusím,  
+> lze vykřičet jen písní klatou._
 
-Mých rozháraných zpěvů zvuky žalné  
-nezazní, kde Tajo proud svůj volí  
-a bétisská kde oliva se chvěje.  
-Ať zahučí jen v strmé štíty skalné  
-a v propastech mé kruté žaly,  
-jež mrtvý jazyk živým slovem pěje,  
-a v dolinách, kde hluchá houšť jen zeje,  
-a na březích, kam nikdo nepřichází,  
-kam nikdy nezasvítí slunce zlaté  
-uprostřed dravců tlupy jedovaté,  
-jež v jílu bahnitém se líně plazí.  
-Když v pustinách má píseň slabě zazní,  
-jak chvěla by se děsnou bázní,  
-tu lítost nad mým srdcem sirým  
-přec rozlétne se v dálky světem širým.
+> _Mých rozháraných zpěvů zvuky žalné  
+> nezazní, kde Tajo proud svůj volí  
+> a bétisská kde oliva se chvěje.  
+> Ať zahučí jen v strmé štíty skalné  
+> a v propastech mé kruté žaly,  
+> jež mrtvý jazyk živým slovem pěje,  
+> a v dolinách, kde hluchá houšť jen zeje,  
+> a na březích, kam nikdo nepřichází,  
+> kam nikdy nezasvítí slunce zlaté  
+> uprostřed dravců tlupy jedovaté,  
+> jež v jílu bahnitém se líně plazí.  
+> Když v pustinách má píseň slabě zazní,  
+> jak chvěla by se děsnou bázní,  
+> tu lítost nad mým srdcem sirým  
+> přec rozlétne se v dálky světem širým._
 
-Mne vraždí odmítnutí, podezření,  
-ať skutečné, či klamné, marná naděje,  
-a žárlivost mě jistě ve hrob sklátí;  
-můj život ničí dlouhé odloučení  
-a víra, že se štěstí na mne zasměje,  
-hned v bázni o tebe se tratí.  
-Smrt neodbytnou na mých rysech znáti,  
-jen zázrakem snad doposud jsem živ,  
-ač žárlím, odloučený, odmítnutý,  
-ač pravdou domněnky jsou, osud krutý,  
-a v strašných mukách, v kterých zvolna hynu,  
-já na lid naděje již neuvidím stínu,  
-již nehledám ji ani ve své trýzni.  
-Nejhlouběji kdybych rozerval své rány,  
-tu přísahám: chci po ní zemřít žízní.
+> _Mne vraždí odmítnutí, podezření,  
+> ať skutečné, či klamné, marná naděje,  
+> a žárlivost mě jistě ve hrob sklátí;  
+> můj život ničí dlouhé odloučení  
+> a víra, že se štěstí na mne zasměje,  
+> hned v bázni o tebe se tratí.  
+> Smrt neodbytnou na mých rysech znáti,  
+> jen zázrakem snad doposud jsem živ,  
+> ač žárlím, odloučený, odmítnutý,  
+> ač pravdou domněnky jsou, osud krutý,  
+> a v strašných mukách, v kterých zvolna hynu,  
+> já na lid naděje již neuvidím stínu,  
+> již nehledám ji ani ve své trýzni.  
+> Nejhlouběji kdybych rozerval své rány,  
+> tu přísahám: chci po ní zemřít žízní._
 
-Možno-li muži v téže chvíli  
-mít strach a doufat spolu,  
-zří-li, že příčinu svou úzkost měla?  
-Když žárlivostí krutou mozek šílí,  
-je možno oči uzavříti bolu,  
-když zří i tak, že duše zkrvavěla?  
-Kdo nevíře by brány neotevřel zcela,  
-když pro důvěru není v srdci místa,  
-jen pohrdání zří a podezření,  
-ó, smutná změna, vše se mění,  
-v lež hroutí se i pravda čistá.  
-Ó, tyranko mé divé vášně,  
-hrot meče žárlivosti pálí strašně  
-a smyčku zhrzená má láska chystá.  
-Však běda! vítězí v té chvíli  
-jen na Tě vzpomínka zas čistá.
+> _Možno-li muži v téže chvíli  
+> mít strach a doufat spolu,  
+> zří-li, že příčinu svou úzkost měla?  
+> Když žárlivostí krutou mozek šílí,  
+> je možno oči uzavříti bolu,  
+> když zří i tak, že duše zkrvavěla?  
+> Kdo nevíře by brány neotevřel zcela,  
+> když pro důvěru není v srdci místa,  
+> jen pohrdání zří a podezření,  
+> ó, smutná změna, vše se mění,  
+> v lež hroutí se i pravda čistá.  
+> Ó, tyranko mé divé vášně,  
+> hrot meče žárlivosti pálí strašně  
+> a smyčku zhrzená má láska chystá.  
+> Však běda! vítězí v té chvíli  
+> jen na Tě vzpomínka zas čistá._
 
-V mém životě až k smrti jisté  
-tak málo bylo štěstí;  
-já ve snu žil jsem a dál žiji,  
-a dím: víc lásky čisté,  
-vždyť volně duše může jenom kvést  
-pod sladkou lásky tyranií.  
-Jak obavy své o zrádkyni skryji,  
-když zřím v tom těle krásnou duši,  
-jež zbloudila jen mojí vinou;  
-a vím, že mnozí na lásku tak hynou,  
-neb lásce vládnout věčně sluší.  
-Tím uklidněn svou hlavu v smyčku kladu,  
-vstříc hledím klidně smrti chladu,  
-již připravil mi zázrak její krásy,  
-a tělo zatratím i duši svoji,  
-vavřínů zřeknu se i věčné slávy.
+> _V mém životě až k smrti jisté  
+> tak málo bylo štěstí;  
+> já ve snu žil jsem a dál žiji,  
+> a dím: víc lásky čisté,  
+> vždyť volně duše může jenom kvést  
+> pod sladkou lásky tyranií.  
+> Jak obavy své o zrádkyni skryji,  
+> když zřím v tom těle krásnou duši,  
+> jež zbloudila jen mojí vinou;  
+> a vím, že mnozí na lásku tak hynou,  
+> neb lásce vládnout věčně sluší.  
+> Tím uklidněn svou hlavu v smyčku kladu,  
+> vstříc hledím klidně smrti chladu,  
+> již připravil mi zázrak její krásy,  
+> a tělo zatratím i duši svoji,  
+> vavřínů zřeknu se i věčné slávy._
 
-Ty, která bezpráví jen množíš stále,  
-by příčina mi k smrti byla dána,  
-svůj zatratit a zničit život lichý,  
-slyš, jak mé srdce, k smrti zralé,  
-tak mučí palčivá ta rána,  
-že dím, že rád jsem obětí tvé pýchy  
-Však kdyby přec tě dojal smutek tichý  
-pro moji smrt a v chvíli rozechvění  
-by se ti v krásné oko slza drala,  
-ne, neplač, nechci, abys litovala,  
-že duše má se v nic už mění.  
-Spíš usmívej se v truchlivou tu chvíli  
-a projev, že to okamžik ten milý!  
-Je zbytečno však říkati to tobě,  
-vždyť vím, že ukojím tvou pýchu jen,  
-až zmizím v chladném hrobě.
+> _Ty, která bezpráví jen množíš stále,  
+> by příčina mi k smrti byla dána,  
+> svůj zatratit a zničit život lichý,  
+> slyš, jak mé srdce, k smrti zralé,  
+> tak mučí palčivá ta rána,  
+> že dím, že rád jsem obětí tvé pýchy  
+> Však kdyby přec tě dojal smutek tichý  
+> pro moji smrt a v chvíli rozechvění  
+> by se ti v krásné oko slza drala,  
+> ne, neplač, nechci, abys litovala,  
+> že duše má se v nic už mění.  
+> Spíš usmívej se v truchlivou tu chvíli  
+> a projev, že to okamžik ten milý!  
+> Je zbytečno však říkati to tobě,  
+> vždyť vím, že ukojím tvou pýchu jen,  
+> až zmizím v chladném hrobě._
 
-Čas nadešel! Z propasti se hrouží  
-Tantal, jejž žízně muka tíží,  
-již Sisyf valí hrozné břímě skály,  
-nad Ticiem sup dravý krouží  
-a Ixion se ke mně blíží,  
-i sestry, které v mrákot únavy se halí.  
-Ať muka všech se v jednu trýzeň spojí  
-a vniknou společně do hrudi mojí  
-(vždyť zoufalci se v přízracích svět jeví),  
-ať zazní nad mým mrtvým tělem žalozpěvy,  
-jež lidé v rubáš odít odpírají.  
-A pekelných bran hlídač trojí líce  
-i jiných příšer na tisíce  
-ať jekem hromovým vše drtí,  
-vždyť jiné oslavy milenec nezaslouží,  
-jejž láska usoužila k smrti.
+> _Čas nadešel! Z propasti se hrouží  
+> Tantal, jejž žízně muka tíží,  
+> již Sisyf valí hrozné břímě skály,  
+> nad Ticiem sup dravý krouží  
+> a Ixion se ke mně blíží,  
+> i sestry, které v mrákot únavy se halí.  
+> Ať muka všech se v jednu trýzeň spojí  
+> a vniknou společně do hrudi mojí  
+> (vždyť zoufalci se v přízracích svět jeví),  
+> ať zazní nad mým mrtvým tělem žalozpěvy,  
+> jež lidé v rubáš odít odpírají.  
+> A pekelných bran hlídač trojí líce  
+> i jiných příšer na tisíce  
+> ať jekem hromovým vše drtí,  
+> vždyť jiné oslavy milenec nezaslouží,  
+> jejž láska usoužila k smrti._
 
-Ó, nelkej, písni chmurná, usedavá,  
-že druh tvůj tobě nyní sbohem dává,  
-vždyť ona, která dala vzniknout tobě,  
-mým neštěstím se šťastnější jen stává.  
-Ó, písni, nelkej ani v hrobě!
+> _Ó, nelkej, písni chmurná, usedavá,  
+> že druh tvůj tobě nyní sbohem dává,  
+> vždyť ona, která dala vzniknout tobě,  
+> mým neštěstím se šťastnější jen stává.  
+> Ó, písni, nelkej ani v hrobě!_
 
 Všem posluchačům se Grisostomova píseň líbila; ale ten, který ji předčítal, řekl, že podle jeho mínění píseň nesouhlasí s tím, co slyšel o počestnosti a dobrotě Marcelině, neboť Grisostomo si v ní naříká na žárlivost, podezření a odloučení, a to je na úkor dobré pověsti a dobrého jména Marcelina. Na to odpověděl Ambrosio, který znal i nejskrytější myšlenky svého přítele:
 
@@ -179,13 +179,13 @@ Po těch slovech, aniž by čekala na odpověď, obrátila se zády a zmizela v 
 
 Buď z obavy před hrozbami dona Quijota, nebo proto, že jim Ambrosio řekl, aby skončili to, čím byli povinni příteli, pastýři nehnuli se z místa, třebaže když ukončili kopání a spálili listiny Grisostomovy, vložili tělo do hrobu za pláče okolostojících. Hrob zavřeli velkým balvanem, do té doby, než by byl dokončen náhrobek, který Ambrosio pomýšlel dát zhotovit s tímto nápisem:
 
-Zde pochován je jinoch mladý,  
-jejž usmrtily srdce touhy.  
-On pastýř byl jen pouhý,  
-a pro lásku teď leží tady.  
-Jej zahubila krutost zrady  
-a hrubý nevděk pyšné krásky!  
-Jak strašné otroctví je lásky  
-a svět se nevymaní z její vlády!
+> _Zde pochován je jinoch mladý,  
+> jejž usmrtily srdce touhy.  
+> On pastýř byl jen pouhý,  
+> a pro lásku teď leží tady.  
+> Jej zahubila krutost zrady  
+> a hrubý nevděk pyšné krásky!  
+> Jak strašné otroctví je lásky  
+> a svět se nevymaní z její vlády!_
 
 Pak zasypali hrob květy a větvemi, a projevili všichni soustrast příteli Ambrosiovi, rozloučili se s ním. Rovněž tak učinili Vivaldo a jeho druh i don Quijote dal sbohem svým hostitelům a cestujícím, kteří ho prosili, aby jel s nimi do Sevilly, poněvadž je to místo vhodné pro dobrodružství, jichž lze tam na každé ulici a za každým rohem nalézt více než kde jinde. Don Quijote jim poděkoval za radu a dobrou vůli zavděčit se mu a řekl, že tentokrát nechce a nemůže do Sevilly, dokud nezbaví všechny okolní hory ničemných lupičů, kterými se prý hemží. Vidouce jeho chvályhodné rozhodnutí cestující na něj už nenaléhali, ale rozloučili se s ním znovu a jali se pokračovat ve své cestě, na níž jim dlouhá chvíle nebyla, neboť vyprávěli o Marcele a Grisostomovi i o bláznovství dona Quijota, jenž se rozhodl vyhledat pastýřku Marcelu a nabídnout jí všechnu svou službu. Ale nestalo se, jak myslel, což se líčí dále v této pravdivé historii, jejíž druhá část tady končí.

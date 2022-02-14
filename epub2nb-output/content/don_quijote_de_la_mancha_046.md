@@ -5,6 +5,8 @@ title: |-
   v níž se pokračuje v povídce o nevhodné zvědavosti.
 ---
 
+  
+
 Tvrdívá se často, že vojsku škodí, nemá-li svého vůdce a hradu, nemá-li svého pána; a já říkám, že ještě více škodí mladé, vdané ženě, nemá-li svého manžela, i kdyby ho od ní vzdalovaly záležitosti nadmíru nutné. Jest mi bez vás smutno a nemohu snést to odloučení; nevrátíte-li se brzo, odejdu zpět k rodičům a zanechám váš dům bez ochrany, poněvadž ten, kterého jste určil k ochraně – měla-li to ochrana být – stará se více, jak se zdá o své zábavy než o váš prospěch. Jste rozumný a více vám nemusím říkat a také se nesluší, abych více řekla.
 
 Anselmo, když obdržel tento dopis, poznal, že Lotario již začal svůj úkol a že Camila se chovala tak, jak si přál; potěšený velice tímto dopisem žádal Camilu, aby neodjížděla, že se vrátí záhy.
@@ -29,23 +31,23 @@ Druhého dne zasedli všichni tři ke stolu a Anselmo prosil Lotaria, aby jim p�
 
 „I kdyby se s ní znala,“ zvolal Lotario, „nevyzdradil bych nic, neboť milenec, i když opěvuje sličnost paní svého srdce a stěžuje si na její tvrdost, nepohaní nikdy jejího jména. Ať už je tomu tak či onak, přednesu vám tuto znělku, kterou jsem včera složil o Chloridině krutosti:
 
-Za tiché noci, když život hasne,  
-sladký sen opřádá celý svět,  
-svěřuje bolest můj tichý ret  
-nebeské výši, Chloridě krásné.
+> _Za tiché noci, když život hasne,  
+> sladký sen opřádá celý svět,  
+> svěřuje bolest můj tichý ret  
+> nebeské výši, Chloridě krásné._
 
-Když vstane z červánků slunce jasné,  
-z východu bran se připraví v let,  
-pláč můj se počne ve vzlycích chvět,  
-výčitek zazní zas přeryvy hlasné.
+> _Když vstane z červánků slunce jasné,  
+> z východu bran se připraví v let,  
+> pláč můj se počne ve vzlycích chvět,  
+> výčitek zazní zas přeryvy hlasné._
 
-V chvíli, kdy slunce z nebeské báně  
-kolmo své paprsky sesílá,  
-vzrůstá můj pláč, až země žasne.
+> _V chvíli, kdy slunce z nebeské báně  
+> kolmo své paprsky sesílá,  
+> vzrůstá můj pláč, až země žasne._
 
-S nocí se vrací žal na mé skráně,  
-marná že zpověď zběsilá  
-nebesům hluchým, Chloridě krásné.“
+> _S nocí se vrací žal na mé skráně,  
+> marná že zpověď zběsilá  
+> nebesům hluchým, Chloridě krásné.“_
 
 Camile se tato znělka líbila; ještě více Anselmovi, který ji vychvaloval a pravil, že ta dáma je příliš tvrdá, když se nedá pohnout tak určitou pravdou. Camila na to řekla:
 
@@ -57,23 +59,23 @@ Camile se tato znělka líbila; ještě více Anselmovi, který ji vychvaloval a
 
 „‚Zajisté, pamatuji,“ zvolal Lotario, „ale domnívám se, že se oné první nevyrovná. Ale posuďte sami, začíná takto:
 
-Již vím, že umírám; a jestli mi kdo nevěří,  
-tím spíše umírám. Však jistě raději u tvých nohou,  
-ó nevděčnice krásná, ztratím duši přeubohou,  
-než abych lásky litoval, když konec děsí.
+> _Již vím, že umírám; a jestli mi kdo nevěří,  
+> tím spíše umírám. Však jistě raději u tvých nohou,  
+> ó nevděčnice krásná, ztratím duši přeubohou,  
+> než abych lásky litoval, když konec děsí._
 
-Pak objevím se v místech ticha, věčna u dveří,  
-prost života i štěstí, slávy s krásou světa mnohou,  
-a přec v mé hrudi ztichlé, marně zanícené touhou,  
-tvá krásná tvář, ach, pevně do ní vryta, se zašeří.
+> _Pak objevím se v místech ticha, věčna u dveří,  
+> prost života i štěstí, slávy s krásou světa mnohou,  
+> a přec v mé hrudi ztichlé, marně zanícené touhou,  
+> tvá krásná tvář, ach, pevně do ní vryta, se zašeří._
 
-Neb památku tu jasnou pro svatý osud zachovám,  
-jímž hrozí důvěřivost moje bezmezná a věčná  
-a který silnější je stále, čím krutější tvá moc.
+> _Neb památku tu jasnou pro svatý osud zachovám,  
+> jímž hrozí důvěřivost moje bezmezná a věčná  
+> a který silnější je stále, čím krutější tvá moc._
 
-Och, jako plavec, jenž pod černým je nebem sám a sám,  
-neznámým mořem pluje, kde cesta nebezpečná,  
-kde není přístavu, severka zhasla a je jen noc.“
+> _Och, jako plavec, jenž pod černým je nebem sám a sám,  
+> neznámým mořem pluje, kde cesta nebezpečná,  
+> kde není přístavu, severka zhasla a je jen noc.“_
 
 Anselmo vychválil i tyto verše, a tak připojoval článek za článkem k řetězu, kterým se vázalo jeho pokoření; neboť když jej Lotario nejvíce urážel, říkal, že jej to nejvíce ctí; čím hlouběji klesala Camila ke středu své nečestnosti, tím více byla svým manželem ctěna pro svou počestnost a znamenitou pověst.
 

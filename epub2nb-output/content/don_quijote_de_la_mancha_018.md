@@ -2,6 +2,8 @@
 title: "KAPITOLA\nVIII.\n\_o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými\nmlýny a o jiných příhodách, hodných blahé paměti."
 ---
 
+  
+
 Vtom spatřili třicet nebo čtyřicet větrných mlýnů, které jsou na té rovině, a don Quijote, když je uviděl, řekl svému zbrojnoši:
 
 „Štěstí řídí naši věc lépe, než jsme si dovedli přát. Neboť hleď, příteli Sancho Panzo, tamto se ukazuje třicet, nebo ještě o trochu více ohromných obrů, s nimiž míním zápasit a všechny je pobít a jejich kořistí počne naše bohatství. A bude to spravedlivý boj a velká zásluha před Bohem odstranit takové býlí z tváře země.“

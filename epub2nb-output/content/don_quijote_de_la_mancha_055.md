@@ -6,32 +6,32 @@ title: |-
   zběhly.
 ---
 
-Já jsem námořníkem lásky,  
-na propasti oceánu  
-jejího se nyní plavím  
-bez naděje na přístav.
+> _Já jsem námořníkem lásky,  
+> na propasti oceánu  
+> jejího se nyní plavím  
+> bez naděje na přístav._
 
-Pluji v dálku  
-za hvězdičkou,  
-jež mi z nebe pokyvuje,  
-krásnější a zářivější  
-nežli spatřil Palinurus.
+> _Pluji v dálku  
+> za hvězdičkou,  
+> jež mi z nebe pokyvuje,  
+> krásnější a zářivější  
+> nežli spatřil Palinurus._
 
-Kam mě vede, toho nevím,  
-v bezradnosti tedy pluji,  
-duše moje sleduje ji  
-plna strachu a zas štěstí.
+> _Kam mě vede, toho nevím,  
+> v bezradnosti tedy pluji,  
+> duše moje sleduje ji  
+> plna strachu a zas štěstí._
 
-Nepřístupná odmítavost,  
-cudnost přesmíru  
-přehnaná,  
-toť jsou mraky, jež ji kryjí,  
-když ji nejvíc volá touha.
+> _Nepřístupná odmítavost,  
+> cudnost přesmíru  
+> přehnaná,  
+> toť jsou mraky, jež ji kryjí,  
+> když ji nejvíc volá touha._
 
-Jasná, zářivá hvězdičko,  
-ohřej mě svým čistým světlem!  
-Jakmile mi v mraku zajdeš,  
-smrti mé chvíle uhodí.
+> _Jasná, zářivá hvězdičko,  
+> ohřej mě svým čistým světlem!  
+> Jakmile mi v mraku zajdeš,  
+> smrti mé chvíle uhodí._
 
 Zpěvák umlkl a tu Dorotea usoudila, že by i Clara měla slyšet ten krásný hlas; i pohnula jí, a když budila ji, pravila:
 
@@ -49,33 +49,33 @@ Dorotea byla udivena vroucími slovy dívčinými a myslela, že předstihují j
 
 „Ano,“ řekla Clara, a aby ho neslyšela, zakryla si uši rukama, což Dorotea nechápala; naslouchala bedlivě zpěvu, slyšela, že zpívá toto:
 
-Přesladká naděje moje,  
-jež se béřeš trním, hložinami,  
-nevzdávej se ještě boje  
-v cestě, již jsme vyvolili sami.  
-Do očí pohlédni smrti,  
-jež nám marně hrozí, že nás zdrtí.
+> _Přesladká naděje moje,  
+> jež se béřeš trním, hložinami,  
+> nevzdávej se ještě boje  
+> v cestě, již jsme vyvolili sami.  
+> Do očí pohlédni smrti,  
+> jež nám marně hrozí, že nás zdrtí._
 
-Bázlivce marna naděje,  
-na čest, vítězství, úspěch neb slávu,  
-osud toužení rozvěje  
-tomu, kdo pevně nestaví hlavu  
-neštěstí, kdo z lásky k míru  
-v sílu svých schopností ztratil víru.
+> _Bázlivce marna naděje,  
+> na čest, vítězství, úspěch neb slávu,  
+> osud toužení rozvěje  
+> tomu, kdo pevně nestaví hlavu  
+> neštěstí, kdo z lásky k míru  
+> v sílu svých schopností ztratil víru._
 
-Láska prodává vždy draho  
-svoje štěstí; věc to zcela známá.  
-Neboť v světě není blaho  
-větší nad to, které ona dává.  
-Toť věru častý lidský hřích:  
-cenu vidět jen ve věcech drahých.
+> _Láska prodává vždy draho  
+> svoje štěstí; věc to zcela známá.  
+> Neboť v světě není blaho  
+> větší nad to, které ona dává.  
+> Toť věru častý lidský hřích:  
+> cenu vidět jen ve věcech drahých._
 
-Lásky snaha neustává,  
-až se v možnost nemožno promění,  
-byť často sudba neblahá  
-v odpor lásce kladla své umění.  
-Takovou mám víru v sebe,  
-že si brzo snesu modré z nebe.
+> _Lásky snaha neustává,  
+> až se v možnost nemožno promění,  
+> byť často sudba neblahá  
+> v odpor lásce kladla své umění.  
+> Takovou mám víru v sebe,  
+> že si brzo snesu modré z nebe._
 
 Hlas zmlkl a Clara zase plakala. To probudilo Doroteinu zvědavost dovědět se příčinu jejího žalostného pláče a toho něžného zpěvu; i tázala se jí znovu, co chtěla předtím říci. Clara ze strachu, aby ji neslyšela Luscinda, přitiskla se k Dorotei a tiše blízko jejího ucha, že ji druhá neslyšela, vyprávěla:
 

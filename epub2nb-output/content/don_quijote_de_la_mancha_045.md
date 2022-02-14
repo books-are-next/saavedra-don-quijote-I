@@ -5,6 +5,8 @@ title: |-
   v níž se vypráví povídka o nevhodně zvědavém.
 ---
 
+  
+
 Ve Florencii, bohatém a slavném městě italském, v provincii toskánské, žili Anselmo a Lotario, dva bohatí a významní šlechtici a takoví přátelé, že všichni, kdo je znali, nazývali je po výtce „dvěma přáteli“. Byli svobodní, stejného stáří i zvyků, což vše stačilo k navázání vzájemného přátelství. Je ovšem pravda, že Anselmo byl více nachýlen k milostné zábavě než Lotario, jenž se zase oddával vášni lovecké. Ale ve chvíli potřeby nechával Anselmo zálib svých a přijímal záliby Lotariovy a naopak; a takto kráčely vůle jejich v tak dokonalé shodě, že lépe by nešly ani ty nejdokonalejší hodiny.
 
 Anselmo byl k smrti zamilován do urozené a krásné dívky z toho města; byla z tak dobrého rodu a sama tak dokonalá, že se rozhodl se souhlasem přítele Lotaria, bez něhož nic nepodnikal, požádat o ni její rodiče a také to učinil. Poslání to vykonal Lotario, a to k takové spokojenosti svého přítele, že se Anselmo brzy viděl pánem toho, po čem toužil, a Camila byla tak spokojena, že dostala Anselma za manžela, že nepřestávala vzdávat díky nebesům i Lotariovi, díky jemuž se jí tak poštěstilo.
@@ -47,14 +49,14 @@ Nesnadné věci bývají podnikány buď pro Boha, nebo pro svět, nebo pro oba;
 
 Ale to, co ty pravíš, že chceš podniknout a uskutečnit, nepřinese ti ani spásy božské, ani prospěchu hmotného, ani slávy lidské. Neboť i když dopadneš, jak si přeješ, nestaneš se ani statečnějším, ani bohatším, ani ctihodnějším než nyní; a nedopadneš-li, uvidíš se ubožejším, než si lze představit, protože ti nepomůže pomyšlení, že nikdo neví o tvém neštěstí: k žalosti a bídě stačí, že o něm budeš vědět ty. Na potvrzení té pravdy chci ti říct stanci, kterou složil slavný básník Luis Tansilo na konci první části Slz svatého Petra:
 
-V Petrovi žal roste i pohana,  
-od noci roste krutě do rána,  
-a není-li nikoho nablízku,  
-sám před sebou hanbí se ze hříchu.  
-Šlechetné srdce nemá zapotřebí,  
-o hříchu jeho by věděli;  
-před sebou samým se stydívá,  
-i když jej zří jen země, obloha.
+> _V Petrovi žal roste i pohana,  
+> od noci roste krutě do rána,  
+> a není-li nikoho nablízku,  
+> sám před sebou hanbí se ze hříchu.  
+> Šlechetné srdce nemá zapotřebí,  
+> o hříchu jeho by věděli;  
+> před sebou samým se stydívá,  
+> i když jej zří jen země, obloha._
 
 Neujdeš tudíž bolesti přes její tajnost, spíš budeš plakat stále, ne-li slzami očí, tedy krvavými slzami srdce, jako jimi plakal onen pošetilý doktor, který, jak básník vypráví, čarovným pohárem zkoušel věrnost milenčinu, čemuž se rozumně vyhnul chytrý Reinaldo; ačkoliv je to pouhá básnická myšlenka, leží v ní mravní naučení, jehož bychom měli být pamětliví, dbalí, poslušní, a to tím spíše, že z mé následující řeči poznáš, jak velké pošetilosti se míníš dopustit.
 
@@ -66,20 +68,20 @@ Přírodopis učí, že sobol je zvíře bělostného kožichu, a že, je-li lov
 
 Nakonec ti povím několik veršů, na něž jsem si vzpomněl, které jsem četl v kterési nové komedii a které se, zdá se mi, hodí na naši záležitost. Moudrý stařec dává radu jinému, otci děvčete, aby ji střežil, hlídal a choval zavřenou. Mezi jiným praví:
 
-Je ze skla žena,  
-což zkoušet není radno,  
-nebo rozbita je snadno.  
-Pevnosti nemá.
+> _Je ze skla žena,  
+> což zkoušet není radno,  
+> nebo rozbita je snadno.  
+> Pevnosti nemá._
 
-Hned bývá v střepy.  
-A není rozum žádný  
-ji stavět v osud vratký,  
-vždyť kdo ji slepí?
+> _Hned bývá v střepy.  
+> A není rozum žádný  
+> ji stavět v osud vratký,  
+> vždyť kdo ji slepí?_
 
-Nuž tomu věřte,  
-je rozumné to velmi:  
-kdy Danajští jsou v zemi,  
-zlata dosti ještě.
+> _Nuž tomu věřte,  
+> je rozumné to velmi:  
+> kdy Danajští jsou v zemi,  
+> zlata dosti ještě._
 
 Doposud jsem, Anselmo, mluvil o tobě. Nyní však máš vyslechnout něco, co se týká mne. Budu-li obšírný, promiň, ale je to nutno, neboť jsi zabloudil v bludišti, a chceš, abych tě vyvedl. Máš mě za přítele a chceš mi vzít čest, což odporuje všemu přátelství; a mimo tento úmysl usiluješ, i abych ti já vzal čest tvoji. Že mi opravdu o čest usiluješ, je patrné, neboť jakmile Camila spatří, že se o ni ucházím (jak si žádáš), bude mě beze vší pochyby mít za muže nečestného a špatného, neboť budu usilovat o něco a provádět něco, co se nesrovnává s mou důstojností ani s přátelstvím nás obou. Že chceš, abych i já zničil čest tvoji, je také nepochybno, neboť jakmile Camila uvidí moje pokusy o ni, bude si myslet, že jsem v ní odkryl nějakou lehkost, jež mě podnítila zjevit jí svou hříšnou touhu; když pak se bude pokládat za zneuctěnou, zneuctění bude se vztahovat i na tebe.
 
@@ -125,17 +127,17 @@ Anselmo řekl jen toto, ale to stačilo, aby se Lotario zarazil a zastyděl; pok
 
 Nešťastný a neprozíravý Anselmo, co to děláš, oč ti to běží, kam míříš? Rozvaž, že pracuješ proti sobě, že ti jde o vlastní pohanu, že míříš k vlastnímu zničení. Tvoje žena je ctnostná, žiješ s ní v nezviklaném klidu, proti tvé vůli nejedná, mysl její nezalétá za zeď tvého domu, jsi jejím pozemským nebem, cílem jejích tužeb, splněním jejích snů, vodítkem její vůle, jež je vedena ve všem vůlí tvou a vůlí nebe. Důl její cti, krásy, ctnosti a mravnosti vydává ti bez práce všechno své zlato, po němž jen zatoužit můžeš: na co kopeš v zemi a hledáš nové žíly nového, nevídaného pokladu a vydáváš se nebezpečí, že se vše zřítí, co se opírá jen o slabou hradbu její odolné povahy. Pomysli, že tomu, kdo hledá věci nemožné, právem jsou odepřeny věci možné, podle slov znamenitého básníka:
 
-Ve smrti já hledám žití,  
-v nemoc zdraví nechť se změní,  
-svoboden chci do vězení,  
-ve zdi průchod toužím míti,  
-věrnost žádám ve zrazení.
+> _Ve smrti já hledám žití,  
+> v nemoc zdraví nechť se změní,  
+> svoboden chci do vězení,  
+> ve zdi průchod toužím míti,  
+> věrnost žádám ve zrazení._
 
-Osud můj však jinak velí,  
-vždyť mi málo slastí chystá:  
-pro mé blaho není místa.  
-V touze své že tak jsem smělý,  
-i co mám, ztratím dojista.
+> _Osud můj však jinak velí,  
+> vždyť mi málo slastí chystá:  
+> pro mé blaho není místa.  
+> V touze své že tak jsem smělý,  
+> i co mám, ztratím dojista._
 
 Den potom odešel Anselmo na venkov a řekl Camile, že během jeho nepřítomnosti bude dohlížet na dům Lotario a také s ní obědvat: aby se k němu chovala jako k samotnému manželovi. Rozumnou a ctnou Camilu mrzelo nařízení manželovo i řekla mu, aby uvážil nevhodnost toho, aby někdo cizí za jeho nepřítomnosti usedal místo něho ke stolu, a že, nedůvěřuje-li v její schopnost spravovat domácnost, ať jen to tentokrát zkusí a že uvidí, že dokáže i více. Anselmo odvětil, že si tak přeje, aby jen poslechla; Camila řekla, že tedy poslechne, ač proti své vůli. Anselmo odešel a druhého dne vstoupil do domu Lotario a byl Camilou přijat vlídně a s úctou. Zařídila věc, aby ji Lotario nikdy nenalezl samotnou, ale vždy uprostřed sluhů a služek, a především s ní stále byla komorná Leonela, již měla velmi ráda, protože vyrostla s ní v domě jejích rodičů; když se Camila vdala za Anselma, odvedla si ji s sebou. První dny jí Lotario neřekl nic, ač mohl, po skončení oběda, když šlo obědvat služebnictvo; Camila jim dala rozkaz obědvat rychle a Leonela musela obědvat dřív než ona a provázet ji stále. Ale Leonela myslela na jiné věci a snažila se své volno užít k vlastnímu potěšení; často neuposlechla rozkazů své paní a nechávala je o samotě, jako by byla dostala takový rozkaz. Ale poctivé vzezření Camilino, vážná její tvář, zdrženlivost její osoby byly takové, že poutaly jazyk Lotariův.
 

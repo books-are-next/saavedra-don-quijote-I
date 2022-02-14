@@ -5,6 +5,8 @@ title: |-
   o tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad.
 ---
 
+  
+
 Hostinský, vida dona Quijota naloženého přes osla, tázal se Sancha, co mu je. Sancho odpověděl, že to nic není, že jenom spadl ze skály a že si trochu pohmoždil žebra. Hostinský měl ženu, která měla povahu jinou, než podobné ženy mívají, neboť byla od přírody soucitná a trpěla nehodami bližních. Přiběhla hned ošetřovat dona Quijota a zavolala si na pomoc i svou svobodnou, velmi hezkou dceru. V hospodě sloužila též holčice z Asturie, široké tváře, silného týlu, ohrnutého nosu, na jedno oko šilhavá a na druhé také moc neviděla; pravda je, že statnost těla nahrazovala ostatní chyby. Od hlavy k patě neměla sedm pídí a hřbet, který ji trochu tížil, působil, že hleděla k zemi více, než by si byla přála. Tato krasavice pomáhala tedy děvčeti a obě ustlaly donu Quijotovi na bídném lůžku v místnosti, jež nesla patrné známky bývalého seníku a kde se uložil nějaký mezkař, trochu opodál dona Quijota. Ač bylo jeho lůžko ze sedel a houní jeho mezků, bylo přece mnohem lepší než postel dona Quijota, která se skládala pouze ze čtyř sukovitých prken na dvou kulhavých lavicích a z peřiny tenké jako žíněnka, plné chuchvalců, jež by každý, kdo by děrami neuviděl, že jsou z vlny, mohl pokládat za oblázky pro jejich tvrdost, ze dvou prostěradel z kůže na povlékání štítů a z přikrývky, jejíž niti bylo by snadné spočítat, aniž by jedna ušla. Do té zlořečené postele si lehl don Quijote; potom jej hostinská a její dcera obvázaly shůry až dolů a Maritornes (tak se jmenovala Astuřanka) jim svítila.
 
 Když hospodská viděla při obvazování, že je don Quijote místy samá modřina, řekla, že se to spíš podobá výprasku než pádu.

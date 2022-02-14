@@ -5,6 +5,8 @@ title: |-
   o slavné princezně Micomiconě a mnohých jiných veselých příbězích.
 ---
 
+  
+
 Ten celý příběh vyslechl Sancho s velkým žalem, poněvadž viděl, že všechny jeho naděje na panování mizejí a že se krásná Micomicona změnila v Doroteu a obr v dona Fernanda; jeho pán hluboce spal a nevěděl o celém případu. Dorotea se tázala sama sebe, není-li štěstí, které ji potkalo, snem, rovněž tak Cardenio a Luscinda. Don Fernando děkoval Bohu, že k němu byl tak milostivý a vyvedl jej z bludiště klamu, v němž by téměř jistě zahynul a cti pozbyl. Vůbec všichni přítomní byli spokojeni a radovali se ze šťastného rozřešení celé neblahé příhody. Farář přál všem štěstí; nejstastnější byla hostinská, neboť Cardenio slíbil zaplatit škodu i výlohu, způsobenou donem Quijotem.
 
 Pouze Sancho byl smutný a nešťastný, jak řečeno; s žalostným obličejem došel až ke svému pánu, který se právě vzbudil, a pravil mu:

@@ -6,6 +6,8 @@ title: |-
   jiných.
 ---
 
+  
+
 „To by všechno bylo v pořádku; pokračuj!“ pravil don Quijote; „co činila Královna krásy, když jsi přišel? Jistě jsi ji zastihl, jak navléká perly, nebo vyšívá zlatem znak pro mne, zajatce její lásky?“
 
 „To ne,“ odvětil Sancho, „ale přesívala právě míru pšenice doma na dvoře.“

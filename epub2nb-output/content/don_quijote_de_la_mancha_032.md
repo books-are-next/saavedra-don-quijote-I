@@ -6,6 +6,8 @@ title: |-
   vedli, kam se jim nechtělo.
 ---
 
+  
+
 Cide Hamete Benengeli, spisovatel arabský a manchský, vypravuje v této velevážné, zvučné, podrobné, příjemné a vtipně vymyšlené historii, že, zatímco slavný don Quijote de la Mancha a Sancho Panza, jeho zbrojnoš, vedli tyto řeči, uvedené na konci kapitoly dvacáté první, don Quijote zvedl oči a spatřil, že po silnici, jíž se bral, se blíží asi dvanáct mužů, s hrdly navlečenými jako zrnka růžence do velkého řetězu a vesměs na rukou spoutaných. Provázeli je dva jezdci a dva pěší, první s ručnicemi na kolečkový zámek, druzí s halapartnami a meči. Jak je Sancho spatřil, řekl:
 
 „To je řetěz galejníků, lidí, jež dává král násilně odvádět na galeje.“

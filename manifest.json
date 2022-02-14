@@ -1,16 +1,16 @@
 {
   "author": "Miguel de Cervantes Saavedra",
   "edition": "beletrie",
-  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-d208b11",
+  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-f87a5fe",
   "languagecode": "cs",
   "modified": "2022-02-11T13:39:02.473Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Důmyslný rytíř Don Quijote de la Mancha I",
-  "revision": "d208b11",
+  "revision": "f87a5fe",
   "generatedAt": {
-    "date": "Mon Feb 14 2022 12:46:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644842792034
+    "date": "Mon Feb 14 2022 13:00:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644843601366
   },
   "documents": [
     {
@@ -117,7 +117,7 @@
       "title": "Důmyslný rytíř Don Quijote de la Mancha I",
       "file": "don_quijote_de_la_mancha_009.html",
       "words": 149,
-      "chars": 970,
+      "chars": 968,
       "ideas": 6,
       "role": "chapter",
       "order": 5,
@@ -1242,7 +1242,7 @@
       "role": "chapter",
       "order": 61,
       "prev": "don_quijote_de_la_mancha_064.html",
-      "next": "don_quijote_de_la_mancha_066.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -1254,34 +1254,14 @@
       ]
     },
     {
-      "title": "Důmyslný rytíř Don Quijote de la Mancha I",
-      "file": "don_quijote_de_la_mancha_066.html",
-      "words": 61,
-      "chars": 388,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 62,
-      "prev": "don_quijote_de_la_mancha_065.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Důmyslný rytíř Don Quijote de la Mancha I",
       "file": "colophon.html",
-      "words": 117,
-      "chars": 752,
-      "ideas": 12,
+      "words": 178,
+      "chars": 1140,
+      "ideas": 26,
       "role": "colophon",
       "order": null,
-      "prev": "don_quijote_de_la_mancha_066.html",
+      "prev": "don_quijote_de_la_mancha_065.html",
       "next": null,
       "toc": [
         {
@@ -1297,13 +1277,13 @@
   "totals": {
     "all": {
       "words": 141007,
-      "chars": 831976,
+      "chars": 831974,
       "ideas": 3004
     },
     "chapters": {
-      "words": 140876,
-      "chars": 831144,
-      "ideas": 2988
+      "words": 140815,
+      "chars": 830754,
+      "ideas": 2974
     }
   }
 }

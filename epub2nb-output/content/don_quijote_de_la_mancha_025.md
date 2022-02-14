@@ -6,6 +6,8 @@ title: |-
   surovců.
 ---
 
+  
+
 Učený Cide Hamete Benengeli vypravuje, že, když se don Quijote rozloučil se svými hostiteli i se všemi ostatními účastníky Grisostomova pohřbu, dal se i se svým zbrojnošem tímže lesem, v němž zmizela i pastýřka Marcela; jeli jím přes dvě hodiny, hledali ji na všech stranách marně, až se zastavili na louce pokryté svěží travou, po níž tekl potůček, klidný a tak chladný, že vybízel a nutil, aby tam strávili hodiny odpočinku, který právě počínal. Don Quijote i Sancho sesedli, a nechali osla i Rocinanta pást se podle libosti v trávě, vyplenili tlumok a bez velkých ceremonií v pokoji a družnosti snědli oba, pán i sluha, co v něm nalezli. Sancho nedbal, aby Rocinanta spoutal, spoléhaje na to, že je tak klidný a málo bujný, že by jej všechny kobyly z pastvin córdobských nesvedly k žádné špatnosti.
 
 Ale osud a ďábel, který nikdy nespí, chtěli, aby je tím údolím míjelo pasoucí se stádo galicijských kobyl, náležející vozkům z Yangues, kteří obvykle odpočívají se svými stády na místech, kde je tráva a voda, a místo, kde ležel don Quijote, se jim velmi hodilo. I stalo se, že se Rocinantovi zachtělo pobavit se s dámami, a jakmile je ucítil, zapomněl na svou přirozenou zdrženlivost a neptaje se pána o svolení, pospíšil si svěřit kobylám, co ho trápí. Ale tyto, jak se zdálo, stály víc o pastvu než o co jiného, i přivítaly jej kopyty a zuby, takže mu zakrátko přetrhly podpěnku a on zůstal bez sedla. Avšak ještě trapnější mu asi bylo, že vozkové, když viděli násilí páchané na jejich kobylách, přiběhli s klacky a tak ho zbili, že jej povalili na zem. Vtom přiběhli udýcháni don Quijote a Sancho, kteří viděli výprask Rocinantův, a don Quijote řekl:

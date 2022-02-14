@@ -6,7 +6,11 @@ title: |-
   rytíře dona Quijota.
 ---
 
+  
+
 Za řeči dona Quijota domlouval farář biřicům, že don Quijote je blázen, jak je zřejmé z jeho činů; že není potřeba pokračovat v této záležitosti, poněvadž, i kdyby jej zatkli, bude propuštěn, neboť nemá zdravý rozum; ale na to biřic, který měl zatykač, že není jeho povinností posuzovat bláznovství dona Quijota, ale vykonávat rozkazy představeného; ať si jej potom pustí třeba třistakrát, jen když jej zatkne.
+
+  
 
 „Přesto byste jej neměli zatýkat, a pokud vím, není to ani možné.“
 

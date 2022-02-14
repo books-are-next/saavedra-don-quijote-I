@@ -6,6 +6,8 @@ title: |-
   věcech.
 ---
 
+  
+
 Farář domluvil a Sancho Panza řekl:
 
 „Na mou věru, pane licenciáte, ten statečný čin vykonal můj Pán a já mu to povídal předem a upozorňoval jsem ho, aby si rozmyslel, co dělá, že je hřích je osvobodit, protože je to samý darebák.“
