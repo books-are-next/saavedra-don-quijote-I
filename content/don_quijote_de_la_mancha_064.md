@@ -234,4 +234,4 @@ na hrob Dulciney z Tobosa:
 
 Tyto verše se daly přečíst; písmo ostatních bylo smazáno, proto je dali nějakému akademikovi, aby je vysvětlil podle dohadu. Vypráví se, že se mu to podařilo po mnohém bdění a velké námaze a že je uveřejní při třetí výpravě dona Quijota. Forse altri canterá noc miglior plettro.
 
-_(Konec knihy druhé)_
+(Konec knihy druhé)
