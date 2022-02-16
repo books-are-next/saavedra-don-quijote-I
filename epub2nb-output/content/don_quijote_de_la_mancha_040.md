@@ -6,6 +6,7 @@ title: >-
 
   jež líčí nové a příjemné dobrodružství, které potkalo faráře a holiče v
   horách.
+contentType: prose
 ---
 
   

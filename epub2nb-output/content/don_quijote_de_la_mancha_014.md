@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   IV.
   o tom, co se stalo našemu rytíři, když opustil hospodu.
+contentType: prose
 ---
 
   

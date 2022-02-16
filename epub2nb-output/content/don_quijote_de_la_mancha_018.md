@@ -1,5 +1,6 @@
 ---
 title: "KAPITOLA\nVIII.\n\_o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými\nmlýny a o jiných příhodách, hodných blahé paměti."
+contentType: prose
 ---
 
   

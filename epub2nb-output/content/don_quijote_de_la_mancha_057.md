@@ -4,6 +4,7 @@ title: |-
   XLV.
   o pochybách týkajících se Mambrinovy helmy a soumarského sedla; vypravují
   se také jiné příběhy pravdivě, jak se udály.
+contentType: prose
 ---
 
   

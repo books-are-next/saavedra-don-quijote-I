@@ -4,6 +4,7 @@ title: |-
   XLVIII.
   o jiných názorech kanovníkových, týkajících se rytířských knih, a o věcech
   dalších, jeho rozumu hodných.
+contentType: prose
 ---
 
   

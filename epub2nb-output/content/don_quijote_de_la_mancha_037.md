@@ -4,6 +4,7 @@ title: |-
   XXVII.
   o tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech,
   hodných, aby o nich tato velká historie vypravovala.
+contentType: prose
 ---
 
   
@@ -149,4 +150,4 @@ To jest, pánové, hořký příběh mého neštěstí. Povězte, je-li takový,
 
 Tu skončil Cardenio své dlouhé vypravování, svou historii stejně oplývající slzami jako láskou a v okamžiku, kdy se farář chystal říci mu pár slov útěchy, zarazil jej hlas, který zaslechl a jenž žalostným tónem pronesl, co se poví v dalším oddílu této knihy. Neboť na tomto místě končí moudrý a svědomitý dějepisec Cide Hamete Benengeli oddíl přítomný.
 
-(Konec knihy první)
+_(Konec knihy první)_

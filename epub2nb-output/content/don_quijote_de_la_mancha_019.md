@@ -3,6 +3,7 @@ title: |-
   KAPITOLA IX.,
   kde se vylíčí konec strašného boje, který svedli statný Biskajec a odvážný
   Manchan.
+contentType: prose
 ---
 
   

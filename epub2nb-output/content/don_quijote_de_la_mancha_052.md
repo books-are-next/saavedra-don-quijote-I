@@ -2,6 +2,7 @@
 title: |-
   KAPITOLA XL.,
   jež obsahuje další vyprávění otrokovo.
+contentType: prose
 ---
 
 > _„Ó šťastné duše,  

@@ -4,6 +4,7 @@ title: |-
   XLIII.
   o roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě
   zběhly.
+contentType: prose
 ---
 
 > _Já jsem námořníkem lásky,  

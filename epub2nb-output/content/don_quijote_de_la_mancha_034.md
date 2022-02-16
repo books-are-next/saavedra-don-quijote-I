@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   XXIV.,
   kde se pokračuje v dobrodružství v Sieře Moreně.
+contentType: prose
 ---
 
   

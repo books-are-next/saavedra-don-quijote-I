@@ -4,6 +4,7 @@ title: |-
   XXI., 
   jež jedná o skvostném dobrodružství, v němž dobyto slavné přilby Mambrinovy,
   a o jiných příhodách našeho nepřemožitelného rytíře.
+contentType: prose
 ---
 
   

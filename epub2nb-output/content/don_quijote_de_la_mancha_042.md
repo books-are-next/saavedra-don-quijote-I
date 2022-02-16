@@ -4,6 +4,7 @@ title: |-
   XXX.,
   jež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných
   věcech.
+contentType: prose
 ---
 
   

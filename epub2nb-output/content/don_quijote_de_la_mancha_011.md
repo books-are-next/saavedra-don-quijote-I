@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   I.,
   jež líčí stav a působení slavného rytíře dona Quijota de la Mancha.
+contentType: prose
 ---
 
   

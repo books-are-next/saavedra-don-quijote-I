@@ -1,5 +1,6 @@
 ---
 title: PŘEDMLUVA
+contentType: prose
 ---
 
   

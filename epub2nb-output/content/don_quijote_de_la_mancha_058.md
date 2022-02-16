@@ -4,6 +4,7 @@ title: |-
   XLVI.
   o znamenitém dobrodružství biřiců a o velké zuřivosti našeho zábavného
   rytíře dona Quijota.
+contentType: prose
 ---
 
   

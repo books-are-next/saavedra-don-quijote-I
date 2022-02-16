@@ -4,6 +4,7 @@ title: |-
   XXIX.,
   jež jedná o vtipné lsti a způsobu, jakými byl náš zamilovaný rytíř
   odlákán od překrutého pokání, jež si byl uložil.
+contentType: prose
 ---
 
   
