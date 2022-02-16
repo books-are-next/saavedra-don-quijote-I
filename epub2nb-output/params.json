@@ -1,12 +1,13 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Důmyslný rytíř Don Quijote de la Mancha I",
       "identifier": "1ca88f13-4112-454b-8c7e-e9e479a746dc",
       "author": "Miguel de Cervantes Saavedra",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-02-11T13:39:02.473Z",
-      "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie"
     },
@@ -33,7 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
-        "listType": "bulleted",
+        "listType": "numbered",
         "children": [
           {
             "filename": "don_quijote_de_la_mancha_001.md",
@@ -757,7 +758,8 @@
           }
         ]
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -765,7 +767,7 @@
       "identifier": "1ca88f13-4112-454b-8c7e-e9e479a746dc",
       "author": "Miguel de Cervantes Saavedra",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-16T09:17:24.621Z"
+      "modified": "2022-02-16T09:28:51.371Z"
     },
     "chapters": [
       {
@@ -1296,6 +1298,6 @@
       "user": "books-are-next",
       "repo": "saavedra-don-quijote-I"
     },
-    "generatedAt": 1645003045638
+    "generatedAt": 1645003732415
   }
 }

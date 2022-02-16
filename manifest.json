@@ -1,16 +1,17 @@
 {
   "author": "Miguel de Cervantes Saavedra",
+  "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-70e541c",
+  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-966f40c",
   "languagecode": "cs",
   "modified": "2022-02-11T13:39:02.473Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Důmyslný rytíř Don Quijote de la Mancha I",
-  "revision": "70e541c",
+  "revision": "966f40c",
   "generatedAt": {
-    "date": "Wed Feb 16 2022 09:18:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1645003100842
+    "date": "Wed Feb 16 2022 09:29:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1645003784938
   },
   "documents": [
     {
