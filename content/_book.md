@@ -4,12 +4,13 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Důmyslný rytíř Don Quijote de la Mancha I
   identifier: 1ca88f13-4112-454b-8c7e-e9e479a746dc
   author: Miguel de Cervantes Saavedra
   publisher: Městská knihovna v Praze
   modified: '2022-02-11T13:39:02.473Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
 readingOrder:
@@ -534,7 +535,7 @@ tocBase:
         title: Poznámky pod čarou
         hiddenTitle: false
     isSection: true
-    listType: bulleted
+    listType: numbered
 static:
   - style
   - scripts
