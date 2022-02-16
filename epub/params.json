@@ -24,7 +24,7 @@
       "brAfter": "",
       "blockquote": "mlpversei mlpverse mlpvenovanicxspfirst mlpvenovanicxspmiddle ",
       "figure": "mlpobrazky",
-      "em": "mlpznakkurziva11b mlpdopispodpisi mlpversei mlpverse ",
+      "em": "mlpznakkurziva11b mlpdopispodpisi mlpversei mlpverse mlptextdopravai",
       "strong": "mlpznaktucne ",
       "remove": "",
       "ignore": ""
@@ -83,8 +83,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "CERVANTES A JEHO DON QUIJOTE"
+            "title": "CERVANTES A JEHO DON QUIJOTE",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_006.md",
@@ -104,8 +104,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KNIHA\nPRVNÍ"
+            "title": "KNIHA\nPRVNÍ",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_008.md",
@@ -125,8 +125,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_010.md",
@@ -136,8 +136,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "PŘEDMLUVA"
+            "title": "PŘEDMLUVA",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_011.md",
@@ -147,8 +147,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nI.,\njež líčí stav a působení slavného rytíře dona Quijota de la Mancha."
+            "title": "KAPITOLA\nI.,\njež líčí stav a působení slavného rytíře dona Quijota de la Mancha.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_012.md",
@@ -158,8 +158,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nII.,\njednající o tom, jak poprvé důmyslný don Quijote opustil domov."
+            "title": "KAPITOLA\nII.,\njednající o tom, jak poprvé důmyslný don Quijote opustil domov.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_013.md",
@@ -169,8 +169,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nIII.,\nkde se vypravuje, jakým půvabným způsobem byl don Quijote pasován na\nrytíře."
+            "title": "KAPITOLA\nIII.,\nkde se vypravuje, jakým půvabným způsobem byl don Quijote pasován na\nrytíře.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_014.md",
@@ -180,8 +180,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nIV.\no tom, co se stalo našemu rytíři, když opustil hospodu."
+            "title": "KAPITOLA\nIV.\no tom, co se stalo našemu rytíři, když opustil hospodu.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_015.md",
@@ -191,8 +191,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA V.,\nkde se pokračuje v líčení nehod našeho rytíře."
+            "title": "KAPITOLA V.,\nkde se pokračuje v líčení nehod našeho rytíře.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_016.md",
@@ -202,8 +202,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nVI.\no vtipné velké přehlídce, již farář a holič vykonali v knihovně našeho\ndůmyslného rytíře."
+            "title": "KAPITOLA\nVI.\no vtipné velké přehlídce, již farář a holič vykonali v knihovně našeho\ndůmyslného rytíře.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_017.md",
@@ -213,8 +213,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nVII.\no druhé výpravě zdatného našeho rytíře dona Quijota de la Mancha."
+            "title": "KAPITOLA\nVII.\no druhé výpravě zdatného našeho rytíře dona Quijota de la Mancha.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_018.md",
@@ -224,8 +224,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nVIII.\n o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými\nmlýny a o jiných příhodách, hodných blahé paměti."
+            "title": "KAPITOLA\nVIII.\n o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými\nmlýny a o jiných příhodách, hodných blahé paměti.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_019.md",
@@ -235,8 +235,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA IX.,\nkde se vylíčí konec strašného boje, který svedli statný Biskajec a odvážný\nManchan."
+            "title": "KAPITOLA IX.,\nkde se vylíčí konec strašného boje, který svedli statný Biskajec a odvážný\nManchan.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_020.md",
@@ -246,8 +246,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA X.\no vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem."
+            "title": "KAPITOLA X.\no vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_021.md",
@@ -257,8 +257,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA XI.\no tom, co se donu Quijotovi stalo u pastýřů koz."
+            "title": "KAPITOLA XI.\no tom, co se donu Quijotovi stalo u pastýřů koz.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_022.md",
@@ -268,8 +268,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXII.\no tom, co vyprávěl pastýř společníkům dona Quijota."
+            "title": "KAPITOLA\nXII.\no tom, co vyprávěl pastýř společníkům dona Quijota.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_023.md",
@@ -279,8 +279,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA XIII.,\nkde se končí příběh pastýřky Marcely i jiné příhody."
+            "title": "KAPITOLA XIII.,\nkde se končí příběh pastýřky Marcely i jiné příhody.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_024.md",
@@ -290,8 +290,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXIV.,\nkde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody."
+            "title": "KAPITOLA\nXIV.,\nkde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_025.md",
@@ -301,8 +301,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXV.\no nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských\nsurovců."
+            "title": "KAPITOLA\nXV.\no nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských\nsurovců.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_026.md",
@@ -312,8 +312,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXVI.\no tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad."
+            "title": "KAPITOLA\nXVI.\no tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_027.md",
@@ -323,8 +323,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXVII.,\nkde se pokračuje v nesčetných svízelích statečného dona Quijota a dobrého\nzbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don Quijote měl za\nhrad."
+            "title": "KAPITOLA\nXVII.,\nkde se pokračuje v nesčetných svízelích statečného dona Quijota a dobrého\nzbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don Quijote měl za\nhrad.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_028.md",
@@ -334,8 +334,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXVIII.,\nkde se líčí rozmluva Sancha Panzy s jeho pánem donem Quijotem i jiná\ndobrodružství, hodná vypravování."
+            "title": "KAPITOLA\nXVIII.,\nkde se líčí rozmluva Sancha Panzy s jeho pánem donem Quijotem i jiná\ndobrodružství, hodná vypravování.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_029.md",
@@ -345,8 +345,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXIX.\no bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných slavných\npříbězích."
+            "title": "KAPITOLA\nXIX.\no bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných slavných\npříbězích.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_030.md",
@@ -356,8 +356,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXX. \no nevídaném a neslýchaném dobrodružství, jehož žádný slavný rytíř na\nsvětě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha."
+            "title": "KAPITOLA\nXX. \no nevídaném a neslýchaném dobrodružství, jehož žádný slavný rytíř na\nsvětě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_031.md",
@@ -367,8 +367,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXI., \njež jedná o skvostném dobrodružství, v němž dobyto slavné přilby Mambrinovy,\na o jiných příhodách našeho nepřemožitelného rytíře."
+            "title": "KAPITOLA\nXXI., \njež jedná o skvostném dobrodružství, v němž dobyto slavné přilby Mambrinovy,\na o jiných příhodách našeho nepřemožitelného rytíře.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_032.md",
@@ -378,8 +378,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXII.\no tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně\nvedli, kam se jim nechtělo."
+            "title": "KAPITOLA\nXXII.\no tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně\nvedli, kam se jim nechtělo.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_033.md",
@@ -389,8 +389,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXIII.\no příhodě, jež potkala slavného dona Quijota v Sieře Moreně a jež je z nejzvláštnějších\ndobrodružství této pravdivé historie."
+            "title": "KAPITOLA\nXXIII.\no příhodě, jež potkala slavného dona Quijota v Sieře Moreně a jež je z nejzvláštnějších\ndobrodružství této pravdivé historie.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_034.md",
@@ -400,8 +400,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXIV.,\nkde se pokračuje v dobrodružství v Sieře Moreně."
+            "title": "KAPITOLA\nXXIV.,\nkde se pokračuje v dobrodružství v Sieře Moreně.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_035.md",
@@ -411,8 +411,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXV.,\njednající o tom, co podivuhodného potkalo statečného rytíře z Manchy v Sieře\nMoreně, a o tom, jak napodobil pokání Beltenebrosovo."
+            "title": "KAPITOLA\nXXV.,\njednající o tom, co podivuhodného potkalo statečného rytíře z Manchy v Sieře\nMoreně, a o tom, jak napodobil pokání Beltenebrosovo.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_036.md",
@@ -422,8 +422,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXVI.,\nkde se dále líčí, jakých kousků se don Quijote z lásky dopouštěl v Sieře\nMoreně."
+            "title": "KAPITOLA\nXXVI.,\nkde se dále líčí, jakých kousků se don Quijote z lásky dopouštěl v Sieře\nMoreně.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_037.md",
@@ -433,8 +433,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXVII.\no tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech,\nhodných, aby o nich tato velká historie vypravovala."
+            "title": "KAPITOLA\nXXVII.\no tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech,\nhodných, aby o nich tato velká historie vypravovala.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_038.md",
@@ -444,8 +444,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KNIHA\nDRUHÁ"
+            "title": "KNIHA\nDRUHÁ",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_039.md",
@@ -465,8 +465,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXVIII.,\njež líčí nové a příjemné dobrodružství, které potkalo faráře a holiče v horách."
+            "title": "KAPITOLA\nXXVIII.,\njež líčí nové a příjemné dobrodružství, které potkalo faráře a holiče v horách.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_041.md",
@@ -476,8 +476,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXIX.,\njež jedná o vtipné lsti a způsobu, jakými byl náš zamilovaný rytíř\nodlákán od překrutého pokání, jež si byl uložil."
+            "title": "KAPITOLA\nXXIX.,\njež jedná o vtipné lsti a způsobu, jakými byl náš zamilovaný rytíř\nodlákán od překrutého pokání, jež si byl uložil.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_042.md",
@@ -487,8 +487,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXX.,\njež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných\nvěcech."
+            "title": "KAPITOLA\nXXX.,\njež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných\nvěcech.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_043.md",
@@ -498,8 +498,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXXI.\no půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a příhodách\njiných."
+            "title": "KAPITOLA\nXXXI.\no půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a příhodách\njiných.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_044.md",
@@ -509,8 +509,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXXII.,\nkterá jedná o příhodách dona Quijota a celé družiny v hospodě."
+            "title": "KAPITOLA\nXXXII.,\nkterá jedná o příhodách dona Quijota a celé družiny v hospodě.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_045.md",
@@ -520,8 +520,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXXIII.,\nv níž se vypráví povídka o nevhodně zvědavém."
+            "title": "KAPITOLA\nXXXIII.,\nv níž se vypráví povídka o nevhodně zvědavém.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_046.md",
@@ -531,8 +531,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXXIV.,\nv níž se pokračuje v povídce o nevhodné zvědavosti."
+            "title": "KAPITOLA\nXXXIV.,\nv níž se pokračuje v povídce o nevhodné zvědavosti.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_047.md",
@@ -542,8 +542,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA XXXV.\no zápase statečného a odvážného dona Quijota s několika měchy vína a konec\nhistorie o nevhodně zvědavém."
+            "title": "KAPITOLA XXXV.\no zápase statečného a odvážného dona Quijota s několika měchy vína a konec\nhistorie o nevhodně zvědavém.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_048.md",
@@ -553,8 +553,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXXVI.,\nvyprávějící jiné nezvyklé události, které se v hospodě přihodily."
+            "title": "KAPITOLA\nXXXVI.,\nvyprávějící jiné nezvyklé události, které se v hospodě přihodily.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_049.md",
@@ -564,8 +564,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXXVII.\no slavné princezně Micomiconě a mnohých jiných veselých příbězích."
+            "title": "KAPITOLA\nXXXVII.\no slavné princezně Micomiconě a mnohých jiných veselých příbězích.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_050.md",
@@ -575,8 +575,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXXVIII.\no zajímavé řeči dona Quijota o válečnictví a umění."
+            "title": "KAPITOLA\nXXXVIII.\no zajímavé řeči dona Quijota o válečnictví a umění.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_051.md",
@@ -586,8 +586,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXXXIX.,\nv níž otrok líčí svůj život a příhody."
+            "title": "KAPITOLA\nXXXIX.,\nv níž otrok líčí svůj život a příhody.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_052.md",
@@ -597,8 +597,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA XL.,\njež obsahuje další vyprávění otrokovo."
+            "title": "KAPITOLA XL.,\njež obsahuje další vyprávění otrokovo.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_053.md",
@@ -608,8 +608,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXLI.\no dalších příhodách otrokových."
+            "title": "KAPITOLA\nXLI.\no dalších příhodách otrokových.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_054.md",
@@ -619,8 +619,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXLII.\no dalších příhodách v hospodě a o jiných důležitých událostech."
+            "title": "KAPITOLA\nXLII.\no dalších příhodách v hospodě a o jiných důležitých událostech.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_055.md",
@@ -630,8 +630,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXLIII.\no roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě\nzběhly."
+            "title": "KAPITOLA\nXLIII.\no roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě\nzběhly.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_056.md",
@@ -641,8 +641,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXLIV.\no dalších neslýchaných příhodách v hospodě."
+            "title": "KAPITOLA\nXLIV.\no dalších neslýchaných příhodách v hospodě.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_057.md",
@@ -652,8 +652,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXLV.\no pochybách týkajících se Mambrinovy helmy a soumarského sedla; vypravují\nse také jiné příběhy pravdivě, jak se udály."
+            "title": "KAPITOLA\nXLV.\no pochybách týkajících se Mambrinovy helmy a soumarského sedla; vypravují\nse také jiné příběhy pravdivě, jak se udály.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_058.md",
@@ -663,8 +663,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXLVI.\no znamenitém dobrodružství biřiců a o velké zuřivosti našeho zábavného\nrytíře dona Quijota."
+            "title": "KAPITOLA\nXLVI.\no znamenitém dobrodružství biřiců a o velké zuřivosti našeho zábavného\nrytíře dona Quijota.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_059.md",
@@ -674,8 +674,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA XLVII.\no podivném začarování dona Quijota a jiných zajímavých příhodách."
+            "title": "KAPITOLA XLVII.\no podivném začarování dona Quijota a jiných zajímavých příhodách.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_060.md",
@@ -685,8 +685,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXLVIII.\no jiných názorech kanovníkových, týkajících se rytířských knih, a o věcech\ndalších, jeho rozumu hodných."
+            "title": "KAPITOLA\nXLVIII.\no jiných názorech kanovníkových, týkajících se rytířských knih, a o věcech\ndalších, jeho rozumu hodných.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_061.md",
@@ -696,8 +696,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nXLIX.,\nkde běží o moudrý rozhovor Sancha Panzy s jeho pánem."
+            "title": "KAPITOLA\nXLIX.,\nkde běží o moudrý rozhovor Sancha Panzy s jeho pánem.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_062.md",
@@ -707,8 +707,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA L.\no vtipném sporu dona Quijota s kanovníkem a jiných událostech."
+            "title": "KAPITOLA L.\no vtipném sporu dona Quijota s kanovníkem a jiných událostech.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_063.md",
@@ -718,8 +718,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nLI.\no vyprávění pastevcově průvodcům dona Quijota."
+            "title": "KAPITOLA\nLI.\no vyprávění pastevcově průvodcům dona Quijota.",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_064.md",
@@ -729,8 +729,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA\nLII.\no při dona Quijota s pastevcem a o neslýchaném dobrodružství s kajícníky;\nkteré šťastně dopadlo, ač se velice unavil"
+            "title": "KAPITOLA\nLII.\no při dona Quijota s pastevcem a o neslýchaném dobrodružství s kajícníky;\nkteré šťastně dopadlo, ač se velice unavil",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_065.md",
@@ -740,8 +740,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámky pod čarou"
+            "title": "Poznámky pod čarou",
+            "children": []
           },
           {
             "filename": "don_quijote_de_la_mancha_066.md",
@@ -763,7 +763,7 @@
       "identifier": "1ca88f13-4112-454b-8c7e-e9e479a746dc",
       "author": "Miguel de Cervantes Saavedra",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-14T12:45:29.370Z"
+      "modified": "2022-02-14T12:59:05.972Z"
     },
     "chapters": [
       {
@@ -869,7 +869,7 @@
         "xhtml": "don_quijote_de_la_mancha_017.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nVIII.\n o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými\nmlýny a o jiných příhodách, hodných blahé paměti.",
+        "titleSuggest": "KAPITOLA\nVIII.\n o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými\nmlýny a o jiných příhodách, hodných blahé paměti.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_018.md",
         "xhtml": "don_quijote_de_la_mancha_018.html"
@@ -1294,6 +1294,6 @@
       "user": "books-are-next",
       "repo": "saavedra-don-quijote-I"
     },
-    "generatedAt": 1644842730316
+    "generatedAt": 1644843547238
   }
 }
