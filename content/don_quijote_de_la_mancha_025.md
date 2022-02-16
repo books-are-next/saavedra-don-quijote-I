@@ -4,6 +4,7 @@ title: |-
   XV.
   o nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských
   surovců.
+contentType: prose
 ---
 
   

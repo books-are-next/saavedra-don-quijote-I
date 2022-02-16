@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   XII.
   o tom, co vyprávěl pastýř společníkům dona Quijota.
+contentType: prose
 ---
 
   

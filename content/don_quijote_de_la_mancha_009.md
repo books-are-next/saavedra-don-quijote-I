@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 > **VÉVODOVI DE BÉJAR,**  

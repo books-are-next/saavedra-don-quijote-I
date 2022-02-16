@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   XLI.
   o dalších příhodách otrokových.
+contentType: prose
 ---
 
   

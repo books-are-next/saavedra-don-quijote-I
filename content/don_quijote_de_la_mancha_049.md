@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   XXXVII.
   o slavné princezně Micomiconě a mnohých jiných veselých příbězích.
+contentType: prose
 ---
 
   

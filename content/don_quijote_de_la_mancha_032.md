@@ -4,6 +4,7 @@ title: |-
   XXII.
   o tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně
   vedli, kam se jim nechtělo.
+contentType: prose
 ---
 
   

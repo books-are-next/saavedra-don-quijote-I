@@ -2,6 +2,7 @@
 title: |-
   KAPITOLA X.
   o vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem.
+contentType: prose
 ---
 
   

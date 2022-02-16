@@ -1,5 +1,6 @@
 ---
 title: CERVANTES A JEHO DON QUIJOTE
+contentType: prose
 ---
 
   

@@ -2,6 +2,7 @@
 title: |-
   KAPITOLA XIII.,
   kde se končí příběh pastýřky Marcely i jiné příhody.
+contentType: prose
 ---
 
   

@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   XLII.
   o dalších příhodách v hospodě a o jiných důležitých událostech.
+contentType: prose
 ---
 
   

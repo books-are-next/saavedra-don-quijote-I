@@ -2,6 +2,7 @@
 title: |-
   KAPITOLA L.
   o vtipném sporu dona Quijota s kanovníkem a jiných událostech.
+contentType: prose
 ---
 
   

@@ -4,6 +4,7 @@ title: |-
   XXVI.,
   kde se dále líčí, jakých kousků se don Quijote z lásky dopouštěl v Sieře
   Moreně.
+contentType: prose
 ---
 
   

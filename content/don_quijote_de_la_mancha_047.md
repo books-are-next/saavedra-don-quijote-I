@@ -3,6 +3,7 @@ title: |-
   KAPITOLA XXXV.
   o zápase statečného a odvážného dona Quijota s několika měchy vína a konec
   historie o nevhodně zvědavém.
+contentType: prose
 ---
 
   

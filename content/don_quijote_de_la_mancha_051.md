@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   XXXIX.,
   v níž otrok líčí svůj život a příhody.
+contentType: prose
 ---
 
   

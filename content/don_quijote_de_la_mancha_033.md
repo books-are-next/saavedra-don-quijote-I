@@ -8,6 +8,7 @@ title: >-
   nejzvláštnějších
 
   dobrodružství této pravdivé historie.
+contentType: prose
 ---
 
   

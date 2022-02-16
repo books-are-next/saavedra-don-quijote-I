@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   XXXIII.,
   v níž se vypráví povídka o nevhodně zvědavém.
+contentType: prose
 ---
 
   

@@ -3,6 +3,7 @@ title: |-
   KAPITOLA
   XLIV.
   o dalších neslýchaných příhodách v hospodě.
+contentType: prose
 ---
 
   
