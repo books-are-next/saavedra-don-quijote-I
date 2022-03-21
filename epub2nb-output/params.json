@@ -34,7 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
-        "listType": "numbered",
+        "listType": "plain",
         "children": [
           {
             "filename": "don_quijote_de_la_mancha_001.md",
@@ -101,8 +101,8 @@
             "filename": "don_quijote_de_la_mancha_007.md",
             "xhtml": "don_quijote_de_la_mancha_007.html",
             "id": 6,
-            "role": "chapter",
-            "listType": "plain",
+            "role": "break",
+            "listType": "bulleted",
             "inToc": true,
             "hiddenTitle": false,
             "title": "KNIHA\nPRVNÍ",
@@ -442,8 +442,8 @@
             "filename": "don_quijote_de_la_mancha_038.md",
             "xhtml": "don_quijote_de_la_mancha_038.html",
             "id": 37,
-            "role": "chapter",
-            "listType": "plain",
+            "role": "break",
+            "listType": "bulleted",
             "inToc": true,
             "hiddenTitle": false,
             "title": "KNIHA\nDRUHÁ",
@@ -767,7 +767,7 @@
       "identifier": "1ca88f13-4112-454b-8c7e-e9e479a746dc",
       "author": "Miguel de Cervantes Saavedra",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-16T09:28:51.371Z"
+      "modified": "2018-01-09T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -1298,6 +1298,6 @@
       "user": "books-are-next",
       "repo": "saavedra-don-quijote-I"
     },
-    "generatedAt": 1645003732415
+    "generatedAt": 1647854208979
   }
 }
