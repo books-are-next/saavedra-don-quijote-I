@@ -334,7 +334,7 @@ tocBase:
 
               hodných, aby o nich tato velká historie vypravovala.
             hiddenTitle: false
-        listType: plain
+        listType: bulleted
       - link: don_quijote_de_la_mancha_038.html
         title: |-
           KNIHA
@@ -530,12 +530,12 @@ tocBase:
 
               které šťastně dopadlo, ač se velice unavil
             hiddenTitle: false
-        listType: plain
+        listType: bulleted
       - link: don_quijote_de_la_mancha_065.html
         title: Poznámky pod čarou
         hiddenTitle: false
     isSection: true
-    listType: numbered
+    listType: plain
 static:
   - style
   - scripts
