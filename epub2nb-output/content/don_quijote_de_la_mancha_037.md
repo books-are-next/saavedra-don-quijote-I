@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XXVII.
-  o tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech,
-  hodných, aby o nich tato velká historie vypravovala.
+title: >-
+  KAPITOLA XXVII\. o tom, jak uskutečnili farář a holič svůj úmysl, a o jiných
+  věcech, hodných, aby o nich tato velká historie vypravovala\.
 contentType: prose
 ---
 

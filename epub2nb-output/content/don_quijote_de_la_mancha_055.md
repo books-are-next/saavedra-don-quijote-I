@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XLIII.
-  o roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě
-  zběhly.
+title: >-
+  KAPITOLA XLIII\. o roztomilém příběhu mezkaře a jiných divných událostech,
+  které se v hospodě zběhly\.
 contentType: prose
 ---
 

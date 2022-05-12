@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXXIV.,
-  v níž se pokračuje v povídce o nevhodné zvědavosti.
+title: KAPITOLA XXXIV\., v níž se pokračuje v povídce o nevhodné zvědavosti\.
 contentType: prose
 ---
 

@@ -1,13 +1,7 @@
 ---
 title: >-
-  KAPITOLA
-
-  XXIII.
-
-  o příhodě, jež potkala slavného dona Quijota v Sieře Moreně a jež je z
-  nejzvláštnějších
-
-  dobrodružství této pravdivé historie.
+  KAPITOLA XXIII\. o příhodě, jež potkala slavného dona Quijota v Sieře Moreně a
+  jež je z nejzvláštnějších dobrodružství této pravdivé historie\.
 contentType: prose
 ---
 

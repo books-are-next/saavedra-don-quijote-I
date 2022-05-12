@@ -1,9 +1,8 @@
 ---
-title: |-
-  KAPITOLA
-  XX. 
-  o nevídaném a neslýchaném dobrodružství, jehož žádný slavný rytíř na
-  světě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha.
+title: >-
+  KAPITOLA XX\.  o nevídaném a neslýchaném dobrodružství, jehož žádný slavný
+  rytíř na světě nepodnikl s menším nebezpečím než statečný don Quijote de la
+  Mancha\.
 contentType: prose
 ---
 

@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  III.,
-  kde se vypravuje, jakým půvabným způsobem byl don Quijote pasován na
-  rytíře.
+title: >-
+  KAPITOLA III\., kde se vypravuje, jakým půvabným způsobem byl don Quijote
+  pasován na rytíře\.
 contentType: prose
 ---
 

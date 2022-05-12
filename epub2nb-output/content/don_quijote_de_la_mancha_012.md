@@ -1,8 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  II.,
-  jednající o tom, jak poprvé důmyslný don Quijote opustil domov.
+title: >-
+  KAPITOLA II\., jednající o tom, jak poprvé důmyslný don Quijote opustil
+  domov\.
 contentType: prose
 ---
 

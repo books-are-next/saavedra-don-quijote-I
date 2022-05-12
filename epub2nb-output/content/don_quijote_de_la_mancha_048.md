@@ -1,8 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XXXVI.,
-  vyprávějící jiné nezvyklé události, které se v hospodě přihodily.
+title: >-
+  KAPITOLA XXXVI\., vyprávějící jiné nezvyklé události, které se v hospodě
+  přihodily\.
 contentType: prose
 ---
 

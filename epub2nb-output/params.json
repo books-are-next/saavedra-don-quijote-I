@@ -50,7 +50,7 @@
             "filename": "don_quijote_de_la_mancha_002.md",
             "xhtml": "don_quijote_de_la_mancha_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -758,8 +758,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -807,7 +806,7 @@
         "xhtml": "don_quijote_de_la_mancha_006.html"
       },
       {
-        "titleSuggest": "KNIHA\nPRVNÍ",
+        "titleSuggest": "KNIHA PRVNÍ",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_007.md",
         "xhtml": "don_quijote_de_la_mancha_007.html"
@@ -831,169 +830,169 @@
         "xhtml": "don_quijote_de_la_mancha_010.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nI.,\njež líčí stav a působení slavného rytíře dona Quijota de la Mancha.",
+        "titleSuggest": "KAPITOLA I\\., jež líčí stav a působení slavného rytíře dona Quijota de la Mancha\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_011.md",
         "xhtml": "don_quijote_de_la_mancha_011.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nII.,\njednající o tom, jak poprvé důmyslný don Quijote opustil domov.",
+        "titleSuggest": "KAPITOLA II\\., jednající o tom, jak poprvé důmyslný don Quijote opustil domov\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_012.md",
         "xhtml": "don_quijote_de_la_mancha_012.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nIII.,\nkde se vypravuje, jakým půvabným způsobem byl don Quijote pasován na\nrytíře.",
+        "titleSuggest": "KAPITOLA III\\., kde se vypravuje, jakým půvabným způsobem byl don Quijote pasován na rytíře\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_013.md",
         "xhtml": "don_quijote_de_la_mancha_013.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nIV.\no tom, co se stalo našemu rytíři, když opustil hospodu.",
+        "titleSuggest": "KAPITOLA IV\\. o tom, co se stalo našemu rytíři, když opustil hospodu\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_014.md",
         "xhtml": "don_quijote_de_la_mancha_014.html"
       },
       {
-        "titleSuggest": "KAPITOLA V.,\nkde se pokračuje v líčení nehod našeho rytíře.",
+        "titleSuggest": "KAPITOLA V\\., kde se pokračuje v líčení nehod našeho rytíře\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_015.md",
         "xhtml": "don_quijote_de_la_mancha_015.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nVI.\no vtipné velké přehlídce, již farář a holič vykonali v knihovně našeho\ndůmyslného rytíře.",
+        "titleSuggest": "KAPITOLA VI\\. o vtipné velké přehlídce, již farář a holič vykonali v knihovně našeho důmyslného rytíře\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_016.md",
         "xhtml": "don_quijote_de_la_mancha_016.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nVII.\no druhé výpravě zdatného našeho rytíře dona Quijota de la Mancha.",
+        "titleSuggest": "KAPITOLA VII\\. o druhé výpravě zdatného našeho rytíře dona Quijota de la Mancha\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_017.md",
         "xhtml": "don_quijote_de_la_mancha_017.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nVIII.\n o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými\nmlýny a o jiných příhodách, hodných blahé paměti.",
+        "titleSuggest": "KAPITOLA VIII\\.  o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými mlýny a o jiných příhodách, hodných blahé paměti\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_018.md",
         "xhtml": "don_quijote_de_la_mancha_018.html"
       },
       {
-        "titleSuggest": "KAPITOLA IX.,\nkde se vylíčí konec strašného boje, který svedli statný Biskajec a odvážný\nManchan.",
+        "titleSuggest": "KAPITOLA IX\\., kde se vylíčí konec strašného boje, který svedli statný Biskajec a odvážný Manchan\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_019.md",
         "xhtml": "don_quijote_de_la_mancha_019.html"
       },
       {
-        "titleSuggest": "KAPITOLA X.\no vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem.",
+        "titleSuggest": "KAPITOLA X\\. o vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_020.md",
         "xhtml": "don_quijote_de_la_mancha_020.html"
       },
       {
-        "titleSuggest": "KAPITOLA XI.\no tom, co se donu Quijotovi stalo u pastýřů koz.",
+        "titleSuggest": "KAPITOLA XI\\. o tom, co se donu Quijotovi stalo u pastýřů koz\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_021.md",
         "xhtml": "don_quijote_de_la_mancha_021.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXII.\no tom, co vyprávěl pastýř společníkům dona Quijota.",
+        "titleSuggest": "KAPITOLA XII\\. o tom, co vyprávěl pastýř společníkům dona Quijota\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_022.md",
         "xhtml": "don_quijote_de_la_mancha_022.html"
       },
       {
-        "titleSuggest": "KAPITOLA XIII.,\nkde se končí příběh pastýřky Marcely i jiné příhody.",
+        "titleSuggest": "KAPITOLA XIII\\., kde se končí příběh pastýřky Marcely i jiné příhody\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_023.md",
         "xhtml": "don_quijote_de_la_mancha_023.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXIV.,\nkde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody.",
+        "titleSuggest": "KAPITOLA XIV\\., kde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_024.md",
         "xhtml": "don_quijote_de_la_mancha_024.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXV.\no nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských\nsurovců.",
+        "titleSuggest": "KAPITOLA XV\\. o nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských surovců\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_025.md",
         "xhtml": "don_quijote_de_la_mancha_025.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXVI.\no tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad.",
+        "titleSuggest": "KAPITOLA XVI\\. o tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_026.md",
         "xhtml": "don_quijote_de_la_mancha_026.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXVII.,\nkde se pokračuje v nesčetných svízelích statečného dona Quijota a dobrého\nzbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don Quijote měl za\nhrad.",
+        "titleSuggest": "KAPITOLA XVII\\., kde se pokračuje v nesčetných svízelích statečného dona Quijota a dobrého zbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don Quijote měl za hrad\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_027.md",
         "xhtml": "don_quijote_de_la_mancha_027.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXVIII.,\nkde se líčí rozmluva Sancha Panzy s jeho pánem donem Quijotem i jiná\ndobrodružství, hodná vypravování.",
+        "titleSuggest": "KAPITOLA XVIII\\., kde se líčí rozmluva Sancha Panzy s jeho pánem donem Quijotem i jiná dobrodružství, hodná vypravování\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_028.md",
         "xhtml": "don_quijote_de_la_mancha_028.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXIX.\no bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných slavných\npříbězích.",
+        "titleSuggest": "KAPITOLA XIX\\. o bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných slavných příbězích\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_029.md",
         "xhtml": "don_quijote_de_la_mancha_029.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXX. \no nevídaném a neslýchaném dobrodružství, jehož žádný slavný rytíř na\nsvětě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha.",
+        "titleSuggest": "KAPITOLA XX\\.  o nevídaném a neslýchaném dobrodružství, jehož žádný slavný rytíř na světě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_030.md",
         "xhtml": "don_quijote_de_la_mancha_030.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXI., \njež jedná o skvostném dobrodružství, v němž dobyto slavné přilby Mambrinovy,\na o jiných příhodách našeho nepřemožitelného rytíře.",
+        "titleSuggest": "KAPITOLA XXI\\.,  jež jedná o skvostném dobrodružství, v němž dobyto slavné přilby Mambrinovy, a o jiných příhodách našeho nepřemožitelného rytíře\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_031.md",
         "xhtml": "don_quijote_de_la_mancha_031.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXII.\no tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně\nvedli, kam se jim nechtělo.",
+        "titleSuggest": "KAPITOLA XXII\\. o tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně vedli, kam se jim nechtělo\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_032.md",
         "xhtml": "don_quijote_de_la_mancha_032.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXIII.\no příhodě, jež potkala slavného dona Quijota v Sieře Moreně a jež je z nejzvláštnějších\ndobrodružství této pravdivé historie.",
+        "titleSuggest": "KAPITOLA XXIII\\. o příhodě, jež potkala slavného dona Quijota v Sieře Moreně a jež je z nejzvláštnějších dobrodružství této pravdivé historie\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_033.md",
         "xhtml": "don_quijote_de_la_mancha_033.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXIV.,\nkde se pokračuje v dobrodružství v Sieře Moreně.",
+        "titleSuggest": "KAPITOLA XXIV\\., kde se pokračuje v dobrodružství v Sieře Moreně\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_034.md",
         "xhtml": "don_quijote_de_la_mancha_034.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXV.,\njednající o tom, co podivuhodného potkalo statečného rytíře z Manchy v Sieře\nMoreně, a o tom, jak napodobil pokání Beltenebrosovo.",
+        "titleSuggest": "KAPITOLA XXV\\., jednající o tom, co podivuhodného potkalo statečného rytíře z Manchy v Sieře Moreně, a o tom, jak napodobil pokání Beltenebrosovo\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_035.md",
         "xhtml": "don_quijote_de_la_mancha_035.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXVI.,\nkde se dále líčí, jakých kousků se don Quijote z lásky dopouštěl v Sieře\nMoreně.",
+        "titleSuggest": "KAPITOLA XXVI\\., kde se dále líčí, jakých kousků se don Quijote z lásky dopouštěl v Sieře Moreně\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_036.md",
         "xhtml": "don_quijote_de_la_mancha_036.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXVII.\no tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech,\nhodných, aby o nich tato velká historie vypravovala.",
+        "titleSuggest": "KAPITOLA XXVII\\. o tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech, hodných, aby o nich tato velká historie vypravovala\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_037.md",
         "xhtml": "don_quijote_de_la_mancha_037.html"
       },
       {
-        "titleSuggest": "KNIHA\nDRUHÁ",
+        "titleSuggest": "KNIHA DRUHÁ",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_038.md",
         "xhtml": "don_quijote_de_la_mancha_038.html"
@@ -1005,151 +1004,151 @@
         "xhtml": "don_quijote_de_la_mancha_039.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXVIII.,\njež líčí nové a příjemné dobrodružství, které potkalo faráře a holiče v horách.",
+        "titleSuggest": "KAPITOLA XXVIII\\., jež líčí nové a příjemné dobrodružství, které potkalo faráře a holiče v horách\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_040.md",
         "xhtml": "don_quijote_de_la_mancha_040.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXIX.,\njež jedná o vtipné lsti a způsobu, jakými byl náš zamilovaný rytíř\nodlákán od překrutého pokání, jež si byl uložil.",
+        "titleSuggest": "KAPITOLA XXIX\\., jež jedná o vtipné lsti a způsobu, jakými byl náš zamilovaný rytíř odlákán od překrutého pokání, jež si byl uložil\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_041.md",
         "xhtml": "don_quijote_de_la_mancha_041.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXX.,\njež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných\nvěcech.",
+        "titleSuggest": "KAPITOLA XXX\\., jež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných věcech\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_042.md",
         "xhtml": "don_quijote_de_la_mancha_042.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXXI.\no půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a příhodách\njiných.",
+        "titleSuggest": "KAPITOLA XXXI\\. o půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a příhodách jiných\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_043.md",
         "xhtml": "don_quijote_de_la_mancha_043.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXXII.,\nkterá jedná o příhodách dona Quijota a celé družiny v hospodě.",
+        "titleSuggest": "KAPITOLA XXXII\\., která jedná o příhodách dona Quijota a celé družiny v hospodě\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_044.md",
         "xhtml": "don_quijote_de_la_mancha_044.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXXIII.,\nv níž se vypráví povídka o nevhodně zvědavém.",
+        "titleSuggest": "KAPITOLA XXXIII\\., v níž se vypráví povídka o nevhodně zvědavém\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_045.md",
         "xhtml": "don_quijote_de_la_mancha_045.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXXIV.,\nv níž se pokračuje v povídce o nevhodné zvědavosti.",
+        "titleSuggest": "KAPITOLA XXXIV\\., v níž se pokračuje v povídce o nevhodné zvědavosti\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_046.md",
         "xhtml": "don_quijote_de_la_mancha_046.html"
       },
       {
-        "titleSuggest": "KAPITOLA XXXV.\no zápase statečného a odvážného dona Quijota s několika měchy vína a konec\nhistorie o nevhodně zvědavém.",
+        "titleSuggest": "KAPITOLA XXXV\\. o zápase statečného a odvážného dona Quijota s několika měchy vína a konec historie o nevhodně zvědavém\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_047.md",
         "xhtml": "don_quijote_de_la_mancha_047.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXXVI.,\nvyprávějící jiné nezvyklé události, které se v hospodě přihodily.",
+        "titleSuggest": "KAPITOLA XXXVI\\., vyprávějící jiné nezvyklé události, které se v hospodě přihodily\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_048.md",
         "xhtml": "don_quijote_de_la_mancha_048.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXXVII.\no slavné princezně Micomiconě a mnohých jiných veselých příbězích.",
+        "titleSuggest": "KAPITOLA XXXVII\\. o slavné princezně Micomiconě a mnohých jiných veselých příbězích\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_049.md",
         "xhtml": "don_quijote_de_la_mancha_049.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXXVIII.\no zajímavé řeči dona Quijota o válečnictví a umění.",
+        "titleSuggest": "KAPITOLA XXXVIII\\. o zajímavé řeči dona Quijota o válečnictví a umění\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_050.md",
         "xhtml": "don_quijote_de_la_mancha_050.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXXXIX.,\nv níž otrok líčí svůj život a příhody.",
+        "titleSuggest": "KAPITOLA XXXIX\\., v níž otrok líčí svůj život a příhody\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_051.md",
         "xhtml": "don_quijote_de_la_mancha_051.html"
       },
       {
-        "titleSuggest": "KAPITOLA XL.,\njež obsahuje další vyprávění otrokovo.",
+        "titleSuggest": "KAPITOLA XL\\., jež obsahuje další vyprávění otrokovo\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_052.md",
         "xhtml": "don_quijote_de_la_mancha_052.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXLI.\no dalších příhodách otrokových.",
+        "titleSuggest": "KAPITOLA XLI\\. o dalších příhodách otrokových\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_053.md",
         "xhtml": "don_quijote_de_la_mancha_053.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXLII.\no dalších příhodách v hospodě a o jiných důležitých událostech.",
+        "titleSuggest": "KAPITOLA XLII\\. o dalších příhodách v hospodě a o jiných důležitých událostech\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_054.md",
         "xhtml": "don_quijote_de_la_mancha_054.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXLIII.\no roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě\nzběhly.",
+        "titleSuggest": "KAPITOLA XLIII\\. o roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě zběhly\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_055.md",
         "xhtml": "don_quijote_de_la_mancha_055.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXLIV.\no dalších neslýchaných příhodách v hospodě.",
+        "titleSuggest": "KAPITOLA XLIV\\. o dalších neslýchaných příhodách v hospodě\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_056.md",
         "xhtml": "don_quijote_de_la_mancha_056.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXLV.\no pochybách týkajících se Mambrinovy helmy a soumarského sedla; vypravují\nse také jiné příběhy pravdivě, jak se udály.",
+        "titleSuggest": "KAPITOLA XLV\\. o pochybách týkajících se Mambrinovy helmy a soumarského sedla; vypravují se také jiné příběhy pravdivě, jak se udály\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_057.md",
         "xhtml": "don_quijote_de_la_mancha_057.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXLVI.\no znamenitém dobrodružství biřiců a o velké zuřivosti našeho zábavného\nrytíře dona Quijota.",
+        "titleSuggest": "KAPITOLA XLVI\\. o znamenitém dobrodružství biřiců a o velké zuřivosti našeho zábavného rytíře dona Quijota\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_058.md",
         "xhtml": "don_quijote_de_la_mancha_058.html"
       },
       {
-        "titleSuggest": "KAPITOLA XLVII.\no podivném začarování dona Quijota a jiných zajímavých příhodách.",
+        "titleSuggest": "KAPITOLA XLVII\\. o podivném začarování dona Quijota a jiných zajímavých příhodách\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_059.md",
         "xhtml": "don_quijote_de_la_mancha_059.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXLVIII.\no jiných názorech kanovníkových, týkajících se rytířských knih, a o věcech\ndalších, jeho rozumu hodných.",
+        "titleSuggest": "KAPITOLA XLVIII\\. o jiných názorech kanovníkových, týkajících se rytířských knih, a o věcech dalších, jeho rozumu hodných\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_060.md",
         "xhtml": "don_quijote_de_la_mancha_060.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nXLIX.,\nkde běží o moudrý rozhovor Sancha Panzy s jeho pánem.",
+        "titleSuggest": "KAPITOLA XLIX\\., kde běží o moudrý rozhovor Sancha Panzy s jeho pánem\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_061.md",
         "xhtml": "don_quijote_de_la_mancha_061.html"
       },
       {
-        "titleSuggest": "KAPITOLA L.\no vtipném sporu dona Quijota s kanovníkem a jiných událostech.",
+        "titleSuggest": "KAPITOLA L\\. o vtipném sporu dona Quijota s kanovníkem a jiných událostech\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_062.md",
         "xhtml": "don_quijote_de_la_mancha_062.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nLI.\no vyprávění pastevcově průvodcům dona Quijota.",
+        "titleSuggest": "KAPITOLA LI\\. o vyprávění pastevcově průvodcům dona Quijota\\.",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_063.md",
         "xhtml": "don_quijote_de_la_mancha_063.html"
       },
       {
-        "titleSuggest": "KAPITOLA\nLII.\no při dona Quijota s pastevcem a o neslýchaném dobrodružství s kajícníky;\nkteré šťastně dopadlo, ač se velice unavil",
+        "titleSuggest": "KAPITOLA LII\\. o při dona Quijota s pastevcem a o neslýchaném dobrodružství s kajícníky; které šťastně dopadlo, ač se velice unavil",
         "subtitleSuggest": "",
         "filename": "don_quijote_de_la_mancha_064.md",
         "xhtml": "don_quijote_de_la_mancha_064.html"
@@ -1298,6 +1297,6 @@
       "user": "books-are-next",
       "repo": "saavedra-don-quijote-I"
     },
-    "generatedAt": 1647854208979
+    "generatedAt": 1652351434736
   }
 }

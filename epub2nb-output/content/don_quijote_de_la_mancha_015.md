@@ -1,7 +1,5 @@
 ---
-title: |-
-  KAPITOLA V.,
-  kde se pokračuje v líčení nehod našeho rytíře.
+title: KAPITOLA V\., kde se pokračuje v líčení nehod našeho rytíře\.
 contentType: prose
 ---
 

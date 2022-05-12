@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XXII.
-  o tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně
-  vedli, kam se jim nechtělo.
+title: >-
+  KAPITOLA XXII\. o tom, jak don Quijote opatřil svobodu mnoha ubožákům, které
+  násilně vedli, kam se jim nechtělo\.
 contentType: prose
 ---
 

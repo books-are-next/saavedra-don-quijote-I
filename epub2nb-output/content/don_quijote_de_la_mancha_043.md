@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XXXI.
-  o půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a příhodách
-  jiných.
+title: >-
+  KAPITOLA XXXI\. o půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a
+  příhodách jiných\.
 contentType: prose
 ---
 

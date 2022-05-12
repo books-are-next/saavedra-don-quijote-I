@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XLIX.,
-  kde běží o moudrý rozhovor Sancha Panzy s jeho pánem.
+title: KAPITOLA XLIX\., kde běží o moudrý rozhovor Sancha Panzy s jeho pánem\.
 contentType: prose
 ---
 

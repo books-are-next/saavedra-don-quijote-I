@@ -1,8 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XVI.
-  o tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad.
+title: >-
+  KAPITOLA XVI\. o tom, co potkalo důmyslného rytíře v hospodě, již měl za
+  hrad\.
 contentType: prose
 ---
 

@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XVIII.,
-  kde se líčí rozmluva Sancha Panzy s jeho pánem donem Quijotem i jiná
-  dobrodružství, hodná vypravování.
+title: >-
+  KAPITOLA XVIII\., kde se líčí rozmluva Sancha Panzy s jeho pánem donem
+  Quijotem i jiná dobrodružství, hodná vypravování\.
 contentType: prose
 ---
 

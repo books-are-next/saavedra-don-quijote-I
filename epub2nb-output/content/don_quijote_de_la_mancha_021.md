@@ -1,7 +1,5 @@
 ---
-title: |-
-  KAPITOLA XI.
-  o tom, co se donu Quijotovi stalo u pastýřů koz.
+title: KAPITOLA XI\. o tom, co se donu Quijotovi stalo u pastýřů koz\.
 contentType: prose
 ---
 

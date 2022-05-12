@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XXX.,
-  jež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných
-  věcech.
+title: >-
+  KAPITOLA XXX\., jež pojednává o moudrosti krásné Dorotey a jiných příjemných a
+  zábavných věcech\.
 contentType: prose
 ---
 

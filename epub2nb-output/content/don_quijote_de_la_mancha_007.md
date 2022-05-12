@@ -1,7 +1,5 @@
 ---
-title: |-
-  KNIHA
-  PRVNÍ
+title: KNIHA PRVNÍ
 contentType: prose
 ---
 

@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  LII.
-  o při dona Quijota s pastevcem a o neslýchaném dobrodružství s kajícníky;
-  které šťastně dopadlo, ač se velice unavil
+title: >-
+  KAPITOLA LII\. o při dona Quijota s pastevcem a o neslýchaném dobrodružství s
+  kajícníky; které šťastně dopadlo, ač se velice unavil
 contentType: prose
 ---
 

@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XXV.,
-  jednající o tom, co podivuhodného potkalo statečného rytíře z Manchy v Sieře
-  Moreně, a o tom, jak napodobil pokání Beltenebrosovo.
+title: >-
+  KAPITOLA XXV\., jednající o tom, co podivuhodného potkalo statečného rytíře z
+  Manchy v Sieře Moreně, a o tom, jak napodobil pokání Beltenebrosovo\.
 contentType: prose
 ---
 

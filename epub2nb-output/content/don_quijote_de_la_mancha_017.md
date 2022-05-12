@@ -1,8 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  VII.
-  o druhé výpravě zdatného našeho rytíře dona Quijota de la Mancha.
+title: >-
+  KAPITOLA VII\. o druhé výpravě zdatného našeho rytíře dona Quijota de la
+  Mancha\.
 contentType: prose
 ---
 
