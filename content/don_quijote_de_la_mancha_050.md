@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXXVIII.
-  o zajímavé řeči dona Quijota o válečnictví a umění.
+title: KAPITOLA XXXVIII\. o zajímavé řeči dona Quijota o válečnictví a umění\.
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  KNIHA
-  DRUHÁ
+title: KNIHA DRUHÁ
 contentType: prose
 ---
 

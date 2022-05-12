@@ -1,7 +1,5 @@
 ---
-title: |-
-  KAPITOLA XL.,
-  jež obsahuje další vyprávění otrokovo.
+title: KAPITOLA XL\., jež obsahuje další vyprávění otrokovo\.
 contentType: prose
 ---
 

@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XV.
-  o nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských
-  surovců.
+title: >-
+  KAPITOLA XV\. o nehodě, jež potkala dona Quijota, když cestou natrefil několik
+  yanguesských surovců\.
 contentType: prose
 ---
 

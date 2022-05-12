@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  LI.
-  o vyprávění pastevcově průvodcům dona Quijota.
+title: KAPITOLA LI\. o vyprávění pastevcově průvodcům dona Quijota\.
 contentType: prose
 ---
 

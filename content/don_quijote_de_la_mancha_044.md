@@ -1,8 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XXXII.,
-  která jedná o příhodách dona Quijota a celé družiny v hospodě.
+title: >-
+  KAPITOLA XXXII\., která jedná o příhodách dona Quijota a celé družiny v
+  hospodě\.
 contentType: prose
 ---
 

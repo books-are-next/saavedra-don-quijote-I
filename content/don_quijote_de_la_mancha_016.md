@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  VI.
-  o vtipné velké přehlídce, již farář a holič vykonali v knihovně našeho
-  důmyslného rytíře.
+title: >-
+  KAPITOLA VI\. o vtipné velké přehlídce, již farář a holič vykonali v knihovně
+  našeho důmyslného rytíře\.
 contentType: prose
 ---
 

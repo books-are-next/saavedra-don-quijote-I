@@ -1,9 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XIX.
-  o bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných slavných
-  příbězích.
+title: >-
+  KAPITOLA XIX\. o bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných
+  slavných příbězích\.
 contentType: prose
 ---
 

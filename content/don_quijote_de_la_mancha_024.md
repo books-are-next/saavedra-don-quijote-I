@@ -1,8 +1,7 @@
 ---
-title: |-
-  KAPITOLA
-  XIV.,
-  kde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody.
+title: >-
+  KAPITOLA XIV\., kde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané
+  příhody\.
 contentType: prose
 ---
 

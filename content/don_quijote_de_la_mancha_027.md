@@ -1,10 +1,8 @@
 ---
-title: |-
-  KAPITOLA
-  XVII.,
-  kde se pokračuje v nesčetných svízelích statečného dona Quijota a dobrého
-  zbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don Quijote měl za
-  hrad.
+title: >-
+  KAPITOLA XVII\., kde se pokračuje v nesčetných svízelích statečného dona
+  Quijota a dobrého zbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don
+  Quijote měl za hrad\.
 contentType: prose
 ---
 

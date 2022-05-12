@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - don_quijote_de_la_mancha_002.html
+  - promo.html
   - don_quijote_de_la_mancha_005.html
   - don_quijote_de_la_mancha_006.html
   - don_quijote_de_la_mancha_007.html

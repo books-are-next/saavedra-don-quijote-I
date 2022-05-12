@@ -1,7 +1,7 @@
 ---
-title: |-
-  KAPITOLA XLVII.
-  o podivném začarování dona Quijota a jiných zajímavých příhodách.
+title: >-
+  KAPITOLA XLVII\. o podivném začarování dona Quijota a jiných zajímavých
+  příhodách\.
 contentType: prose
 ---
 
