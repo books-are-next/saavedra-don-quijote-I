@@ -3,7 +3,7 @@ title: KAPITOLA XLIX\., kde běží o moudrý rozhovor Sancha Panzy s jeho páne
 contentType: prose
 ---
 
-  
+<section>
 
 „Ach, už to mám,“ řekl Sancho, „to jsem chtěl vědět stůj co stůj! Nuže, pane, poslyšte, nemůžete popřít, že se všeobecně říká, když je někdo ve špatné náladě: nevím co mu je, nejí, nepije, nespí, neodpovídá rozumně, jistě je očarován. Z toho plyne, že ti, co nejedí, nespí, nepijí a nevykonávají těch přirozených věcí, o nichž mluvím, jsou právě začarovaní; ale nejsou jimi ti, kterým se chce to, co se chce Vaší Milosti, která pije, když jí dají, a jí, když má co, a odpovídá na vše.“
 
@@ -64,3 +64,5 @@ Kanovník užasl nad spletí lží a pravd, a protože si všiml, že don Quijot
 „Je tam zcela určitě,“ řekl don Quijote, „někteří tvrdí, že v koženém pouzdru, aby neshnil.“
 
 „Věřím tomu,“ na to kanovník, „ale jako že jsem vysvěcen, neviděl jsem jej; ale dejme tomu, že jsem jej přehlédl; proto však nemusíme věřit vyprávění o těch různých Amadisech a o jiných rytířích; není také důvodu, aby muž schopností Vaší Milosti, ctný a chytrý, věřil těm vymyšleným a bláznivým rytířským knihám.“
+
+</section>

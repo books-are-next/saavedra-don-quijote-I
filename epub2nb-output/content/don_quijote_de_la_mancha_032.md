@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Cide Hamete Benengeli, spisovatel arabský a manchský, vypravuje v této velevážné, zvučné, podrobné, příjemné a vtipně vymyšlené historii, že, zatímco slavný don Quijote de la Mancha a Sancho Panza, jeho zbrojnoš, vedli tyto řeči, uvedené na konci kapitoly dvacáté první, don Quijote zvedl oči a spatřil, že po silnici, jíž se bral, se blíží asi dvanáct mužů, s hrdly navlečenými jako zrnka růžence do velkého řetězu a vesměs na rukou spoutaných. Provázeli je dva jezdci a dva pěší, první s ručnicemi na kolečkový zámek, druzí s halapartnami a meči. Jak je Sancho spatřil, řekl:
 
@@ -146,3 +146,5 @@ Za všechny odpověděl Gines z Pasamonte:
 Pasamonte, který nebyl nikterak trpělivý (a zpozoroval už, že donu Quijotovi přeskočilo trochu v hlavě, když dovedl vyvést takový nesmysl a osvobodil je), vida, jak je s ním zacházeno, mrkl na kamarády, všichni poodskočili a na dona Quijota se snesl takový příval kamení, že mu štít nestačil, a ubohý Rocinante dbal tak málo pobízení ostruhou k útoku, jako by byl ze dřeva. Sancho se schoval za osla, a tak se kryl před deštěm kamení, jež se na ně sneslo. Don Quijote se nemohl ukrýt tak dobře, aby ho netrefilo, nevím kolik oblázků, až klesl k zemi; a jakmile padl, byl tu student, vzal mu misku z hlavy, třikrát čtyřikrát jí uhodil donu Quijotovi do zad a stejně tolikrát i o zem, že ji rozbil. Vzali mu pláštík, který měl přes brnění, a chtěli mu stáhnout i kalhoty, ale plechovice nedovolily. Zato Sanchovi sebrali kabát a nechali ho o holé košili; pak, si rozdělili kořist z boje, rozešli se, každý jinam, starajíce se více o to, jak by utekli obávanému Bratrstvu než o to, aby na sebe naložili řetěz a šli se představit paní Dulcinee z Tobosa.
 
 Osel a Rocinante, Sancho a don Quijote zůstali sami: osel zamyšlen, hlavu sklopenu, stříhal čas od času ušima, jako by se domníval, že dosud neustala bouře kamení, jež děsila jeho sluch; Rocinante rovněž sražený ranou kamenem ležel vedle pána; Sancho bez kabátu a plný strachu před Svatým bratrstvem; don Quijote rozhněvaný na nejvyšší míru, že s ním tak zle zacházeli ti, jimž prokázal tak velké dobrodiní.
+
+</section>

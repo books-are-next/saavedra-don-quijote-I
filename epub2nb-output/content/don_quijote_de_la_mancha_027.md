@@ -6,7 +6,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Zatím se už probudil don Quijote z mdloby a týmž hlasem, jímž předchozího dne volal svého zbrojnoše, když ležel v údolí holí, oslovil ho:
 
@@ -111,3 +111,5 @@ Na ta slova obrátil Sancho oči jako v sloup a vykřikl ještě hlasitěji:
 A za posledních slov už pil. Ale poznal při prvním doušku, že je to voda, nemínil pokračovat a poprosil Maritornes, aby mu přinesla vína; ona to učinila ochotně a zaplatila je z vlastních peněz, neboť se o ní skutečně říká, že, ačkoliv byla oddána tomu nepočestnému řemeslu, byla přece v základě dobrou křesťankou.
 
 Když se Sancho napil, kopl patami osla a vraty, jež mu dokořán otevřeli, vyjel zcela spokojen, že nic neplatil a že to dopadlo, jak si přál, ač se tak stalo na útraty jeho obvyklého věřitele, totiž jeho hřbetu. Ve skutečnosti si hostinský jako náhradu za dluh ponechal jeho tlumok, ale Sancho se po něm vůbec nesháněl, jak vyjížděl celý popleten. Hostinský chtěl dát vrata na závoru, když ho viděl konečně venku; ale nedovolili to oni posměváčkové, kteří, i kdyby don Quijote byl opravdu z rytířů Okrouhlé Tabule, nebyli by za něho dali ani čtyrák.
+
+</section>

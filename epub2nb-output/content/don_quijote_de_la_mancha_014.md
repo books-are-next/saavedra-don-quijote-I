@@ -3,7 +3,7 @@ title: KAPITOLA IV\. o tom, co se stalo našemu rytíři, když opustil hospodu\
 contentType: prose
 ---
 
-  
+<section>
 
 S prvním úsvitem vyjel don Quijote z hospody tak spokojený, tak bujarý, tak rozveselený tím, že je už rytířem, že jím radost zmítala v sedle. Však nezapomněl na rady hostinského o nezbytných věcech, jež má brát s sebou (zvláště peníze a košile), a rozhodl se vrátit domů a vše si opatřit, i zbrojnoše, mínil přijmout do služby jednoho sedláka ze sousedství, chuďase sice a otce rodiny, ale velmi vhodného k úřadu rytířského zbrojnoše. S tímto úmyslem obrátil Rocinanta ke své vsi, a kůň, jako by rozuměl pánově žádosti, tak chutě dal se na cestu, že se zdálo, jako by se ani země nedotýkal.
 
@@ -92,3 +92,5 @@ A s těmi slovy vyřítil se s kopím skloněným proti viníku s takovou zuřiv
 „Neutíkejte, zbabělci, počkejte, otrocká lůzo! Ležím tu ne vlastní vinou, to kůň mě překotil.“
 
 Jeden z mezkařů kupce provázejících, chlapík špatné povahy, slyše drzosti ležícího ubožáka, nezdržel se nedat mu odpověď přes záda. Šel k němu, přelomil mu kopí a jedním kusem naložil našemu donu Quijotovi tolik, že byl přes všechnu svou výzbroj chuďas semlet jako obilí. Jeho pánové na něho volali, aby ho tolik nemlátil; ale chlap byl rozvzteklen a nepovolil, až své zlosti ulevil úplně: sebral též ostatní kusy kopí a rozmlátil je o ubohého spadlého, který při vší té průtrži ran, jež se na něj snesla, nezavíral ústa vyhrožuje nebi, zemi i lupičům, za něž kupce měl. Mezkař se unavil a kupci se vydali dále, měli si po celou cestu co povídat o nešťastném postiženém; don Quijote, jakmile viděl, že je sám, začal zase zkoušet, může-li vstát: ale nešlo-li to, když byl zdráv a čilý, jak se mu to mělo podařit zmlácenému a skoro utlučenému? Ale pokládal se ještě za šťastného, protože v tom viděl nehodu vlastní potulným rytířům a přičítal ji celou chybnému kroku svého koně. Vstát však nemohl, neboť měl pošramocené celé tělo.
+
+</section>

@@ -3,7 +3,7 @@ title: "KAPITOLA VIII\\. \_o úspěchu dona Quijota v hrozném a neslýchaném d
 contentType: prose
 ---
 
-  
+<section>
 
 Vtom spatřili třicet nebo čtyřicet větrných mlýnů, které jsou na té rovině, a don Quijote, když je uviděl, řekl svému zbrojnoši:
 
@@ -93,3 +93,5 @@ Načež Biskajec:
 V jediném okamžiku řekl tato slova, stiskl meč, přikryl se dobře štítem a vrhl se na Biskajce, rozhodnutý se svěřit všechno jedné ráně. Biskajec vida, jak se na něho řítí, poznal ze zuřivosti protivníka jeho úmysl a řekl si, že učiní totéž: čekal na něho dobře kryt polštářem, nemohl hnout ani sem ani tam mezkem zcela unaveným, nezvyklým na taková dětinství, neschopným kroku. Řítil se tedy, jak bylo řečeno, don Quijote na bdělého Biskajce, s mečem zdviženým a s úmyslem rozetnout jej vejpůl, a Biskajec jej očekával podobně, meč vzhůru a polštář před hrudí; všichni přítomní byli postrašeni a s úzkostí hleděli, co vzejde z těch ran, jimiž se ohrožovali, a paní kočáru i s komornými vysílaly tisíce proseb a slibů všem svatým obrazům a poutnickým místům Španělska, aby Bůh vyprostil zbrojnoše a je samy z toho velkého nebezpečí, jež jim hrozilo.
 
 Ale bohužel právě na tomto místě přerušuje autor tohoto vyprávění bitvu s omluvou, že více nenalezl v zápisech o výkonech dona Quijota. Ovšem druhý autor díla nechtěl uvěřit, že by historie tak zajímavá byla propadla zapomenutí a že by duchové manchští byli tak málo zvídaví, aby byli neuložili do svých archivů a psacích stolů nějaké zápisy o slavném rytíři: a s tím přesvědčením se nevzdal naděje, až našel s pomocí boží konec té pěkné příhody, jak poví v druhé části.
+
+</section>

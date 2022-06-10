@@ -3,7 +3,7 @@ title: KAPITOLA XII\. o tom, co vyprávěl pastýř společníkům dona Quijota\
 contentType: prose
 ---
 
-  
+<section>
 
 Potom přišel jiný mladík, který jim nosil z vesnice potraviny, a pravil:
 
@@ -58,3 +58,5 @@ Protože vše, co jsem vyprávěl, je dokázaná pravda, chápu, že je pravda i
 „Ó,“ odvětil pastýř, „já nevím ani polovinu toho, co potkalo milence Marceliny. Ale možná, že zítra potkáme cestou nějakého pastýře, který nám to poví. A nyní uděláte dobře, půjdete-li spát pod střechu, poněvadž by vzduch mohl uškodit vaší ráně, ač lék, který vám byl přiložen, vylučuje zhoršení.“
 
 Sancho Panza, který už posílal k čertu dlouhé vyprávění pastýřovo, rovněž žádal, aby jeho pán šel spát do chatrče Pedrovy. I učinil tak a zbytek noci strávil v myšlenkách na svou paní Dulcineu jako milenci Marcelini. Sancho Panza se uvelebil mezi Rocinantem a svým zvířetem a spal, ne jako nešťastný milenec, ale jako člověk řádně zmlácený.
+
+</section>

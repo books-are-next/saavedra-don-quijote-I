@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Tu hospodský, stojící ve dveřích, zvolal:
 
@@ -90,3 +90,5 @@ Po těchto slovech opět objal Doroteu, hladil její tvář něžně a mile a di
 Pak vyprávěl don Fernando o svých příhodách ve městě potom, co nalezl u Luscindy list, v němž oznamovala, že je ženou Cardeniovou a že se nemůže proto stát jeho. Pravil, že ji chtěl usmrtit, ale její rodiče mu v tom zabránili; proto opustil dům rozhněván a ponížen a rozhodnutý, že se pomstí při nejbližší příležitosti; příštího dne se dozvěděl, že Luscinda zmizela z domu svých rodičů neznámo kam; za několik měsíců však mu došla zpráva, že je v klášteře, kde chce zůstat celý život, poněvadž nemůže žít s Cardeniem.
 
 Hned se třemi rytíři odjel do kláštera, ale nemluvil s ní, obával se, že kdyby o něm věděla, tak by v klášteře byli ostražitější. Den čekal a když otevřeli bránu, zanechal dva rytíře na stráži, sám s jedním vnikl do kláštera a hledal Luscindu; zastihl ji na chodbě v rozmluvě s jeptiškou, uchopili ji a uprchli s ní na místo, kde bylo vše připraveno pro další útěk. To se jim snadno podařilo, poněvadž klášter stojí v polích daleko od města. Vyprávěl, jak Luscinda omdlela, když ho spatřila, a když se vzpamatovala, že ustavičně naříkala a mlčela; tak mlčky a v slzách dojeli až sem, do hospody, kde je jako v nebi, kde končí pozemské neštěstí.
+
+</section>

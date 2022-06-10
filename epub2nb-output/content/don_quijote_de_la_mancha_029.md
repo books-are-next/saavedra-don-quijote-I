@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 „Mně se zdá, pane, že všechny tyto nehody, které nás tyto dny potkaly, byly jistotně trestem za hřích proti řádu rytířskému, jehož se Vaše Milost dopustila tím, že nesplnila přísahu nejíst chléb z ubrusu a neobejmout královnu a to všechno ostatní, co Vaše Milost přísahala vyplnit, dokud neodejme přilbu Malandrinovi, nebo jak se jmenuje ten Maur, teď si nevzpomínám.“
 
@@ -94,3 +94,5 @@ Bakalář za těchhle řečí odjel beze slova. Don Quijote by se byl rád podí
 Táhl osla za sebou, prosil pána, aby ho následoval, a rytíř beze slov uposlechl, pomyslel si, že má Sancho pravdu; a po chvíli cesty mezi dvěma pahorky octli se v prostranném, ukrytém údolí, kde sestoupili, Sancho odstrojil své zvíře a ulehli do zelené trávy s řádným hladem místo soli posnídali, poobědvali, posvačili a povečeřeli zároveň, konejšili své žaludky z hojných zásob, jež páni páteři (a ti na sebe panečku pamatují!) vezli s sebou na soumaru v průvodu nebožtíkově.
 
 Ale potkala je nová nehoda, již Sancho pokládal za horší než ostatní: neměli vína, ba ani vody k podání do úst. Žízeň je zle trýznila a tu Sancho, prohlédl si louku, na níž leželi, pokrytou zelenou a jemnou travou, řekl, co poví kapitola příští.
+
+</section>

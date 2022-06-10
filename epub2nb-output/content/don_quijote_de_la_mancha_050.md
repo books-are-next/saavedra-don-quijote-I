@@ -3,7 +3,7 @@ title: KAPITOLA XXXVIII\. o zajímavé řeči dona Quijota o válečnictví a um
 contentType: prose
 ---
 
-  
+<section>
 
 Don Quijote pokračoval:
 
@@ -30,3 +30,5 @@ Po večeři odklidili ze stolu, hostinská s dcerou a Maritornes připravovaly p
 „Vyslechnete-li, Milosti, pozorně moje vyprávění, uslyšíte příběh, jemuž se možná nevyrovná mnohá vymyšlená příhoda.“
 
 Všichni usedli a utichli a otrok klidně příjemným hlasem vyprávěl tento příběh.
+
+</section>

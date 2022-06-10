@@ -5,6 +5,8 @@ title: >-
 contentType: prose
 ---
 
+<section>
+
 > _Píseň Grisostomova._
 
 > _Jestliže chceš, ty krutá,  
@@ -189,3 +191,5 @@ Buď z obavy před hrozbami dona Quijota, nebo proto, že jim Ambrosio řekl, ab
 > a svět se nevymaní z její vlády!_
 
 Pak zasypali hrob květy a větvemi, a projevili všichni soustrast příteli Ambrosiovi, rozloučili se s ním. Rovněž tak učinili Vivaldo a jeho druh i don Quijote dal sbohem svým hostitelům a cestujícím, kteří ho prosili, aby jel s nimi do Sevilly, poněvadž je to místo vhodné pro dobrodružství, jichž lze tam na každé ulici a za každým rohem nalézt více než kde jinde. Don Quijote jim poděkoval za radu a dobrou vůli zavděčit se mu a řekl, že tentokrát nechce a nemůže do Sevilly, dokud nezbaví všechny okolní hory ničemných lupičů, kterými se prý hemží. Vidouce jeho chvályhodné rozhodnutí cestující na něj už nenaléhali, ale rozloučili se s ním znovu a jali se pokračovat ve své cestě, na níž jim dlouhá chvíle nebyla, neboť vyprávěli o Marcele a Grisostomovi i o bláznovství dona Quijota, jenž se rozhodl vyhledat pastýřku Marcelu a nabídnout jí všechnu svou službu. Ale nestalo se, jak myslel, což se líčí dále v této pravdivé historii, jejíž druhá část tady končí.
+
+</section>

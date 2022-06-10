@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 V jedné osadě manchského kraje, na jejíž jméno si nechci vzpomenout, žil před krátkým časem rytíř z rodu těch, kteří mívají na stojanu kopí, starý štít, hubenou kobylu a honicího psa. K obědu míval nejčastěji hovězí, málo skopové, k večeři studené maso na koření, v sobotu jídal slaninu s vejci, v pátek čočku, v neděli nějaké holoubě na přilepšenou a na to šly tři čtvrti jeho příjmů. Zbytek padl na kabát z černého sukna, na sametové sváteční kalhoty a sametové střevíce; ve všední den nosil šat z obyčejného sukna domácího. Měl doma hospodyni, jíž bylo přes čtyřicet let, neteř, jíž nebylo ještě dvacet, a sluhu, který mu sedlal herku a zahradničil. Našemu šlechtici bylo asi tak padesát: byl pevně stavěný, suchý, v líci hubený, vstával za úsvitu a rád chodil na lov. Jmenoval se prý Quijada nebo Quesada (spisovatelé, kteří o té věci píší, nejsou zajedno); nám se zdá pravděpodobným, že jeho příjmení bylo Quijana. Ale to pro nás není důležité: stačí, když se naše vyprávění neuchýlí ani krok od pravdy.
 
@@ -28,3 +28,5 @@ Maje zbraň vycíděnu, místo přilby helmici s hledím, pojmenovaného koně a
 „Jestli se pro své hříchy nebo na své štěstí setkám s nějakým obrem, jak se bludným rytířům stává, a srazím jej prvním útokem nebo jej v půli rozetnu, nebo přemohu a zajmu, nebude-li pak dobré mít, komu bych ho poslal darem, aby vešel, padl na kolena před mou sladkou paní a řekl pokorným a odevzdaným hlasem: paní, jsem obr Caraculianbr, pán ostrova Malindranie, kterého v boji přemohl rytíř, jemuž navždy budiž chvála, don Quijote de la Mancha, jenž mě poslal, abych se představil vaší milosti a odevzdal se do jejích služeb.“
 
 A jak se zaradoval náš rytíř, když takto pro sebe promluvil a hlavně když nalezl, koho nazvat svou dámou! Podle obvyklého mínění žilo prý v nedaleké vesnici velmi hezké selské děvče, do něhož byl po čas zamilován, aniž to ovšem ona kdy věděla a starala se o to. Jmenovala se Aldonza Lorenzová a tu si usmyslel nazvat paní svých myšlenek; a hledaje pro ni jméno, jež by nečinilo jménu jeho hanbu a jež by připomínalo jméno princezny nebo velké dámy, pojmenoval ji Dulcinea z Tobosa, protože z Tobosa pocházela: jméno podle jeho mínění zvučné, nezvyklé a významné jako všechna ostatní, jež dal sobě a svým věcem.
+
+</section>

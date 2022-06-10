@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 To dopověděl otrok, zmlkl a don Fernando pravil:
 
@@ -74,3 +74,5 @@ Když dámy odešly do své komory a ostatní ulehli porůznu, vyšel don Quijot
 „Kdo nespí, ať poslouchá zpěv mezkaře, který je opravdu čarovný.“
 
 „Slyšíme jej, pane,“ odpověděla Dorotea; Cardenio odešel a Dorotea pozorně vyslechla tuto píseň:
+
+</section>

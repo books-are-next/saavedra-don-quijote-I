@@ -3,6 +3,8 @@ title: KAPITOLA XL\., jež obsahuje další vyprávění otrokovo\.
 contentType: prose
 ---
 
+<section>
+
 > _„Ó šťastné duše,  
 > které smrti závoj  
 > jste odhodily  
@@ -117,3 +119,5 @@ Za pět set dukátů poturčenec koupil loď; za osm set jsem se vykoupil; dal j
 Den před svým odchodem do zahrad dala nám krásná Zoraida opět tisíc dukátů a prosila mě, abych po svém osvobození vyhledal zahradu jejího otce a snažil se s ní potkat a domluvit. Slíbil jsem jí to a žádal, aby nás poručila ochraně Lely Márien všemi modlitbami, které se naučila od otrokyně.
 
 Potom jsme se usnesli, že vykoupíme své druhy z lázní, aby nás ze msty nezradili, kdyby viděli mne na svobodě a sebe nikoliv, a neuškodili Zoraidě, ačkoliv jejich rod a postavení vylučovalo podobné domněnky; ale nechtěl jsem spoléhat na náhodu. Při jejich vykoupení jsem postupoval stejným způsobem jako při svém a dal jsem všechny peníze kupci, aby se mohl zaručit s jistotou, že neprozradí tajemství pro nebezpečí, které mu hrozilo.“
+
+</section>

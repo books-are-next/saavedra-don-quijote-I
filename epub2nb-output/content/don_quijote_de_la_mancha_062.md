@@ -3,7 +3,7 @@ title: KAPITOLA L\. o vtipném sporu dona Quijota s kanovníkem a jiných událo
 contentType: prose
 ---
 
-  
+<section>
 
 „Ty knihy, které byly vydány se svolením královým a se schválením úřadů, knihy, které se čtou se zájmem, které chválí malí i velcí, urození i neurození, vůbec všichni, jsou prý lží,“ pravil don Quijote; „přesto, že nám mluví o rodičích, rodišti a stáří rytíře, o jeho domově, udatných činech, konaných den po dni, což vše je znakem jejich pravdivosti? Zmlkněte, Milosti, a nerouhejte se; poslechněte mé rady: čtěte je a uvidíte, jak se pobavíte.
 
@@ -62,3 +62,5 @@ Kanovník požádal pastevce, aby vypravoval. Pastevec poplácal kozu po hřbet�
 „Lehni, Strako, máme dost času k návratu do stáda.“
 
 Koza, jako by mu rozuměla, lehla si klidně, když usedl, vedle něho a dívala se mu do tváře, jako by bedlivě naslouchala vyprávění pastevce, který začal vypravovat takto:
+
+</section>

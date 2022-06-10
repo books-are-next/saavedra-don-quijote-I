@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Vida se tak zřízený pravil don Quijote svému zbrojnošovi:
 
@@ -140,3 +140,5 @@ Opustili jsme ho potom smutní a on odešel beze slova a skryl se úprkem v těc
 Don Quijote totiž řekl pastýřovi, že spatřil utíkat onoho člověka přes pohoří; nyní byl udiven, když vyslechl pastýře a zatoužil ještě silněji dozvědět se, kdo je nešťastný blázen. Rozhodl se, že skutkem učiní, nač již myslel, že prohledá celé pohoří a nahlédne do každého úžlabí a jeskyně, až ho najde. Ale osud zařídil věc lépe, než don Quijote zamýšlel a doufal, poněvadž v témže okamžiku objevil se v horské trhlině, vedoucí k jejich místu, hledaný mladík, říkal si pro sebe věci, jimž nebylo rozumět zblízka, natož z dálky. Jeho šat vypadal, jak byl popsán; jen když se přiblížil, spatřil don Quijote, že kabátec, na kusy rozedraný, jejž měl na sobě, byl z drahé, žluté látky, což ho naprosto utvrdilo v tom, že osoba takto oblečená není z rodu nízkého.
 
 Mladík došel a pozdravil je dutě a chraptivě, ale velmi zdvořile. Don Quijote mu oplatil pozdrav stejně ohleduplně, a sestoupil z Rocinanta ušlechtile a elegantně, objal ho a držel ho notnou dobu v náručí jako od bůhvíkteré doby známého. Mladík (zasloužil by názvu Otrhanec Špatné Postavy, jako don Quijote byl Rytířem Postavy Smutné) dal se obejmout, pak ho od sebe trochu odsunul, vložil své paže na jeho ramena a prohlížel si ho, jako by chtěl poznat, zná-li jej; byl asi stejně udiven podobou, postavou a zbrojí dona Quijota, jako byl udiven don Quijote, když hleděl na něj. Konečně promluvil první Otrhanec a řekl, co povíme trochu dále.
+
+</section>

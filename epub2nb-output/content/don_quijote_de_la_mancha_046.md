@@ -3,7 +3,7 @@ title: KAPITOLA XXXIV\., v níž se pokračuje v povídce o nevhodné zvědavost
 contentType: prose
 ---
 
-  
+<section>
 
 Tvrdívá se často, že vojsku škodí, nemá-li svého vůdce a hradu, nemá-li svého pána; a já říkám, že ještě více škodí mladé, vdané ženě, nemá-li svého manžela, i kdyby ho od ní vzdalovaly záležitosti nadmíru nutné. Jest mi bez vás smutno a nemohu snést to odloučení; nevrátíte-li se brzo, odejdu zpět k rodičům a zanechám váš dům bez ochrany, poněvadž ten, kterého jste určil k ochraně – měla-li to ochrana být – stará se více, jak se zdá o své zábavy než o váš prospěch. Jste rozumný a více vám nemusím říkat a také se nesluší, abych více řekla.
 
@@ -176,3 +176,5 @@ Camila souhlasila s její radou; ale bylo nutno vymyslet ještě nějakou výmlu
 Anselmo slyšel a viděl, jak hrají tragedii o smrti jeho cti; herci hráli tak skvěle, že se zdálo vše skutečnou pravdou. Toužil po tom, aby nastal soumrak a aby mohl odejít k věrnému příteli Lotariovi a radovat se z perly, nalezené při zkoumání počestnosti manželčiny. Obě mu umožnily odejít a on spěchal k Lotariovi, jejž radostně objal chvále Camilu. Lotario vyslechl jeho pochvalu, ale nemohl se radovat, neboť byl přesvědčen, že jeho přítel byl neprávem oklamán a ponížen. Anselmo pozoruje, že Lotario je smutný, myslel, že důvodem jeho je, že se Camila poranila jeho vinou; proto jej těšil, aby příhodu Camilinu nebral vážně, že zranění jest jistě nepatrné, neboť ony samy se rozhodly, že celou příhodu před ním zatají; není tedy nebezpečí; jen aby se dále radoval, poněvadž jeho pomocí dosáhl největšího štěstí. Prohlásil, že bude nyní pouze básnit a opěvovat Camilu, aby ji na věčnost oslavil. Lotario schválil jeho úmysl a nabídl mu svou pomoc při stavbě té nádherné budovy.
 
 Tak oklamali Anselma velmi chytře. Sám přivedl do svého domu záhubu své cti, když myslel, že si přivádí své největší štěstí. Camila jej uvítala zdánlivě nepřátelsky, ale v duchu se radovala. Tato lest zůstala nějakou dobu utajena, ale potom se štěstí obrátilo a obratně ukrytá hanebnost vyšla najevo; Anselmo svou zvědavost zaplatil životem.
+
+</section>

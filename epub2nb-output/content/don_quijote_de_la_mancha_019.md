@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Zanechali jsme v první části tohoto vypravování statečného Biskajce a slavného dona Quijota s obnaženými, zdviženými meči, majícími zasadit dvě divé sečné rány, že, kdyby dopadly naplno, byli by oba rozťati odshora až dolů a rozloupli by se jako jablko; a na tomto pochybném místě zastavilo se neukončeno vypravování to chmurné, aniž nás autor zpravil, kde lze nalézt jeho ukončení. To mi způsobilo mnoho těžkostí, protože radost z četby toho mála se obracela v zármutek při pomyšlení, jak nesnadné bude nalézt to mnohé, co podle mne příjemnému líčení chybělo. Zdálo se mi nemožné a proti všem dobrým zvykům, aby rytíři tak dobrému nedostalo se nějakého učence, který by vzal na sebe vypsání jeho nevídaných činů: neboť takového měl každý z těch toulavých rytířů, kteří, jak lidé vypravují, jdou za dobrodružstvími; ba každý měl až dva učence, jak tomu i má být, kteří nejen vypsali jeho činy, ale vylíčili i jeho nejnepatrnější myšlenky a hlouposti, ať byly sebeskrytější. A neměl být tak nešťastný rytíř tak dobrý, aby mu chybělo, čím oplýval Platir a jemu podobní. Proto jsem se nemohl smířit s myšlenkou, že by tato hrdinská historie zůstala kusá a zmrzačená, a dával jsem vinu zlomyslnému času, pohlcujícímu a stravujícímu všechno, který buď ji skrýval, nebo ji už zničil. Z druhé strany jsem uvážil, že když se mezi jeho knihami našly tak nové jako „Žárlivost z bludu vyvedená“ a „Nymfy a pastýři z Henares“, jeho historie rovněž musí být nestará a že, není-li ještě napsána, je uchována v paměti lidí jeho vesnice a okolních. Tato myšlenka mě znepokojovala a ponoukala, abych skutečně a pravdivě zvěděl celý život a divy našeho slavného Španěla dona Quijota de la Mancha, světla a zrcadla rytířstva manchského, prvního, jenž v naší době, času plném nesnází, jal se provozovat bludné rytířství a napravovat křivdy, pomáhat vdovám, chránit slečny, nejvíce ty, jež cestovaly s bičíkem a koňmo, s celým svým panenstvím na zádech přes hory a doly; a nestalo-li se, že nějaký darebák nebo nějaký selský hrubián nebo neobyčejný obr je znásilnil, stávalo se tenkrát, že taková osmdesátiletá slečinka, která v svém životě noc neprospala pod střechou, šla do hrobu asi tak panenská jako matka, jež ji zrodila. Proto a pro mnoho jiného pravím, že náš statný don Quijote je hoden stálé a nezapomínané slávy, a také já zasloužím být pochválen za námahu a píli, s nimiž jsem hledal konec této pěkné historie; ovšem, vím dobře, že kdyby nebesa, náhoda a štěstí mi nebyly přispěly, svět by byl připraven o kratochvíli a potěšení, jichž si skoro na dvě hodiny může dopřát ten, kdo bude číst pozorně.
 
@@ -28,3 +28,5 @@ Nuže, druhá část podle překladu začínala takto: Vzhůru vztyčené ostré
 Bázlivé a bezradné ženy, aniž uvažovaly, co don Quijote žádá, a aniž se tázaly, kdo je Dulcinea, mu slíbily, že zbrojnoš vykoná vše, co rozkazuje.
 
 „Nuže, na toto slovo mu již neublížím, ač si toho věru zasloužil.“
+
+</section>

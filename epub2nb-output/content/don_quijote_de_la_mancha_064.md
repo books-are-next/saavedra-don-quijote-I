@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Pastevcovo vypravování zaujalo všechny přítomné; přede všemi je pochválil kanovník, který poznamenal, že forma vypravování se lišila od obvyklého způsobu pastevců, připomínala totiž spíše dvořana, a pravil, že je správné tvrzení farářovo o učených lidech žijících v horách. Všichni nabízeli svou pomoc Eugeniovi, nejochotněji don Quijote, který pravil:
 
@@ -97,17 +97,21 @@ Spisovatel této historie za odměnu své veliké práce, kterou mu dalo pátrá
 
 První slova na pergamenu nalezeném v olověném pouzdře zněla:
 
-  
+</section>
+
+<section>
 
 Akademikové z Argamasilly, vesnice v Manchi, o životě a smrti odvážného dona Quijota de la Mancha hoc scripserunt:
 
-  
+</section>
 
-  
+<section>
 
 Monicongo, akademik z Argamasilly,
 
-  
+</section>
+
+<section>
 
 na hrob dona Quijota:
 
@@ -129,11 +133,15 @@ na hrob dona Quijota:
 > který s Rocinantem věrným bloudil širým světem,  
 > ten zde leží ve tmě věčné, nad ním chladný kámen._
 
-  
+</section>
+
+<section>
 
 Paniagudo, akademik z Argamasilly,
 
-  
+</section>
+
+<section>
 
 in laudem Dulcineae de Toboso:
 
@@ -155,7 +163,9 @@ in laudem Dulcineae de Toboso:
 > a on, ač mramor slávu jeho hlásí,  
 > neušel lásce, vzteku zklamaného._
 
-  
+</section>
+
+<section>
 
 Caprichoso, svým vtipem vynikající akademik z Argamasilly, pěje chválu na Rocinanta, koně dona Quijota de la Mancha:
 
@@ -233,3 +243,5 @@ na hrob Dulciney z Tobosa:
 Tyto verše se daly přečíst; písmo ostatních bylo smazáno, proto je dali nějakému akademikovi, aby je vysvětlil podle dohadu. Vypráví se, že se mu to podařilo po mnohém bdění a velké námaze a že je uveřejní při třetí výpravě dona Quijota. Forse altri canterá noc miglior plettro.
 
 (Konec knihy druhé)
+
+</section>

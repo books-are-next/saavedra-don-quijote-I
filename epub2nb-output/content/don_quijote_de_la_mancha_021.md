@@ -3,7 +3,7 @@ title: KAPITOLA XI\. o tom, co se donu Quijotovi stalo u pastýřů koz\.
 contentType: prose
 ---
 
-  
+<section>
 
 Byl od pastýřů laskavě přijat, a když Sancho obstaral co nejlépe Rocinanta a své dobytče, šel za vůní několika kusů kozího masa, jež se peklo nad ohněm v kotli; a ač by se nejraději ihned přesvědčil, lze-li je už nastěhovat z kotle do žaludku, neučinil to, protože je pastýři sňali z ohně, prostřeli po zemi několik ovčích kůží, upravili rychle svou venkovskou tabuli a s projevy upřímné ochoty oběma nabídli, co měli. Kolem kůží se jich posadilo šest, kteří byli na salaši, dříve však požádali s neohrabanými okolky dona Quijota, aby se posadil na díž, obrácenou vzhůru dnem. Don Quijote se posadil a Sancho zůstal stát, aby mu podal pohár z rohu. Vida to jeho pán řekl:
 
@@ -127,3 +127,5 @@ Tím pastýř skončil, a ačkoliv ho don Quijote prosil, aby ještě zpíval, S
 „Máš pravdu,“ odvětil don Quijote, „ulehni, kde chceš; lidem mého povolání sluší více bdít než spát. Ale přes to přese všechno bylo by dobře, Sancho, kdybys mi ještě obvázal ucho, protože mě bolí víc, než je třeba.“
 
 Sancho vyplnil rozkaz. A jeden z pastýřů vida ránu pravil mu, aby se nestrachoval, že mu dá lék, jímž se vyléčí. A vzav několik lístků rozmarýny, jíž tam bylo mnoho, rozžvýkal je a smísil s trochou soli, pak je přiložil donu Quijotovi na ucho a ovázal je dobře se slovy, že jiného léku nebude třeba. A byla to pravda.
+
+</section>

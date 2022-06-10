@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 „To by všechno bylo v pořádku; pokračuj!“ pravil don Quijote; „co činila Královna krásy, když jsi přišel? Jistě jsi ji zastihl, jak navléká perly, nebo vyšívá zlatem znak pro mne, zajatce její lásky?“
 
@@ -118,3 +118,5 @@ Andres vzal chléb se sýrem a vida, že mu nic jiného nedávají, sklonil hlav
 „Pro smilování boží, pane potulný rytíři, najdete-li mě ještě jednou, nechte si svou pomoc, i kdyby mě čtvrtili, a zanechte mě mému neštěstí, neboť nikdy nebude tak velké, jako by bylo, kdybyste přispěl svou pomocí; zatrať vás Bůh i se všemi potulnými rytíři, co se jich narodilo!“
 
 Don Quijote se zvedal jej potrestat, ale hoch se dal do takového úprku, že si nikdo netroufal jej dohánět. Don Quijote byl úžasně pobouřen řečí Andresovou a ostatním dalo mnoho přemáhání nepropuknout v smích a nerozzlobit jej úplně.
+
+</section>
