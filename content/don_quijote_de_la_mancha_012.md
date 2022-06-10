@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Když se takto připravil, nechtěl již otálet s uskutečněním svého úmyslu, poháněn domněním, že světu tuze chybí: urážky na něj čekaly, aby je odčinil, křivdy, aby je napravil, nesprávnosti, aby je odstranil, zlořády, aby je vykořenil, povinnosti, aby je naplnil. A tak, aniž by někomu sdělil svůj úmysl a aniž by ho někdo viděl, jednoho časného jitra (bylo to za horkých dnů červencových) oděl celou svou zbroj, vsedl na Rocinanta, nasadil nepodařenou helmici, navlékl na rámě štít, chopil se kopí a postranními vrátky vyjel ze dvora do polí, úžasně spokojen a vesel, vida, jak snadno se daří jeho dobré přání. Ale sotva se octl v polích, napadla ho strašná myšlenka, div že nezanechal započatého podniku: vzpomněl si totiž, že není pasován na rytíře a že podle rytířského zákona nemůže a nesmí dát se v boj s žádným rytířem: a i kdyby jím byl, měl jakožto nováček nést holé zbraně, bez hesla na štítě, jež lze získat jen vynikajícím činem. Vlivem těchto myšlenek zakolísal ve svém rozhodnutí; ale protože jeho bláznovství převážilo jakýkoliv jiný důvod, řekl si, že se dá pasovat prvním rytířem, jehož potká, neboť tak to udělali mnozí jiní, jak se o tom dočetl v knihách. Co se týče zbraní, pojal úmysl je vyčistit, aby byly po případě bělejší než hranostaj: tím se uklidnil a pokračoval v cestě, již nechával na vůli svého koně, domnívaje se, že v tom právě spočívá dobrodružnost.
 
@@ -47,7 +47,9 @@ Hospodský si myslel, že jej rytíř nazval kastelánem, poněvadž ho má za k
 
 Při tom přistoupil podržeti třmen dona Quijota, který sesedl s velkou nesnází a námahou, jako člověk, jenž po celý den neměl v ústech. Potom řekl hostinskému, aby se řádně postaral o jeho koně, protože to je nejlepší zvíře, co pod sluncem jí chléb. Hostinský si koně prohlédl a nezdál se mu hodný té chvály, ba ani z poloviny ne; opatřiv jej ve stáji, vrátil se pro další rozkazy svého hosta, kterého svlékaly z výzbroje holky, zatím se s ním smířivší; sňaly mu sice krunýř z prsou a nárameníky, ale živou mocí nemohly mu uvolniti hrdlo ani mu sundati nepovedenou helmici, přivázanou zelenými šňůrami; bylo třeba je přeříznout, neboť uzly nebylo možné rozvázat, ale k tomu on za žádnou cenu nechtěl svolit: a tak zůstal po celou noc v helmici a byl tou nejpůvabnější a nejpodivnější figurou, již si lze vymyslet: a když jej svlékaly (domnívajíce se, že ty ženské sloužící ke všemu jsou významné paní a dámy toho hradu), pravil jim velmi vtipně:
 
-  
+</section>
+
+<section>
 
 „Nikdy nesloužily rytířovi  
 výbornější službou dámy,  
@@ -69,3 +71,5 @@ Toho dne byl náhodou pátek a v celé hospodě bylo jen několik porcí ryby, k
 Prostřeli mu stůl přede dveřmi hospody na čerstvém vzduchu a hospodský přinesl mu porci špatně očištěné, a ještě hůře upečené tresky a chléb tak černý a plesnivý jako jeho zdroj. Ale vidět ho jíst bylo notně směšné: protože, maje na hlavě helmu se zdviženým hledím, nemohl vlastní rukou nic dát do úst, proto jedna z těch ženských mu v tom pomáhala. Však dát mu též napít nebylo možné, až hospodský probodl rákos, vložil rytíři jeden konec do úst, druhým lil víno: a on to všechno snášel trpělivě, jen aby nemusel přetrhnout provázky helmice.
 
 V té chvíli se náhodou přiblížil k hospodě kleštič prasat a jak přicházel, čtyřikrát či pětkrát zapískal na rákosovou píšťalu, čímž trvale utvrdil dona Quijota v domnění, že je na slavném hradě, že ho obsluhují za zvuku hudby, že treska je pstruhem, chléb bílou houskou, běhny dámami, hospodský kastelánem hradu, což jej plnilo spokojeností nad zdarem jeho rozhodnutí a výpravy. Velmi jej však trápilo, že není pasován na rytíře, protože se mu zdálo, že nemá práva započít nějaké dobrodružství dřív, než přijme rytířský řád.
+
+</section>

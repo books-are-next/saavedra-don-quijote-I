@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Farář domluvil a Sancho Panza řekl:
 
@@ -144,3 +144,5 @@ Zatím také don Quijote pokračoval ve svém hovoru a říkal Sanchovi:
 „A pamatuješ si je ještě, Sancho?“ řekl don Quijote.
 
 „To ne, pane,“ Sancho na to, „protože, jakmile jsem je odříkal, zapomněl jsem je s vědomím, že už nemá důležitosti. Vzpomínám si jen na to Věšená, totiž Vznešená paní moje a pak nakonec Až do smrti Váš Rytíř Smutné Postavy; a mezi to jsem dal přes tři sta duší, životů a očí mé hlavy.“
+
+</section>

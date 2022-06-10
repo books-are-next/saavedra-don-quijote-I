@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Mezitím se Sancho Panza zvedl, dost potlučen sluhy obou mnichů, a dával pozor na boj svého pána dona Quijota, prosil Boha z plného srdce, aby mu dal vítězství, v němž by získal nějaký ten ostrov, kde by se stal vladařem, jak mu bylo slíbeno. Vida, že zápas je u konce a že jeho pán opět vsedá na Rocinanta, přispěchal podržet mu třmen, a dříve než vsedl do sedla, padl před ním na kolena, uchopil jej za ruku a políbil ji se slovy:
 
@@ -72,3 +72,5 @@ Slyše to Sancho, pravil:
 Při tom vyndal jídlo, jež s sebou nesl, a oba pojedli v míru a dobré vůli; chtěli však nalézt nocleh, ukončili rychle chudou a suchou večeři, vskočili do sedel a spěchali vyhledat osadu dřív, než by se setmělo.
 
 Ale zapadlo jim slunce a s ním i naděje na to, co si přáli, poblíž několika pastýřských chatrčí se rozhodli, že stráví noc tam. A jak byl Sancho zarmoucen, že nedojeli do vesnice, tak potěšen byl don Quijote, že přespí pod širým nebem, neboť se mu zdálo, že každá noc strávená venku znamená další možnost důkazu jeho pravého rytířství.
+
+</section>

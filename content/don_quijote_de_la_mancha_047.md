@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Málo již scházelo do konce povídky, když polekaný Sancho Panza vyběhl z komory, kde don Quijote spal, a zvolal:
 
@@ -96,3 +96,5 @@ Až sem Anselmo dopsal, potom jej stihla smrt, že nemohl dokončit větu.
 Přítel Anselmův ihned zpravil příbuzné o jeho smrti; Camila, o které již věděli, ve kterém klášteře se nalézá, div nenásledovala svého muže, ne žalem nad jeho skonem, ale nad odchodem svého milence. Pověst vypráví, že ačkoliv byla vdovou, zůstala v klášteře, ale nevykonala sliby; záhy se však dověděla, že Lotario padl v bitvě Monsieura de Lautrec s velikým vojevůdcem Gonzalem Fernándezem de Córdoba v království neapolském; tam vyhledal smrt přítel, který pozdě poznal svoji vinu. Jakmile se Camila dozvěděla o jeho smrti, vykonala sliby a za několik dní zármutkem zemřela. Tak smutně skončili všichni následkem nerozumnosti.“
 
 „Novela je to pěkná,“ poznamenal farář, „ale nevěřím jí; je-li to však vymyšlené, tedy špatně, neboť není vůbec myslitelné, že by byl manžel dost pošetilý, aby připravil takovou nákladnou zkoušku. Kdyby se to týkalo dámy a jejího nápadníka, uvěřil bych, ale mezi manželi je to trochu nemožné; forma vyprávění je ale velice zdařilá.“
+
+</section>

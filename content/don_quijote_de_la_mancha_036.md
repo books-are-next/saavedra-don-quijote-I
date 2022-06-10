@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Historie dále vypravuje, co činil muž Smutné Postavy, když zůstal sám: když don Quijote, nahý od pasu, přestal metat kotrmelce a uviděl, že Sancho odjel, nečekal na další nesmysly, vylezl na špici vysoké skály a tam se dal do přemýšlení o tom, čím se už vícekrát zabýval, aniž se rozhodl, totiž co by bylo lepší a co by se mu spíše hodilo, zda napodobení zuřivého šílení Rolandova či Amadisovy zádumčivosti.
 
@@ -111,3 +111,5 @@ Na to odvětil Sancho:
 Sancho řekl, aby jen vešli, on že počká venku a že jim později řekne, proč nechce ani nemůže do hospody vejít; že je však prosí, aby mu přinesli něco k jídlu, něco teplého, a také obroku Rocinantovi. Opustili jej tudíž a za chvilku mu holič přinesl jídlo.
 
 Potom oba zvažovali, jakým způsobem dosáhnout cíle, a farář dostal nápad velmi odpovídající vkusu dona Quijota a vhodný pro jejich úmysl; řekl holičovi, že se zamýšlí obléct za potulnou slečnu a on aby se převlékl, jak nejlíp umí, za zbrojnoše, a že pak půjdou za donem Quijotem; slečna se bude tvářit zarmouceně a že potřebuje pomoci a požádá jej o milost, kterou jí jakožto statečný bludný rytíř nebude moci odepřít, totiž aby jel s ní, kam jej povede, napravit křivdu, jíž se na ní dopustil jistý zlý rytíř; poprosí jej také, aby po ní nežádal, by sňala závoj, a neptal se jí na původ, dokud ji nepomstí na onom rytíři. Farář pravil též, že je přesvědčen, že don Quijote vyhoví všemu, oč bude ve věci požádán, a že ho tak dostanou z hor a dovedou zpět do jeho vsi, kde se uvidí, je-li proti jeho bláznovství nějaký lék.
+
+</section>

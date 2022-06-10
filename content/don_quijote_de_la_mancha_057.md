@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 „Co říká Vaše Milost, pánové,“ pravil holič, „řečem těchto poctivců, když i na tom trvají, že je tato mísa helmou?“
 
@@ -80,3 +80,5 @@ Don Fernando roztrhl biřice a dona Quijota, rozevřel jim k jejich velké rados
 Don Quijote se při těchto slovech usmál a pravil:
 
 „Vy nazýváte, vy darebáci, přepadáváním lidí, když člověk osvobodí otroky, vězně, pomůže chudákům, povznese ponížené a potěší zarmoucené? Ó darebná chásko, zasluhující, abys nikdy nepoznala potulného rytířstva a aby ti nebe nedalo poznání hříchů a tvé nevědomosti, a neumíš ocenit ani stín, natož celého potulného rytíře! Přibližte se, zbabělí biřicové, ne biřicové, ale zákeřníci ve službách Bratrstva, a řekněte mi, který zpozdilec podepsal zatykač na potulného rytíře, aniž by věděl, že zákonem potulných rytířů je jejich meč, privilegiem odvaha a právem vůle? Který to byl pošetilec, že neví, že není šlechtického diplomu s takovými právy a přednostmi, jako ten, kterého získává potulný rytíř dnem, kdy se stává potulným rytířem? Který potulný rytíř platil kdy daň, dávku, poplatek královně, přirážky či mýto na cestách a řekách? S kterým králem nehodoval? Která dáma se do něho nezamilovala a nevzdala se mu zcela? A posléze: byl, je a bude někdy na světě potulný rytíř, který by byl tak zbabělý, aby nedal čtyřem stům biřicům každému čtyři sta ran holí?“
+
+</section>

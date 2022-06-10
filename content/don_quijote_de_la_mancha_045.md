@@ -3,7 +3,7 @@ title: KAPITOLA XXXIII\., v níž se vypráví povídka o nevhodně zvědavém\.
 contentType: prose
 ---
 
-  
+<section>
 
 Ve Florencii, bohatém a slavném městě italském, v provincii toskánské, žili Anselmo a Lotario, dva bohatí a významní šlechtici a takoví přátelé, že všichni, kdo je znali, nazývali je po výtce „dvěma přáteli“. Byli svobodní, stejného stáří i zvyků, což vše stačilo k navázání vzájemného přátelství. Je ovšem pravda, že Anselmo byl více nachýlen k milostné zábavě než Lotario, jenž se zase oddával vášni lovecké. Ale ve chvíli potřeby nechával Anselmo zálib svých a přijímal záliby Lotariovy a naopak; a takto kráčely vůle jejich v tak dokonalé shodě, že lépe by nešly ani ty nejdokonalejší hodiny.
 
@@ -146,3 +146,5 @@ Lotario si ji prohlížel po celou dobu, kdy s ní mohl mluvit, a přemítal, ja
 Vskutku krása a ušlechtilost Camilina zároveň s příležitostí, již mu pošetilý manžel vložil do rukou, rozbily poctivost Lotariovu. A aniž se ohlížel na něco jiného, než na to, k čemu se cítil puzen touhou, po třech dnech Anselmovy nepřítomnosti, během nichž ustavičně bojoval sám se sebou, začal usilovat o Camilu s takovým vznětem a tolika milostnými návrhy, že Camila byla ohromená a nezmohla se na více, než že vstala ze svého místa a odešla do svého pokoje bez jediného slůvka odpovědi. Ale tato strohost neunavila Lotariovu naději, jež se rodí vždy zároveň s láskou. Camila spíš nabyla ještě více ceny v jeho očích.
 
 Anselmova paní, když objevila v Lotariovi  něco takového, co by do něho nikdy neřekla, nevěděla, co si má počít; a poněvadž se jí zdálo, že není věcí bezpečnou ani náležitou poskytovat Lotariovi další příležitosti k rozmluvě, rozhodla se ještě téže noci (a také to učinila) poslat jednoho ze služebníků za Anselmem s listem, kde mu psala takto:
+
+</section>

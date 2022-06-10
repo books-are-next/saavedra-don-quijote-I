@@ -6,7 +6,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 „Není tomu jinak, pane, než že tato tráva nasvědčuje tomu, že tu někde blízko je nějaký pramen nebo potůček, jenž trávu svlažuje, a proto nejlíp bude, postoupíme-li trochu; snad najdeme, čím utišit tu hroznou žízeň, jež nás vysiluje a jež je jistě horší než hlad.“
 
@@ -143,3 +143,5 @@ Sancho se bál, aby mu jeho posměšky nevynesly ještě více, než mu vynesly,
 „To je pravda,“ pravil Sancho; „neboť hluk stoup stačil pobouřit a poplašit srdce tak statečného rytíře jako je Vaše Milost. Ale můžete si být jistý, že ode dneška neotevřu úst k vtipu na záležitosti Vaší Milosti, ale jen k její poctě, když je přece mým velitelem a přirozeným pánem.“
 
 „Tak se dožiješ dlouhého věku,“ odvětil don Quijote, „neboť mimo rodiče i pánové mají být ctěni jako rodiče.“
+
+</section>

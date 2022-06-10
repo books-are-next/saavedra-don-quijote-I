@@ -3,7 +3,7 @@ title: KAPITOLA XXXIX\., v níž otrok líčí svůj život a příhody\.
 contentType: prose
 ---
 
-  
+<section>
 
 „V horách Leonských je vesnice, odkud pochází moje rodina; příroda byla jí nakloněnější než osud, ač můj otec v této chudé krajině byl pokládán za bohatého. Byl by opravdu bohatý, ale utrácel své jmění. A příčinou jeho štědrosti a nešetrnosti bylo, že byl v mládí vojákem, neboť vojenský život dělá z lakomců lidi štědré a ze štědrých marnotratníky, a je-li kdy nějaký voják lakomý, je to jako zvíře, které zřídka spatříme. Můj otec byl téměř marnotratníkem, a to není dobře pro otce rodiny.
 
@@ -64,3 +64,5 @@ Rytíř na to řekl:
 „Předneste nám je, Milosti,“ pravil otrok, „umíte to zajisté lépe než já.“
 
 „Velice rád,“ odpověděl rytíř, „znělka o Goletě začínala takto.“
+
+</section>

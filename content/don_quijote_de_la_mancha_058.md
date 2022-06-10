@@ -5,11 +5,13 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Za řeči dona Quijota domlouval farář biřicům, že don Quijote je blázen, jak je zřejmé z jeho činů; že není potřeba pokračovat v této záležitosti, poněvadž, i kdyby jej zatkli, bude propuštěn, neboť nemá zdravý rozum; ale na to biřic, který měl zatykač, že není jeho povinností posuzovat bláznovství dona Quijota, ale vykonávat rozkazy představeného; ať si jej potom pustí třeba třistakrát, jen když jej zatkne.
 
-  
+</section>
+
+<section>
 
 „Přesto byste jej neměli zatýkat, a pokud vím, není to ani možné.“
 
@@ -84,3 +86,5 @@ Po ukončení věštby zesílil hlas a potom mu dal tiše vyznět, že téměř 
 „Ať jsi kdokoliv, kdo jsi mi tolik předpovídal, prosím, popros moudrého kouzelníka, který se ujímá mých záležitostí, aby mě zachránil z tohoto vězení, v němž mě nyní odvážejí, dříve, než splní ty radostné a znamenité sliby; a stane-li se to, bude mi trápení v tomto mém vězení nebem, a řetězy, kterými jsem spoután, útěchou, a lože, na němž nyní ležím, nebudu pokládat za tvrdou půdu bojiště, ale za lože manželské. A co se týče Sancha, mého zbrojnoše, spoléhám na jeho věrnost, poctivost a spolehlivost ve štěstí i v neštěstí; poněvadž, i kdyby jej nebo mne opustilo štěstí a já mu nemohl dát slíbený ostrov, nepřijde nikdy o svoji mzdu, neboť v poslední své vůli určuji, co dostane ne podle svých četných služeb, ale podle mého jmění.“
 
 Sancho Panza se pokorně uklonil, políbil mu obě ruce, neboť jednu nemohl pro řetězy. Potom jej zjevy vyzdvihly a naložily na volský povoz.
+
+</section>

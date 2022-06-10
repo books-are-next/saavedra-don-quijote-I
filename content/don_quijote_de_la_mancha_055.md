@@ -5,6 +5,8 @@ title: >-
 contentType: prose
 ---
 
+<section>
+
 > _Já jsem námořníkem lásky,  
 > na propasti oceánu  
 > jejího se nyní plavím  
@@ -143,3 +145,5 @@ Posléze nastalo jitro a don Quijote, zoufalý a bezradný, řval jako býk, byl
 „Nevyznáte se příliš ve světě,“ poznamenal don Quijote, „když nevíte o příhodách potulného rytířstva.“
 
 Ostatní, kteří přijeli s tazatelem, nudil rozhovor s donem Quijotem, i zabušili zuřivě na vrata; hostinský se probudil i ostatní a šel se podívat, kdo přichází. V tom okamžiku ucítil jeden z koní, na nichž přijeli ti čtyři jezdci, Rocinanta, klopícího smutně a odevzdaně uši a nehýbajícího se pod svým natahovaným pánem; a poněvadž byl přece živý, ač se zdál být ze dřeva, pohnul sebou a obrátil se po čichu; jakmile sebou trhl, ujely donu Quijotu nohy a sklouzly mu ze sedla, že by byl sletěl na zem, kdyby nebyl přivázaný za ruku; to jej tolik bolelo, že myslel, že mu buď usekávají ruku, nebo vytrhávají rámě; nohy se mu téměř dotýkaly země, a to mu jen škodilo, protože když viděl, jak k ní má blízko, snažil se dosáhnout na ni a natahoval se, jak jen mohl: podobal se člověku napjatému na skřipec, který jen zvětšuje sám svou bolest námahou, s níž se natahuje, mylně doufaje, že, natáhne-li se ještě trochu, dosáhne země.
+
+</section>

@@ -3,7 +3,7 @@ title: KAPITOLA XLI\. o dalších příhodách otrokových\.
 contentType: prose
 ---
 
-  
+<section>
 
 „Neminulo ani čtrnáct dní, když poturčenec koupil výbornou loď pro třicet osob, a aby svůj podnik potvrdil, rozhodl se, že odcestuje do Sargel, místa vzdáleného dvacet mil od Alžíru směrem k Oranu, kde byl čilý obchod se sušenými fíky. Tuto cestu vykonal s Tangeřanem, o němž jsem již mluvil několikráte. Tangeřany jsou nazýváni v Berbersku Mauři z Aragonu, kdežto Maury z Granady jmenují Mudejary; v království fezském Mudejaři jsou nazýváni Elchové a ti jsou nejvíc králem posíláni do válek.
 
@@ -196,3 +196,5 @@ Potom nás odvedli a rozdělili po domech; Zoraida, poturčenec a já jsme odeš
 Pokora, s jakou snáší Zoraida chudobu, a její touha stát se křesťankou jsou nesmírné, i obdivuji jí a pokládám za svoji povinnost sloužit jí po celý život; moje štěstí a touhu být jejím a ona mou ruší pouze nejistota, neboť nevím, naleznu-li ve své vlasti nějaké místo, kde bych s ní mohl žít, změnil-li čas a smrt poměry ve jmění a životech mého otce a bratří a naleznu-li někoho, kdo mě pozná, nebudou-li naživu.
 
 To je celý můj příběh, pánové, usuďte sami, je-li zajímavý a nezvyklý; poznamenávám, že bych jej byl chtěl vyprávět stručněji, ač jsem z obavy, abych vás šíří svého vyprávění nenudil, mnoho vynechal.“
+
+</section>

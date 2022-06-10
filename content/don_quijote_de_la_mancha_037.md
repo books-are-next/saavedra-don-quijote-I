@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Lazebníkovi se farářův nápad líbil a hned se dali do toho jej uskutečnit. Požádali hospodskou o šaty a čepec a nechali jí v zástavě novou farářovu sutanu. Holič si udělal velký vous z šedého volského ocasu, do něhož hospodský zastrkával svůj hřeben. Hospodská se jich tázala, na co ty věcí potřebují, a farář jí krátce pověděl o bláznovství dona Quijota a jak to přestrojení má jej vyvést z hor, kde právě dlí. Hospodský i hospodská si řekli, že ten blázen je asi jejich host s balzámem, pan létajícího zbrojnoše, a vylíčili faráři vše, co se s ním seběhlo, a nezamlčeli ani to, o čem tak mlčel Sancho. Nakonec oblékla hostinská faráře až radost: nastrojila ho do soukenné sukně s černými, sametovými pruhy na prst širokými a do živůtku ze zeleného sametu, zdobeného bílým atlasem; oba kusy oděvu byly tak z doby krále Wamby. Farář odmítl čepec a vzal si plátěnou, prošívanou čapku, již nosíval na noc, a obtočil si čelo stuhou z černého taftu; z jiného pruhu zhotovil závoj a zakryl jím vous i obličej, pak si vtlačil do čela klobouk, jenž byl tak velký, že jej mohl mít za slunečník, oděl se pláštěm a vsedl bokem jako dáma na mezka; holič vsedl na svého, maje po pás rudošedý vous, neboť jak už řečeno, byl to vlastně ocas strakatého vola.
 
@@ -149,3 +149,5 @@ To jest, pánové, hořký příběh mého neštěstí. Povězte, je-li takový,
 Tu skončil Cardenio své dlouhé vypravování, svou historii stejně oplývající slzami jako láskou a v okamžiku, kdy se farář chystal říci mu pár slov útěchy, zarazil jej hlas, který zaslechl a jenž žalostným tónem pronesl, co se poví v dalším oddílu této knihy. Neboť na tomto místě končí moudrý a svědomitý dějepisec Cide Hamete Benengeli oddíl přítomný.
 
 (Konec knihy první)
+
+</section>

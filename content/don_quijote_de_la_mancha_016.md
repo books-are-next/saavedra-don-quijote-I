@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Tam rytíř ještě spal. Farář požádal neteř o klíče pokoje, kde byly knihy, které způsobily zlo, a ona mu je dala velmi ráda. Vstoupili všichni, i hospodyně, a našli přes sto velkých, pěkně vázaných knih a mnoho malých; hospodyně, jak je spatřila, vyběhla spěšně ze světnice a vrátila se s miskou svěcené vody a kropáčem a pravila:
 
@@ -138,3 +138,5 @@ Uložil ji stranou s nadšením a holič pokračoval:
 Faráři se znechutilo další prohlížení, i rozkázal, aby se ostatní knihy spálily krátce bez zkoumání. Ale holič už jednu otevřel a byly to „Slzy Angeliky“.
 
 „Já sám bych je proléval,“ řekl farář slyše název, „kdyby taková kniha šla na spálení, protože její autor byl z nejslavnějších básníků světa, nejen Španělska, a velmi šťastně přeložil některé bajky Ovidiovy.“
+
+</section>

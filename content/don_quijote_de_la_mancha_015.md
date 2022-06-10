@@ -3,7 +3,7 @@ title: KAPITOLA V\., kde se pokračuje v líčení nehod našeho rytíře\.
 contentType: prose
 ---
 
-  
+<section>
 
 Když viděl, že se nemůže hnout, rozhodl se, že užije svého obvyklého pomocného prostředku, že si totiž vzpomene na nějaké místo ze svých knih; i vzpomněl si, blázen, jaký byl, na Baldovína a markýze z Mantovy, když ho Carloto nechal zraněného v horách: historie, známá dětem, běžná chlapcům, prohlašovaná za skutečnou dospělými, a přitom všem stejně vylhaná jako zázraky Mohamedovy.
 
@@ -60,3 +60,5 @@ Odnesli ho potom na postel a hledali poranění, nenašli žádné a on řekl, �
 „No, no, no,“ řekl farář. „Tak s obry jste bojoval! Při mém posvěcení, že je zítra spálím, než přijde večer!“
 
 Ptali se dona Quijota na tisíc věcí, ale nechtěl na nic odpovědět, jen aby prý mu dali najíst a nechali ho spát, čehož potřeboval nejvíc. Tak se i stalo, avšak farář se vyptal obšírně sedláka, jak se setkal s donem Quijotem. Sedlák mu vylíčil vše i nesmysly, jež vyslechl, když rytíře nalezl a odvážel, což utvrdilo licenciáta v úmyslu učinit druhého dne, co i učinil: zavolat k sobě holiče mistra Mikuláše, s nímž přišel do domu dona Quijota.
+
+</section>

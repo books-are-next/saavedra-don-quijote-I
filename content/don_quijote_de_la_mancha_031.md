@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Vtom začalo trochu pršet a Sancho by se byl chtěl schovat do valchy; ale donu Quijotovi se stala tak protivnou pro směšnost jejich příhody, že rozhodně odmítl do ní vejít, a tak, zahnuli napravo a dostali se na jinou cestu než včerejší.
 
@@ -126,3 +126,5 @@ Zatím již rytíř odjel; bojuje ve válce, přemůže králova nepřítele, do
 „O holiče se už já postarám,“ řekl Sancho; „a vy se, Milosti, starejte o to, být králem a udělat mě hrabětem.“
 
 „Zajisté,“ odvětil don Quijote, zvedl oči a spatřil to, o čem se vypráví v následující kapitole.
+
+</section>

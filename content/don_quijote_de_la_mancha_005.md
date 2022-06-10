@@ -3,7 +3,7 @@ title: CERVANTES A JEHO DON QUIJOTE
 contentType: prose
 ---
 
-  
+<section>
 
 Cervantesův[\[1\]](./resources/undefined) „Důmyslný rytíř Don Quijote de la Mancha“ je parodií rytířských románů, pomníkem renesančního myšlení, z něhož se zrodila naše doba, výrazem životní moudrosti svého autora a výronem i ztělesněním národního ducha španělského.
 
@@ -14,7 +14,9 @@ Veršované romány o báječném britském králi Artušovi a jeho družině, d
 > _„Le donne, i cavalier, i antiqui amori,  
 > le cortesie, le audaci imprese io canto…“_
 
-  
+</section>
+
+<section>
 
 pějí verše „Orlanda furiosa“ (Zuřivého Rolanda; první vyd. r. 1516). Ale identickou tuto látku, lásku dam a rytířů, dvoření, zázraky rytířské cti a neuvěřitelná dobrodružství dovedl Ariosto jinak zvládnout než Boiardo, a proto je i jiný ve své parodii. Ariosto uskutečňuje touhu renesance po „čirém umění“, „čiré formě“; Ariosto je básníkem a ničím více, ale tím chce být, jak nejčistěji to jde. O svět, skutečnost a svou látku má výlučně zájem umělecký; to jest, jeho rytířstvo je říší zcela mimo tento svět, je vesmírem fantazie, který si umělec sám od a do zet stvořil, který podle zvůle rozkládá a znovu skládá, jímž absolutně disponuje. Toto osvobození obraznosti od historie a skutečnosti, stvoření ryzí formy – bylo jedním ze snů renesance. Ariosto jej uskutečnil. Avšak cítil, že svět obrazný nemá skutečnosti mimo jeho vlastní mysl, neuvěřil mu a vyhradil si právo projevovat o jeho ceně cynickou skepsi. Právo na ironii, jež si osobuje tvůrčí duch, který si stvořil svůj umělecký svět, to jest umělý a neskutečný, a chvílemi jím pohrdá jako každou jinou hříčkou, je jedním z nejosobitějších rysů Ariostových: tu je kořen jeho ironizování rytířstva, hluboce patrně rozdílný od kořenů parodie boiardovské. Boiardo nám ukázal Rolanda zamilovaného směšně a potupně, ale snížil aspoň hodnotu jeho citů pro Angelicu, neboť jeho Roland se dvakrát nechá svést lstivou Origillou; Ariosto vrátí Rolandovi lásku čistou a věrnou, ale nechá ho z ní zešílet a vydá ho, bláznícího, veřejnému posměchu jako šaška. Ariosto je jemnější, vtipnější a krutější. Boiardova Angelica je lstivá a lživá ukrutnice, ale zůstává dcerou královskou, jíž se narodila; Ariosto jí vrací dobrotu srdce, ale jen proto, aby jí, ideálu Rolandovu, Rinaldovu, Sacripantovu, Ferraúnovu, dal se zamilovat do nicotného panoše a skončit jako ženě sluhy: „si fa moglie di un povero fante!“ Boiardovi rytíři jedí na posezení po čtvrtce koně a na dostřel luku lze je slyšet skřípat zuby; jsou směšní, ale jsou to směšní obři. Ariosto nehledá těchto hrubých a obrovských efektů: ukáže zato s krutou ironií na Rodomontovi, jak ze samé povahy potulného rytířství plyne, že potulný rytíř je nutně anarchickou silou, duchaprázdnou a zvířecí. – Cervantes Ariostovo dílo dobře znal: špatný španělský překlad španělský, jejž dal r. 1544 Girolamo de Urrea, chválil daleko přes míru. Úmysly Ariostovy nebyly ovšem úmysly Cervantesovými. Ital nemínil svým dílem výslovně parodovat rytířstvo: jeho ironie není systémem, ale jen občasným projevem neúcty k světu, jejž si stvořil a jemuž není povinen přikládat víc důležitosti a vážnosti, než se mu zlíbí. Ale Cervantes dobře uviděl těch několik skeptických úsměšků na ústech Ariostových a neušel mu ironický nádech veršů podobných tomu, jímž italský mistr provází výpočet nadlidských, zázračných výkonů svých rytířů, výkonů totiž
 
@@ -30,7 +32,9 @@ Ale jiná otázka je, zda „Don Quijote“ zabitím rytířského románu zabil
 
 Cervantesův „Don Quijote“ není tedy jen parodií rytířských románů, ale je sám nejkrásnějším rytířským románem, jenž byl stvořen. Cervantes nezabil rytířství, ale povznesl je a očistil. Zbavil ideu rytířskou všeho přežilého a papírového: řinčivosti, okázalosti, touhy po neuvěřitelných dobrodružstvích, zázraků, milostného fňukání. Zachoval vše, co v ní bylo vznešeného a poetického: hledání pravdy, myšlenku sebeobětování pravdě a lásce, statečnost, čestnost, cudnost citů. Vypracoval ji znovu v nový ideál, tentokrát ne už vázaný na jedinou dobu a jedinou formu společenskou, ale schopný žít věky a být ideálem ještě ve dvacátém století. Proto je _„Důmyslný rytíř don Quijote“ rytířským románem definitivním!_
 
-  
+</section>
+
+<section>
 
 _Cervantesův „Don Quijote“ je pomníkem renesančního myšlení._ I v tom smyslu mu nebylo dlouho rozuměno. Jako měli Cervantesa za pouhého parodika rytířství, ač rytířský ideál vypracoval k výsledné dokonalosti, stejně jej měli do nedávné doby za člověka bez myšlenek, jejž netrápily palčivosti rodící se moderní doby, ba za člověka reakce. Myslím, že v tomto omylu jsou za mnoho odpovědni španělští myslitelé a literáti sami; zdá se mi, že nic nemůže více sloužit k jeho udržení a zakořenění než názor na povahu španělského umělce, vyložený v „Idearium español“, této bibli moderního španělství: Ganivet tam vykládá (str. 77 a n.), že španělský spisovatel je bytostí povýtce spontánní, více než to, nevědomou, nevychovanou; sedne-li k práci, neví, stvoří-li zázrak umělecký, nebo monstrum; je-li málo nadán, není schopen ukrýt se za učenost neb naučenou znalost literárního řemesla. Tu máme tedy Cervantesa-nevědomce! Před několika lety (r. 1923) Ital Cesare de Lollis tuto teorii rozvedl celou knihou: jeho „Cervantes reazionario“ představuje nám španělského autora jako typického žáka jezuitů a výlupka Tridentského koncilu; chybělo mu prý sto procent kritického smyslu (str. 184); kdyby prý místo romanopisce byl učencem, byl by psal latinské traktáty o „příčinách zkázy mravů“ a „výchově křesťanské ženštiny“. Tudíž „Cervantes-buon uomo, povero uomo che tutti sanno“, brach Cervantes, duchem chuďas, jak všichni vědí! – Ale naproti tomu už r. 1905 v kratičké své „Cultura literaria de Cervantes“ Menéndez y Pelayo u Cervantesa odkrývá, trochu ovšem vágně, „ono vysoce lidské a aristokratické duchovní založení, jež měli všichni velcí mužové renesanční“ a r. 1920 Toffanin v „La fine del Umanesimo“ (Konec humanismu) shledává, že po Tassovi a s větším úspěchem než on Cervantes luštil velký problém humanistů, vztah fikce a skutečnosti, poezie a historie, jak tehdy říkali; ba r. 1926 Américo Castro ve své ostatně krásné knize „El pensamiento de Cervantes“ (Myšlení C.) chce mermomocí mít z Cervantesa vysloveného straníka Erasma Rotterdamského.
 
@@ -40,7 +44,9 @@ Cervantes je hluboce synem své moderní doby svým naturalismem. O tom několik
 
 Svým naturalismem byl Cervantes na výši své doby; je více než zjevné, že se jejími otázkami zabýval a výtka nedovzdělanosti a zpátečnictví nemá u něj opodstatnění. Ale ovšem, naturalismem byla proniknuta renesance celá a neměli jsme dosud důvod obdivovat originalitu Cervantesova myšlení. To proto, že Cervantes byl ne filozofem, ale umělcem. Hledejme, čím se renesančnost jeho vyjádřila v jeho umění a suďme jeho velikost jen podle toho! Robertelliho kritické vydání Aristotelovy „Poetiky“ z r. 1548 klade znovu před renesanční umění problém vztahu umění a života, poezie a historie, řečeno aristotelsky. Tatáž otázka vášnivě zajímá veškerý katolický kulturní svět po Tridentském koncilu: vedle úsilí katolické Protireformace o nové sloučení a syntézu umění a života, kultury a morálky, běží o vzkříšení staré duchovní harmonie středověké. Tasso svým dílem antinomie nerozřešil: jeho rytířský svět nemá nic společného s životem a náleží výlučně světu fantazie; tassovská ironie problém nadhazuje, ale neluští. Úloha čekala na Cervantesa: pochopil, že nové rozluštění problému je nemožné na základě existujících uměleckých kategorií a forem; nepokusil se o dílo čiré fantazie jako Tasso, nespoutal se hranicemi Aristotelovy Poetiky, konstruované na ponětí žánru heroického (na Homérovi) a ponětí tragédie; stvořil si nový žánr, žánr románu. To byl jeho geniální tah. Román je v podstatě nepřítelem žánru heroického, neboť je z podstatné části tragikomedií. „Don Quijote“ je jí zcela patrně a antinomie poezie a života je tu položena a luštěna v antinomii dona Quijota, plného heroických, bláznivých snů, a světa, krutě se mu vysmívajícího, nebo na antinomii chimérika Quijota a realistického Sancha; Cervantes se nerozhoduje pro Quijota, ani pro Sancha, pro chiméru ani pro skutečnost, ale doplňuje jednu druhou (není-li stesk Quijotův po nepřítomném Sanchovi, odešlém vladařit, symbolickým znamením, že patří nerozlučně k sobě a skládají dohromady jedinou pravou skutečnost?), harmonizuje obě. Zde je jádro Cervantesovy revolučnosti a jeho význam jakožto člověka renesančního: položil si hlavní problém renesančního umění a rozluštil jej geniálně stvořiv nový žánr, žánr tragikomický, román. Románem dal novověku nejcharakterističtější jeho literární formu. A kdo dovedl stvořit moderní formu, měl i moderního ducha.
 
-  
+</section>
+
+<section>
 
 Cervantes, jakožto tvůrce žánru románového, je z tvůrců moderních kulturních forem. Je z velikých, původních dělníků renesance.
 
@@ -77,3 +83,5 @@ Když kdysi druhové Unamunovi vydali heslo „europeizar España (evropeizujte 
 Ale jisté je: donquijotismus je myšlenkou velikou. Jeho obsah jsme určili výše. Je vítězstvím věčnosti nad neměnností, ideálu nad realitou, ducha nad hmotou, je porážkou yankeeského Mamona a triumfem kleriků. Pokud hispanismus je totéž, co quijotismus, lidstvo může se cítit voláním „pošpanělštěte Evropu“ jen poctěno a v donquijotismu vidět lekci duchovního rytířství, o to vznešenější, oč méně uskutečnitelnou.
 
 _Václav Černý_
+
+</section>

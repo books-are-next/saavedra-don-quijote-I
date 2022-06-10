@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Přešťastné a blažené byly doby, kdy na svět přišel statečný rytíř don Quijote de la Mancha, neboť díky jeho šlechetnému úmyslu vzkřísit a světu navrátit zašlý a téměř vymřelý řád bludných rytířů těšíme se nyní, v našem čase, tak chudém na zábavu, nejen příjemnou a pravdivou jeho historií, ale i povídkami a epizodami této historie, stejně příjemnými, vtipnými a pravdivými. Historie, navazující svou zamotanou, pokroucenou a spletenou niť, vypravuje, že, jakmile se farář přichystal k útěše Cardenia, přerušil ho hlas, který zaslechl a jenž smutně pravil:
 
@@ -92,3 +92,5 @@ Ale neštěstí prý nepřichází nikdy samo a konec jednoho bývá počátkem 
 Pak jsem vnikla do těchto hor rychleji, než můj úděs a únava dovolovaly, vedena jedinou myšlenkou a úmyslem: skrýt se zde a utéci otci i všem, kteří mě hledají z jeho rozkazu. Proto jsem přišla sem před nevím již kolika měsíci a našla jsem tu dobytkáře, jenž mě vzal do služby v osadě v srdci těchto hor; u něho jsem sloužila za pasáka po celý tento čas, dbala na to, abych byla neustále na poli, abych ukryla vlasy, jež mě nyní mimo nadání prozradily. Ale všechna moje opatrnost a námaha nesloužily k ničemu, neboť můj pán poznal, že nejsem chlapcem, a pojal týž zlý úmysl jako můj sluha. A protože osud nedává vždy léku našim nesnázím, nenalezla jsem skály ani rokle, kam jej svrhnout, jak jsem byla učinila sluhovi. Proto jsem ho raději opustila a skryla jsem se znovu v těchto divočinách, než abych s ním znovu měřila svou sílu nebo lest.
 
 Pravím tedy, že jsem se znovu skryla a hledám místo, kde bych mohla bez závady v nářku a slzách prosit nebesa, aby se smilovala nad mým neštěstím a dopřála mi štěstí vyváznout z něho, nebo aby mě v této pustině zbavila života, aby ani vzpomínka nezůstala na ubohou dívku, jež, ač nevinná, zavdala příčinu, aby se o ní mluvilo a šeptalo doma i jinde.“
+
+</section>

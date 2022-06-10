@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 „Tak jest, jak praví Vaše Milost, pane kanovníku,“ pravil farář, „a proto zasluhují pokárání všichni, kteří psali knihy bez rozumu, opomíjeli umění a pravidla, jimiž se mohli proslavit prózou jak básníci poezie latinské a řecké veršem.“
 
@@ -64,3 +64,5 @@ Mezitím Sancho zpozoroval, že by si mohl promluvit s pánem bez dozoru farář
 „Je to možné, abyste, Milosti, nerozuměl, co je malá a velká? Vždyť to říkají dětem už ve škole. Tedy, chci říci, zda jste nepotřeboval udělat, co se nesmí dělat ve společnosti?“
 
 „Už ti rozumím, už ti rozumím, Sancho; ó, mnohokrát a ještě pořád a pomoz mi s tím, nebo to špatně dopadne.“
+
+</section>

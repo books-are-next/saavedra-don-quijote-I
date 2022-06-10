@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Učený Cide Hamete Benengeli vypravuje, že, když se don Quijote rozloučil se svými hostiteli i se všemi ostatními účastníky Grisostomova pohřbu, dal se i se svým zbrojnošem tímže lesem, v němž zmizela i pastýřka Marcela; jeli jím přes dvě hodiny, hledali ji na všech stranách marně, až se zastavili na louce pokryté svěží travou, po níž tekl potůček, klidný a tak chladný, že vybízel a nutil, aby tam strávili hodiny odpočinku, který právě počínal. Don Quijote i Sancho sesedli, a nechali osla i Rocinanta pást se podle libosti v trávě, vyplenili tlumok a bez velkých ceremonií v pokoji a družnosti snědli oba, pán i sluha, co v něm nalezli. Sancho nedbal, aby Rocinanta spoutal, spoléhaje na to, že je tak klidný a málo bujný, že by jej všechny kobyly z pastvin córdobských nesvedly k žádné špatnosti.
 
@@ -78,3 +78,5 @@ Na to řekl don Quijote:
 „Tak jest,“ na to don Quijote, „když jinak nemohou, anebo když jsou zamilováni: a to je tak pravda, že byl jednou rytíř, který strávil na skále dvě léta, v slunci a stínu, vystaven nepohodám nebeským, aniž o tom věděla jeho paní; jedním takovým byl Amadis, když si dal jméno ‚Neznámého Krasavce‘ a vzdálil se na Chudou skálu, nevím teď, zda na osm let nebo osm měsíců; stačí, že tam odešel činit pokání za nevzpomínám si už jakou hloupost, kterou mu provedla paní Oriana. Ale nechme toho už, Sancho, a pospěš si, než stihne tvoje dobytče podobné neštěstí jako Rocinanta.“
 
 „To by musel sám čert,“ řekl Sancho a třicetkrát zavzdychal, šedesátkrát zabědoval a stodvacetkrát proklel toho, kdo ho sem přivedl, vstal, avšak zůstal uprostřed cesty ohnutý jako turecký luk, nemohl se dokonale napřímit; a v takovém trápení připravil osla, který také trochu zdivočel z přílišné své svobody toho dne. Potom zvedl Rocinanta, který by se jistě nedal zahanbit svým pánem a Sanchem, kdyby měl jazyk stvořený k nářku. Nakonec Sancho uložil dona Quijota na osla, přivázal za něj Rocinanta, vzal osla za ohlávku a zamířil zvolňoučce tam, kde se domníval, že asi vede královská silnice. A osud, který jejich věcem čím dál více přál, zavedl ho, dřív než ušel malou míli, na cestu, na níž odkryl hospodu, v níž don Quijote mermomocí chtěl vidět hrad. Sancho ujišťoval, že je to hospoda, a jeho pán, že hrad, a spor trval, až přišli k ní, i vstoupil do ní Sancho bez dalšího zkoumání se vší svou výpravou.
+
+</section>

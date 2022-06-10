@@ -5,11 +5,13 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Sancho dojel svého pána zemdlený a zesláblý, že nemohl ani řídit svoje zvíře. Vida ho v tom stavu don Quijote řekl:
 
-  
+</section>
+
+<section>
 
 „Teď už vidím, hodný Sancho, že ten hrad nebo hospoda je bezpochyby zakleta, protože ti, kdo tak strašlivě si s tebou zahráli, co mohli být jiného než přízraky a lidé z onoho světa? A jsem si tím jistý, poněvadž jsem viděl, když jsem byl u zdi dvora a díval se na průběh té neblahé tragédie, že mi není možno na ni vylézt, ani z Rocinanta sestoupit, neboť mě jistě očarovali. Přísahám ti při své cti, že kdybych mohl vylézt na zeď nebo skočit z koně, byl bych tě pomstil, že by si ti šaškové a darebáci vzpomínali na svůj žertík do smrti, ač, jak vím, přestoupil bych tím zákony rytířské, jež, což jsem ti už mnohokrát řekl, nedovolují, aby rytíř vztáhl ruku na nerytíře, snad jen na obranu vlastního života a osoby v případě tísnivé a velké potřeby.“
 
@@ -136,3 +138,5 @@ Sancho tam strčil prsty a pozorně hmataje řekl: „Kolik stoliček jste, Milo
 „Já nešťastný,“ zvolal don Quijote, když slyšel smutnou novinu z úst svého zbrojnoše, „raději bych přišel o ruku, byla-li by to ta, ve které nedržím meč. Neboť ti povídám, Sancho, že ústa bez stoliček jsou jako mlýn bez mlýnských kamenů a zub je cennější než diamant; ale tomuhle všemu jsme vydáni my, kteří vyznáváme přísný řád rytířský. Vzhůru, příteli, veď mě a já tě budu následovat krok za krokem.“
 
 Sancho uposlechl a zamířil tam, kde se domníval, že by mohl nalézt přijetí, a neopustil královské silnice, jež tam byla velmi pohodlná. Poněvadž jeli velmi zvolna, neboť bolest v čelistech nedovolovala donu Quijotovi, aby si chvilku oddechl, ani aby zrychlil jízdu, chtěl jej Sancho něčím pobavit a rozptýlit a mezi jiným mu řekl i to, co obsahuje následující kapitola.
+
+</section>

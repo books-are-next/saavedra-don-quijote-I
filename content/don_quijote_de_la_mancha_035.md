@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Když rozloučil se s pastýřem a vystoupil znovu na Rocinanta, poručil don Quijote Sanchovi, aby jej následoval, což zbrojnoš učinil na svém dobytčeti velmi mrzutě. Jeli zvolna vnikajíce do nejneschůdnější části pohoří a Sanchovi se k smrti chtělo popovídat si s pánem, čekal však, až rytíř sám začne, nechtěl porušit daný rozkaz. Ale nemohl snést tak dlouhé mlčení a pravil:
 
@@ -156,3 +156,5 @@ Vsednul na Rocinanta, jehož mu don Quijote velmi doporučil a žádal ho, aby o
 „Což jsem ti to neříkal?“ pravil don Quijote, „počkej tedy, Sancho, budu hotov, co přeříkáš Otčenáš.“
 
 A svlékl spěšně kalhoty a v košili bez dlouhých cavyků udělal dva kotrmelce a dvakrát se postavil na hlavu odkrývaje věci, které Sancho nechtěl spatřit podruhé, a tak obrátil Rocinanta spokojený, že může na bláznovství svého pána přísahat. I necháme jej v slibu jet až do návratu, který nebyl dalek.
+
+</section>

@@ -3,7 +3,7 @@ title: KAPITOLA LI\. o vyprávění pastevcově průvodcům dona Quijota\.
 contentType: prose
 ---
 
-  
+<section>
 
 „Tak na tři míle od tohoto údolí je malá vesnice, nejbohatší v celém kraji; tam žil bohatý sedlák, kterého si velice vážili pro jeho čestnost: on sám o sobě tvrdil, že nejšťastnějším jej dělá dcera velmi krásná, vtipná a bystrá, které se každý divil, žasl nad dary, kterými ji obdařilo nebe a příroda. Již v mládí byla krásná a rostla do krásy; v šestnácti letech byla nejsličnější. Pověst o její kráse rozšířila se po celém kraji i do vzdálených měst i síní královských; obdivovali jí jako zázračný obrázek. Otec ji střežil a ona sama se chránila nejvíce, neboť žádný zámek, žádná stráž nebo závora se nevyrovná vlastní dívčině počestnosti.
 
@@ -24,3 +24,5 @@ Když Leandra odešla do kláštera, byl Anselmo jako slepý; mně se svět stal
 Mnoho jiných nápadníků přišlo do tohoto hlubokého lesa a jednají jako my; je jich mnoho, takže se toto místo podobá pastýřské Arkadii; je zde množství pastýřů a salaší a není tu místa, kde by nebylo slyšet jména Leandry. Jedni jí zlořečí a nazývají ji rozmarnou, nestálou a smyslnou, jedni ji odsuzují pro lehkomyslnost a vrtkavost; jiný ji omlouvá a odpouští jí, druhý ji pomlouvá; ten slaví její sličnost, jiný proklíná její vlastnosti, vůbec, všichni ji zbožňují i proklínají; a šílenost přepadá všechny tak, že mnohý je stižen chorobnou žárlivostí bez příčiny, neboť, jak víme, zhřešila dříve, než si někoho z nás vyvolila. Není skalní strže, ani břehu, ani potoka, ani stínu stromů, kde by některý pastýř nežaloval větru na svou bolest. Všude, kde je ozvěna, ozývá se jméno Leandra, ‚Leandra‘ zní lesem, ‚Leandra bublají potůčky; Leandra nás upoutala, očarovala, že beznadějní se kojíme nadějí a děsíme bez příčiny.
 
 Z těchto bláznovství nejvíc i nejmíň jich jeví můj sok Anselmo, který naříká pouze, že je tak daleko, a k houslím, na něž krásně hraje, zpívá verše, které jsou důkazem jeho nadání. Já kráčím cestou lehčí, zlořečím vrtkavosti žen, rozmarnosti, nečestnosti a zrádnosti, nevěrnosti i jejich bezmyšlenkovité volbě. To vše je příčinou mých slov k této koze, pánové, neboť přesto, že je nejkrásnější z celého stáda, nevážím si jí, neboť je ženského rodu. Vypravoval-li jsem rozvláčně, chci vám rychle posloužit; nedaleko stojí moje salaš, kde mám čerstvé mléko, dobrý sýr a chutné ovoce, které stejně lahodí oku jako jazyku.“
+
+</section>

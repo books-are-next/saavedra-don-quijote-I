@@ -3,11 +3,13 @@ title: KAPITOLA XXIV\., kde se pokračuje v dobrodružství v Sieře Moreně\.
 contentType: prose
 ---
 
-  
+<section>
 
 Vypráví historie, že don Quijote naslouchal nešťastnému rytíři z hor s velmi velikou pozorností, a ten promluvil se slovy:
 
-  
+</section>
+
+<section>
 
 „Ať jste, pane, kdokoliv, neboť vás neznám, děkuji vám za váš projev zdvořilosti vůči mně a přál bych si, abych více než pouhou dobrou vůlí mohl se vám odvděčit za vaše laskavé přijetí. Však osud můj nedopřává mi jiné věci, jíž bych se odsloužil za dobrodiní mně prokazovaná, než upřímnou touhou oplatit je.“
 
@@ -68,3 +70,5 @@ Sancho vstal a rozvzteklen, že byl zřezán, aniž si to zasloužil, chtěl si 
 „To je pravda,“ řekl don Quijote, „ale já vím, že nemůže za to, co se stalo.“
 
 Tím je uklidnil a tázal se znovu pastýře, je-li možno nalézt Cardenia, neboť se mu velmi chtělo konce vypravování. Pastýř řekl, co řekl již dřív, že neví bezpečně o jeho skrýši, ale že zdrží-li se déle v této krajině, jistě ho nalezne, ať při rozumu, nebo bez něho.
+
+</section>

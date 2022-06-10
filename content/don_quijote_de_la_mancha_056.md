@@ -3,7 +3,7 @@ title: KAPITOLA XLIV\. o dalších neslýchaných příhodách v hospodě\.
 contentType: prose
 ---
 
-  
+<section>
 
 Vskutku don Quijote tak naříkal, že poděšený hostinský, jakmile otevřel vrata, spěchal se s novými hosty podívat, kdo to ječí. Křikem dona Quijota vzbudila se také Maritornes a pochopila, co se stalo, běžela do stodoly a odvázala tajně ohlávku, na níž don Quijote visel; rytíř před očima hospodského, který přispěchal, a cestujících spadl na zem; všichni se ho ptali, proč naříká. Mlčky vstal, vyprostil se z provazu, vsedl na Rocinanta, zdvihl štít a píku a odjel kus do polí; potom se cvalem vrátil a volal:
 
@@ -120,3 +120,5 @@ Sancho přinesl holičskou mísu; don Quijote ji uchopil a pravil:
 „Podívejte se, Vaše Milosti, jak drze tento zbrojnoš lže, když tvrdí, že je toto holičská mísa; zapřísahám se při řádu rytířském, jehož jsem členem, že je to táž helma, kterou jsem mu odňal, a že se vůbec nezměnila.“
 
 „To je jistotná pravda,“ poznamenal Sancho, „neboť od té chvíle, co ji můj pán odňal, až do dneška byl s ní pouze v jediném zápase, kdy osvobodil ty nešťastné trestance; a kdyby neměl tuto mísohelmu, byl by špatně pochodil, neboť kamení tehdy lítalo, jen pršelo.“
+
+</section>

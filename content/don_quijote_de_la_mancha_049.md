@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Ten celý příběh vyslechl Sancho s velkým žalem, poněvadž viděl, že všechny jeho naděje na panování mizejí a že se krásná Micomicona změnila v Doroteu a obr v dona Fernanda; jeho pán hluboce spal a nevěděl o celém případu. Dorotea se tázala sama sebe, není-li štěstí, které ji potkalo, snem, rovněž tak Cardenio a Luscinda. Don Fernando děkoval Bohu, že k němu byl tak milostivý a vyvedl jej z bludiště klamu, v němž by téměř jistě zahynul a cti pozbyl. Vůbec všichni přítomní byli spokojeni a radovali se ze šťastného rozřešení celé neblahé příhody. Farář přál všem štěstí; nejstastnější byla hostinská, neboť Cardenio slíbil zaplatit škodu i výlohu, způsobenou donem Quijotem.
 
@@ -114,3 +114,5 @@ Podobným způsobem vyprávěl, že žádný z posluchačů si neuvědomil, že 
 Přesto ta chudoba není tak hrozná, aby nejedl, jí pouze poněkud později, než je zvykem, a pouze zbytky z hostin u bohatých lidí – to nejvíce mrzí studenty a říkají tomu: chodit po číslech; přece však někdy naleznou někde cizí kamínka nebo krb, kde aspoň nemrznou a v noci odpočívají pod střechou. O ostatních podrobnostech se nezmiňuji, postačí, poznamenám-li, že často nemají prádla a dost obuvi, chodí v odřených, ošumělých šatech a s chutí se přejedí, když se jim naskytne příležitost k hostině.
 
 Touto únavnou a namáhavou cestou, o které jsem nyní mluvil, dosahují, přičemž často klopýtají, padají, někdy se opět zvedají a zase upadají, cíle, kterého se snažili dosáhnout; často jsem byl svědkem, že šťastně unikli Scylle a Charybdě jakoby letem, dostihli cíle a vládli světu pohodlně usazeni; hlad změnil se v nasycení, mráz v milé teplo, ošumělý šat v přepychová roucha a lože z rohoží v postel z holandských látek; zasloužili si skutečně této odměny; ale porovnáme-li jejich útrapy s útrapami bojovníků, uvidíme, jak jsou nepatrné.“
+
+</section>

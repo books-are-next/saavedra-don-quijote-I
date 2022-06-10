@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Vtom se dal don Quijote do křiku:
 
@@ -62,3 +62,5 @@ Načež don Quijote odpověděl:
 „Nech to Pánu Bohu, Sancho,“ odpověděl don Quijote, „ať jí dá, co se jí nejlíp hodí. Ale neponižuj se tolik, aby ses spokojil s něčím menším než místodržitelstvím.“
 
 „Nebojte se, pane,“ odvětil Sancho, „tím spíše, že mám tak výborného pána ve Vaší Milosti, jež mi dokáže dát všechno, co se mi bude hodit a nač stačím.“
+
+</section>

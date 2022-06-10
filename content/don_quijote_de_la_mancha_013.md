@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Zarmoucen tímto pomyšlením, rychle ukončil svou hospodskou skrovnou večeři, zavolal hostinského, a zavřel se s ním ve stáji, kde vrhl se před ním na kolenase zvoláním:
 
@@ -50,3 +50,5 @@ Potom rozkázal jedné z ženských, aby ho mečem opásala, a holčice to učin
 Don Quijote se jí optal, jak se jmenuje, aby nadále věděl, komu je zavázán za prokázané dobrodiní, neboť mínil jí popřáti trochu ze slávy, jíž by silou svého ramene dobyl. Odvětila velmi poníženě, že se jmenuje Tolosa, že je dcerou příštipkáře původem z Toleda, že bydlí v krámkové čtvrti v Sancho Bienaji a že, kdekoli by se nalézala, je hotova ho poslouchat a mít za pána. Don Quijote odpověděl, aby pro lásku k němu svolila napříště se jmenovat doňa Tolosa. Slíbila mu to, a druhá mu připjala ostruhu: měl s ní téměř tutéž rozmluvu jako s první, tázal se jí po jménu a zjistil, že se jmenuje Molinera a je dcerou počestného mlynáře z Antequery. Také ji prosil don Quijote, aby se nazývala doňou Molinerou, a nabídl jí své služby a přízeň.
 
 Po kvapném skončení těch dosud nevídaných ceremonií don Quijote toužil už být zase na koni a vydat se za dobrodružstvím. Osedlal Rocinanta, vsedl na něj a objímaje hostitele, děkuje mu za pasování, řekl mu věci tak podivné, že není možno je vylíčit. Hospodský, toužil, aby již byl za vraty, odpověděl mu s nemenší výmluvností, ale kratšími slovy, a nesháněje se po zaplacení řádu, nechal jej odjet spánembohem.
+
+</section>

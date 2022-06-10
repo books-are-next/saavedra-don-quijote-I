@@ -3,7 +3,7 @@ title: KAPITOLA XIII\., kde se končí příběh pastýřky Marcely i jiné př�
 contentType: prose
 ---
 
-  
+<section>
 
 Ale sotva se den počal jasnit v oknech východu, pět nebo šest pastýřů se zvedlo a šlo probudit dona Quijota a říci mu, má-li ještě v úmyslu jít se podívat na slavný pohřeb Grisostomův, že by šli společně s ním. Don Quijote nepřál si nic jiného, vstal a poručil Sanchovi, aby ihned osedlal koně i osla, což se stalo velmi rychle, a stejně rychle dali se potom na cestu. A neušli ještě čtvrt míle, když na rozcestí spatřili ubírat se směrem k nim asi pět pastýřů oblečených v černých kožiších a s hlavami ověnčenými věnci z cypřiše a oleandru. Každý z nich měl v ruce silnou trnovou hůl. S nimi zároveň brali se koňmo dva šlechtici pěkně na cestu vystrojení s třemi dalšími pěšími sluhy. Když se sešli, pozdravili se zdvořile a otázali se jedni druhých na účel cesty; všichni mířili k místu pohřbu i dali se na další cestu společně.
 
@@ -93,3 +93,5 @@ Vivaldo, toužící zvědět, co listiny obsahují, otevřel jednu a uzřel, že
 „Toť poslední list, který nešťastník napsal, a abyste viděl, pane, jakých mezí dospělo jeho neštěstí, čtěte jej hlasitě, neboť máme dost času, než se dokope hrob.“
 
 „Velmi rád,“ pravil Vivaldo; a poněvadž všichni přítomní měli totéž přání, obklopili jej a on četl nahlas.
+
+</section>

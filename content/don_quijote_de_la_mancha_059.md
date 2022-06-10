@@ -5,7 +5,7 @@ title: >-
 contentType: prose
 ---
 
-  
+<section>
 
 Když don Quijote zpozoroval, že je naložen na volský povoz, pravil:
 
@@ -84,3 +84,5 @@ Neznám rytířské knihy, jejíž části by byly v ladu, vždy jsou sestaveny 
 Farář, který jej pozorně vyslechl, usoudil, že je to člověk moudrý; proto mu pravil, že s ním souhlasí a že z téhož důvodu spálil všechny knihy dona Quijota; sdělil mu, jak je posuzoval, které hodil do ohně, které spálil; kanovník se jeho vyprávěním bavil a poznamenal, že přese vše nalézá na nich přece něco dobrého, že totiž svou látkou dávají chytré hlavě možnost, aby na nich ukázala sílu fantazie, když líčí zápasy a bitvy, odvážného hrdinu, jeho vlastnosti, jednání, úskoky proti nepříteli, jeho výmluvnost, zralost úsudku a válečnou pohotovost; nebo popisují smutný případ nebo veselý, nezvyklý příběh, krásnou dámu, počestnou, moudrou a chytrou, křesťanského, dvorného rytíře nebo nevychovaného, drzého žvanila, zdvořilého, hrdinného a bystrého knížete, líčí dobrotu a poctivost zbrojnošů a ušlechtilou dobromyslnost pánů.
 
 Při tom má možnost ukázat svoje vědomosti hvězdářské, zeměpisné i hudební vzdělání, znalost státních poměrů a často má příležitost osvědčit své čarodějnické umění; může vypsat chytrost Odyseovu, zbožnost Eneášovu, odvahu Achillovu, nehodu Hektorovu, proradnost Simonovu, přátelství Euryalovo, štědrost Alexandrovu, odvážnost Caesarovu, trpělivost a opravdovost Trojánskou, oddanost Zopyrovu, chytrost Catonovu a vůbec všechny vlastnosti, které činí dobré muže dokonalými, buď že je dá jednomu, nebo rozdělí na několik částí; a vypráví-li slohem zábavným a vymyslí-li to chytře a pravděpodobně, utvoří čaloun utkaný z mnohých krásných pásem, který po svém dokončení bude dokonalý a půvabný, který nejenom pobaví, ale také poučí; tento nezávazný způsob psaní dává spisovateli možnost, aby ukázal, je-li epikem, lyrikem, tragikem, komikem nebo čím v nejkrásnější a nejsladší vědě básnické, poněvadž epos může být složen veršem i prózou.“
+
+</section>
