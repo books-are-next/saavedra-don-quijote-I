@@ -60,7 +60,7 @@
             "filename": "don_quijote_de_la_mancha_003.md",
             "xhtml": "don_quijote_de_la_mancha_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -70,7 +70,7 @@
             "filename": "don_quijote_de_la_mancha_004.md",
             "xhtml": "don_quijote_de_la_mancha_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -750,7 +750,7 @@
             "filename": "don_quijote_de_la_mancha_066.md",
             "xhtml": "don_quijote_de_la_mancha_066.html",
             "id": 65,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -1297,6 +1297,6 @@
       "user": "books-are-next",
       "repo": "saavedra-don-quijote-I"
     },
-    "generatedAt": 1655979566378
+    "generatedAt": 1657182412084
   }
 }

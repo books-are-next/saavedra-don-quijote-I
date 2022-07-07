@@ -76,7 +76,7 @@ readingOrder:
   - don_quijote_de_la_mancha_063.html
   - don_quijote_de_la_mancha_064.html
   - don_quijote_de_la_mancha_065.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

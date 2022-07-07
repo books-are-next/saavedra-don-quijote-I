@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-14cec35",
-  "revision": "14cec35",
+  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-980ed24",
+  "revision": "980ed24",
   "readingOrder": [
     "promo.html",
     "don_quijote_de_la_mancha_005.html",
@@ -73,11 +73,11 @@
     "don_quijote_de_la_mancha_063.html",
     "don_quijote_de_la_mancha_064.html",
     "don_quijote_de_la_mancha_065.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:25:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979912177
+    "date": "Thu Jul 07 2022 08:39:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183162014
   },
   "documents": [
     {
@@ -106,7 +106,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CERVANTES A JEHO DON QUIJOTE",
+          "name": "CERVANTES A JEHO DON QUIJOTE",
           "id": null,
           "children": []
         }
@@ -226,7 +226,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA I., jež líčí stav a působení slavného rytíře dona Quijota de la Mancha.",
+          "name": "KAPITOLA I., jež líčí stav a působení slavného rytíře dona Quijota de la Mancha.",
           "id": null,
           "children": []
         }
@@ -246,7 +246,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA II., jednající o tom, jak poprvé důmyslný don Quijote opustil domov.",
+          "name": "KAPITOLA II., jednající o tom, jak poprvé důmyslný don Quijote opustil domov.",
           "id": null,
           "children": []
         }
@@ -266,7 +266,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA III., kde se vypravuje, jakým půvabným způsobem byl don Quijote pasován na rytíře.",
+          "name": "KAPITOLA III., kde se vypravuje, jakým půvabným způsobem byl don Quijote pasován na rytíře.",
           "id": null,
           "children": []
         }
@@ -286,7 +286,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA IV. o tom, co se stalo našemu rytíři, když opustil hospodu.",
+          "name": "KAPITOLA IV. o tom, co se stalo našemu rytíři, když opustil hospodu.",
           "id": null,
           "children": []
         }
@@ -306,7 +306,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA V., kde se pokračuje v líčení nehod našeho rytíře.",
+          "name": "KAPITOLA V., kde se pokračuje v líčení nehod našeho rytíře.",
           "id": null,
           "children": []
         }
@@ -326,7 +326,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA VI. o vtipné velké přehlídce, již farář a holič vykonali v knihovně našeho důmyslného rytíře.",
+          "name": "KAPITOLA VI. o vtipné velké přehlídce, již farář a holič vykonali v knihovně našeho důmyslného rytíře.",
           "id": null,
           "children": []
         }
@@ -346,7 +346,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA VII. o druhé výpravě zdatného našeho rytíře dona Quijota de la Mancha.",
+          "name": "KAPITOLA VII. o druhé výpravě zdatného našeho rytíře dona Quijota de la Mancha.",
           "id": null,
           "children": []
         }
@@ -366,7 +366,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA VIII.  o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými mlýny a o jiných příhodách, hodných blahé paměti.",
+          "name": "KAPITOLA VIII.  o úspěchu dona Quijota v hrozném a neslýchaném dobrodružství s větrnými mlýny a o jiných příhodách, hodných blahé paměti.",
           "id": null,
           "children": []
         }
@@ -386,7 +386,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA IX., kde se vylíčí konec strašného boje, který svedli statný Biskajec a odvážný Manchan.",
+          "name": "KAPITOLA IX., kde se vylíčí konec strašného boje, který svedli statný Biskajec a odvážný Manchan.",
           "id": null,
           "children": []
         }
@@ -406,7 +406,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA X. o vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem.",
+          "name": "KAPITOLA X. o vtipném rozmlouvání dona Quijota se Sancho Panzou, jeho zbrojnošem.",
           "id": null,
           "children": []
         }
@@ -426,7 +426,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XI. o tom, co se donu Quijotovi stalo u pastýřů koz.",
+          "name": "KAPITOLA XI. o tom, co se donu Quijotovi stalo u pastýřů koz.",
           "id": null,
           "children": []
         }
@@ -446,7 +446,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XII. o tom, co vyprávěl pastýř společníkům dona Quijota.",
+          "name": "KAPITOLA XII. o tom, co vyprávěl pastýř společníkům dona Quijota.",
           "id": null,
           "children": []
         }
@@ -466,7 +466,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XIII., kde se končí příběh pastýřky Marcely i jiné příhody.",
+          "name": "KAPITOLA XIII., kde se končí příběh pastýřky Marcely i jiné příhody.",
           "id": null,
           "children": []
         }
@@ -486,7 +486,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XIV., kde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody.",
+          "name": "KAPITOLA XIV., kde se uvádějí zoufalé verše mrtvého pastýře i jiné nečekané příhody.",
           "id": null,
           "children": []
         }
@@ -506,7 +506,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XV. o nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských surovců.",
+          "name": "KAPITOLA XV. o nehodě, jež potkala dona Quijota, když cestou natrefil několik yanguesských surovců.",
           "id": null,
           "children": []
         }
@@ -526,7 +526,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XVI. o tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad.",
+          "name": "KAPITOLA XVI. o tom, co potkalo důmyslného rytíře v hospodě, již měl za hrad.",
           "id": null,
           "children": []
         }
@@ -546,7 +546,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XVII., kde se pokračuje v nesčetných svízelích statečného dona Quijota a dobrého zbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don Quijote měl za hrad.",
+          "name": "KAPITOLA XVII., kde se pokračuje v nesčetných svízelích statečného dona Quijota a dobrého zbrojnoše Sancha Panzy v hospodě, kterou na své neštěstí don Quijote měl za hrad.",
           "id": null,
           "children": []
         }
@@ -566,7 +566,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XVIII., kde se líčí rozmluva Sancha Panzy s jeho pánem donem Quijotem i jiná dobrodružství, hodná vypravování.",
+          "name": "KAPITOLA XVIII., kde se líčí rozmluva Sancha Panzy s jeho pánem donem Quijotem i jiná dobrodružství, hodná vypravování.",
           "id": null,
           "children": []
         }
@@ -586,7 +586,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XIX. o bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných slavných příbězích.",
+          "name": "KAPITOLA XIX. o bystrých hovorech Sancha s pánem, o příhodě s mrtvým a jiných slavných příbězích.",
           "id": null,
           "children": []
         }
@@ -606,7 +606,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XX.  o nevídaném a neslýchaném dobrodružství, jehož žádný slavný rytíř na světě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha.",
+          "name": "KAPITOLA XX.  o nevídaném a neslýchaném dobrodružství, jehož žádný slavný rytíř na světě nepodnikl s menším nebezpečím než statečný don Quijote de la Mancha.",
           "id": null,
           "children": []
         }
@@ -626,7 +626,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXI.,  jež jedná o skvostném dobrodružství, v němž dobyto slavné přilby Mambrinovy, a o jiných příhodách našeho nepřemožitelného rytíře.",
+          "name": "KAPITOLA XXI.,  jež jedná o skvostném dobrodružství, v němž dobyto slavné přilby Mambrinovy, a o jiných příhodách našeho nepřemožitelného rytíře.",
           "id": null,
           "children": []
         }
@@ -646,7 +646,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXII. o tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně vedli, kam se jim nechtělo.",
+          "name": "KAPITOLA XXII. o tom, jak don Quijote opatřil svobodu mnoha ubožákům, které násilně vedli, kam se jim nechtělo.",
           "id": null,
           "children": []
         }
@@ -666,7 +666,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXIII. o příhodě, jež potkala slavného dona Quijota v Sieře Moreně a jež je z nejzvláštnějších dobrodružství této pravdivé historie.",
+          "name": "KAPITOLA XXIII. o příhodě, jež potkala slavného dona Quijota v Sieře Moreně a jež je z nejzvláštnějších dobrodružství této pravdivé historie.",
           "id": null,
           "children": []
         }
@@ -686,7 +686,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXIV., kde se pokračuje v dobrodružství v Sieře Moreně.",
+          "name": "KAPITOLA XXIV., kde se pokračuje v dobrodružství v Sieře Moreně.",
           "id": null,
           "children": []
         }
@@ -706,7 +706,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXV., jednající o tom, co podivuhodného potkalo statečného rytíře z Manchy v Sieře Moreně, a o tom, jak napodobil pokání Beltenebrosovo.",
+          "name": "KAPITOLA XXV., jednající o tom, co podivuhodného potkalo statečného rytíře z Manchy v Sieře Moreně, a o tom, jak napodobil pokání Beltenebrosovo.",
           "id": null,
           "children": []
         }
@@ -726,7 +726,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXVI., kde se dále líčí, jakých kousků se don Quijote z lásky dopouštěl v Sieře Moreně.",
+          "name": "KAPITOLA XXVI., kde se dále líčí, jakých kousků se don Quijote z lásky dopouštěl v Sieře Moreně.",
           "id": null,
           "children": []
         }
@@ -746,7 +746,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXVII. o tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech, hodných, aby o nich tato velká historie vypravovala.",
+          "name": "KAPITOLA XXVII. o tom, jak uskutečnili farář a holič svůj úmysl, a o jiných věcech, hodných, aby o nich tato velká historie vypravovala.",
           "id": null,
           "children": []
         }
@@ -806,7 +806,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXVIII., jež líčí nové a příjemné dobrodružství, které potkalo faráře a holiče v horách.",
+          "name": "KAPITOLA XXVIII., jež líčí nové a příjemné dobrodružství, které potkalo faráře a holiče v horách.",
           "id": null,
           "children": []
         }
@@ -826,7 +826,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXIX., jež jedná o vtipné lsti a způsobu, jakými byl náš zamilovaný rytíř odlákán od překrutého pokání, jež si byl uložil.",
+          "name": "KAPITOLA XXIX., jež jedná o vtipné lsti a způsobu, jakými byl náš zamilovaný rytíř odlákán od překrutého pokání, jež si byl uložil.",
           "id": null,
           "children": []
         }
@@ -846,7 +846,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXX., jež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných věcech.",
+          "name": "KAPITOLA XXX., jež pojednává o moudrosti krásné Dorotey a jiných příjemných a zábavných věcech.",
           "id": null,
           "children": []
         }
@@ -866,7 +866,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXI. o půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a příhodách jiných.",
+          "name": "KAPITOLA XXXI. o půvabné rozmluvě dona Quijota se zbrojnošem Sanchem Panzou a příhodách jiných.",
           "id": null,
           "children": []
         }
@@ -886,7 +886,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXII., která jedná o příhodách dona Quijota a celé družiny v hospodě.",
+          "name": "KAPITOLA XXXII., která jedná o příhodách dona Quijota a celé družiny v hospodě.",
           "id": null,
           "children": []
         }
@@ -906,7 +906,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXIII., v níž se vypráví povídka o nevhodně zvědavém.",
+          "name": "KAPITOLA XXXIII., v níž se vypráví povídka o nevhodně zvědavém.",
           "id": null,
           "children": []
         }
@@ -926,7 +926,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXIV., v níž se pokračuje v povídce o nevhodné zvědavosti.",
+          "name": "KAPITOLA XXXIV., v níž se pokračuje v povídce o nevhodné zvědavosti.",
           "id": null,
           "children": []
         }
@@ -946,7 +946,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXV. o zápase statečného a odvážného dona Quijota s několika měchy vína a konec historie o nevhodně zvědavém.",
+          "name": "KAPITOLA XXXV. o zápase statečného a odvážného dona Quijota s několika měchy vína a konec historie o nevhodně zvědavém.",
           "id": null,
           "children": []
         }
@@ -966,7 +966,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXVI., vyprávějící jiné nezvyklé události, které se v hospodě přihodily.",
+          "name": "KAPITOLA XXXVI., vyprávějící jiné nezvyklé události, které se v hospodě přihodily.",
           "id": null,
           "children": []
         }
@@ -986,7 +986,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXVII. o slavné princezně Micomiconě a mnohých jiných veselých příbězích.",
+          "name": "KAPITOLA XXXVII. o slavné princezně Micomiconě a mnohých jiných veselých příbězích.",
           "id": null,
           "children": []
         }
@@ -1006,7 +1006,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXVIII. o zajímavé řeči dona Quijota o válečnictví a umění.",
+          "name": "KAPITOLA XXXVIII. o zajímavé řeči dona Quijota o válečnictví a umění.",
           "id": null,
           "children": []
         }
@@ -1026,7 +1026,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXIX., v níž otrok líčí svůj život a příhody.",
+          "name": "KAPITOLA XXXIX., v níž otrok líčí svůj život a příhody.",
           "id": null,
           "children": []
         }
@@ -1066,7 +1066,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLI. o dalších příhodách otrokových.",
+          "name": "KAPITOLA XLI. o dalších příhodách otrokových.",
           "id": null,
           "children": []
         }
@@ -1086,7 +1086,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLII. o dalších příhodách v hospodě a o jiných důležitých událostech.",
+          "name": "KAPITOLA XLII. o dalších příhodách v hospodě a o jiných důležitých událostech.",
           "id": null,
           "children": []
         }
@@ -1106,7 +1106,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLIII. o roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě zběhly.",
+          "name": "KAPITOLA XLIII. o roztomilém příběhu mezkaře a jiných divných událostech, které se v hospodě zběhly.",
           "id": null,
           "children": []
         }
@@ -1126,7 +1126,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLIV. o dalších neslýchaných příhodách v hospodě.",
+          "name": "KAPITOLA XLIV. o dalších neslýchaných příhodách v hospodě.",
           "id": null,
           "children": []
         }
@@ -1146,7 +1146,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLV. o pochybách týkajících se Mambrinovy helmy a soumarského sedla; vypravují se také jiné příběhy pravdivě, jak se udály.",
+          "name": "KAPITOLA XLV. o pochybách týkajících se Mambrinovy helmy a soumarského sedla; vypravují se také jiné příběhy pravdivě, jak se udály.",
           "id": null,
           "children": []
         }
@@ -1166,7 +1166,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLVI. o znamenitém dobrodružství biřiců a o velké zuřivosti našeho zábavného rytíře dona Quijota.",
+          "name": "KAPITOLA XLVI. o znamenitém dobrodružství biřiců a o velké zuřivosti našeho zábavného rytíře dona Quijota.",
           "id": null,
           "children": []
         }
@@ -1186,7 +1186,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLVII. o podivném začarování dona Quijota a jiných zajímavých příhodách.",
+          "name": "KAPITOLA XLVII. o podivném začarování dona Quijota a jiných zajímavých příhodách.",
           "id": null,
           "children": []
         }
@@ -1206,7 +1206,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLVIII. o jiných názorech kanovníkových, týkajících se rytířských knih, a o věcech dalších, jeho rozumu hodných.",
+          "name": "KAPITOLA XLVIII. o jiných názorech kanovníkových, týkajících se rytířských knih, a o věcech dalších, jeho rozumu hodných.",
           "id": null,
           "children": []
         }
@@ -1226,7 +1226,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLIX., kde běží o moudrý rozhovor Sancha Panzy s jeho pánem.",
+          "name": "KAPITOLA XLIX., kde běží o moudrý rozhovor Sancha Panzy s jeho pánem.",
           "id": null,
           "children": []
         }
@@ -1246,7 +1246,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA L. o vtipném sporu dona Quijota s kanovníkem a jiných událostech.",
+          "name": "KAPITOLA L. o vtipném sporu dona Quijota s kanovníkem a jiných událostech.",
           "id": null,
           "children": []
         }
@@ -1266,7 +1266,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LI. o vyprávění pastevcově průvodcům dona Quijota.",
+          "name": "KAPITOLA LI. o vyprávění pastevcově průvodcům dona Quijota.",
           "id": null,
           "children": []
         }
@@ -1286,7 +1286,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LII. o při dona Quijota s pastevcem a o neslýchaném dobrodružství s kajícníky; které šťastně dopadlo, ač se velice unavil",
+          "name": "KAPITOLA LII. o při dona Quijota s pastevcem a o neslýchaném dobrodružství s kajícníky; které šťastně dopadlo, ač se velice unavil",
           "id": null,
           "children": []
         }
@@ -1301,7 +1301,7 @@
       "role": "chapter",
       "order": 61,
       "prev": "don_quijote_de_la_mancha_064.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1314,11 +1314,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 161,
-      "chars": 1051,
+      "chars": 1050,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "don_quijote_de_la_mancha_065.html",
       "next": null,
@@ -1335,8 +1335,8 @@
   ],
   "totals": {
     "all": {
-      "words": 141410,
-      "chars": 834600,
+      "words": 141408,
+      "chars": 834609,
       "ideas": 2876
     },
     "chapters": {
