@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-348b2e6",
-  "revision": "348b2e6",
+  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-15b607e",
+  "revision": "15b607e",
   "readingOrder": [
     "promo.html",
     "don_quijote_de_la_mancha_005.html",
@@ -76,8 +76,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:45:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414700334
+    "date": "Thu Sep 29 2022 21:34:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487289806
   },
   "documents": [
     {
@@ -95,9 +95,9 @@
     {
       "title": "CERVANTES A JEHO DON QUIJOTE",
       "file": "don_quijote_de_la_mancha_005.html",
-      "words": 7103,
-      "chars": 45656,
-      "ideas": 36,
+      "words": 7520,
+      "chars": 48243,
+      "ideas": 37,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -1295,9 +1295,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "don_quijote_de_la_mancha_065.html",
-      "words": 420,
-      "chars": 2608,
-      "ideas": 2,
+      "words": 837,
+      "chars": 5195,
+      "ideas": 3,
       "role": "chapter",
       "order": 61,
       "prev": "don_quijote_de_la_mancha_064.html",
@@ -1315,9 +1315,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 161,
-      "chars": 1051,
-      "ideas": 16,
+      "words": 152,
+      "chars": 1008,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "don_quijote_de_la_mancha_065.html",
@@ -1335,14 +1335,14 @@
   ],
   "totals": {
     "all": {
-      "words": 141410,
-      "chars": 834600,
-      "ideas": 2876
+      "words": 142235,
+      "chars": 839731,
+      "ideas": 2877
     },
     "chapters": {
-      "words": 141235,
-      "chars": 833469,
-      "ideas": 2856
+      "words": 142069,
+      "chars": 838643,
+      "ideas": 2858
     }
   }
 }
