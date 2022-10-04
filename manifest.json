@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-c3da860",
-  "revision": "c3da860",
+  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-i-170961f",
+  "revision": "170961f",
   "readingOrder": [
     "promo.html",
     "don_quijote_de_la_mancha_005.html",
@@ -76,8 +76,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:03:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640210957
+    "date": "Tue Oct 04 2022 16:52:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902323982
   },
   "documents": [
     {
@@ -1315,9 +1315,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 152,
+      "words": 151,
       "chars": 1008,
-      "ideas": 15,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "don_quijote_de_la_mancha_065.html",
@@ -1335,9 +1335,9 @@
   ],
   "totals": {
     "all": {
-      "words": 142235,
+      "words": 142234,
       "chars": 839731,
-      "ideas": 2877
+      "ideas": 2876
     },
     "chapters": {
       "words": 142069,
